@@ -1,6 +1,6 @@
 # Awesome-llm-and-aigc with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 542,539 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 543,047 | 🐛 103 | 📅 2026-09-02
 
 🚀🚀🚀 This repository lists some awesome public projects about Large Language Model(LLM), Vision Language Model(VLM), Vision Language Action(VLA), AI Generated Content(AIGC), the related Datasets and Applications.
 
@@ -93,79 +93,79 @@
 
       ###### 神经网络架构
 
-      * [FlashAttention](https://github.com/Dao-AILab/flash-attention) ⭐ 25,343 | 🐛 1,425 | 🌐 Python | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/Dao-AILab/flash-attention?style=social"/> : Fast and memory-efficient exact attention. "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness". (**[arXiv 2022](https://arxiv.org/abs/2205.14135)**).
+      * [FlashAttention](https://github.com/Dao-AILab/flash-attention) ⭐ 25,350 | 🐛 1,425 | 🌐 Python | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/Dao-AILab/flash-attention?style=social"/> : Fast and memory-efficient exact attention. "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness". (**[arXiv 2022](https://arxiv.org/abs/2205.14135)**).
 
       * [Transformer](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/transformer.py) ⚠️ Archived <img src="https://img.shields.io/github/stars/tensorflow/tensor2tensor?style=social"/> : "Attention is All You Need". (**[arXiv 2017](https://arxiv.org/abs/1706.03762)**).
 
-      * [KAN](https://github.com/KindXiaoming/pykan) ⭐ 16,344 | 🐛 265 | 🌐 Jupyter Notebook | 📅 2025-01-19 <img src="https://img.shields.io/github/stars/KindXiaoming/pykan?style=social"/> : "KAN: Kolmogorov-Arnold Networks". (**[arXiv 2024](https://arxiv.org/abs/2404.19756)**).
+      * [KAN](https://github.com/KindXiaoming/pykan) ⭐ 16,346 | 🐛 265 | 🌐 Jupyter Notebook | 📅 2025-01-19 <img src="https://img.shields.io/github/stars/KindXiaoming/pykan?style=social"/> : "KAN: Kolmogorov-Arnold Networks". (**[arXiv 2024](https://arxiv.org/abs/2404.19756)**).
 
     * ##### Large Language Model
 
       ###### 大语言模型（LLM）
 
-      * [Whisper](https://github.com/openai/whisper) ⭐ 113,472 | 🐛 187 | 🌐 Python | 📅 2026-08-31 <img src="https://img.shields.io/github/stars/openai/whisper?style=social"/> : Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification. "Robust Speech Recognition via Large-Scale Weak Supervision". (**[arXiv 2022](https://arxiv.org/abs/2212.04356)**).
+      * [Whisper](https://github.com/openai/whisper) ⭐ 113,566 | 🐛 187 | 🌐 Python | 📅 2026-08-31 <img src="https://img.shields.io/github/stars/openai/whisper?style=social"/> : Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification. "Robust Speech Recognition via Large-Scale Weak Supervision". (**[arXiv 2022](https://arxiv.org/abs/2212.04356)**).
 
-      * [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ⭐ 104,900 | 🐛 340 | 🌐 Python | 📅 2025-08-28 <img src="https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=social"/> : "DeepSeek-V3 Technical Report". (**[arXiv 2024](https://arxiv.org/abs/2412.19437)**).
+      * [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ⭐ 104,914 | 🐛 344 | 🌐 Python | 📅 2025-08-28 <img src="https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=social"/> : "DeepSeek-V3 Technical Report". (**[arXiv 2024](https://arxiv.org/abs/2412.19437)**).
 
-      * [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) ⭐ 92,051 | 🐛 46 | 📅 2025-06-27 <img src="https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1?style=social"/> : "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning". (**[arXiv 2025](https://arxiv.org/abs/2501.12948)**).
+      * [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) ⭐ 92,060 | 🐛 46 | 📅 2025-06-27 <img src="https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1?style=social"/> : "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning". (**[arXiv 2025](https://arxiv.org/abs/2501.12948)**).
 
-      * [GPT4All](https://github.com/nomic-ai/gpt4all) ⭐ 77,334 | 🐛 772 | 🌐 C++ | 📅 2025-05-27 <img src="https://img.shields.io/github/stars/nomic-ai/gpt4all?style=social"/> : GPT4All: An ecosystem of open-source on-edge large language models. GTP4All is an ecosystem to train and deploy powerful and customized large language models that run locally on consumer grade CPUs.
+      * [GPT4All](https://github.com/nomic-ai/gpt4all) ⭐ 77,346 | 🐛 772 | 🌐 C++ | 📅 2025-05-27 <img src="https://img.shields.io/github/stars/nomic-ai/gpt4all?style=social"/> : GPT4All: An ecosystem of open-source on-edge large language models. GTP4All is an ecosystem to train and deploy powerful and customized large language models that run locally on consumer grade CPUs.
 
-      * [nanoGPT](https://github.com/karpathy/nanoGPT) ⭐ 65,064 | 🐛 368 | 🌐 Python | 📅 2025-11-12 <img src="https://img.shields.io/github/stars/karpathy/nanoGPT?style=social"/> : The simplest, fastest repository for training/finetuning medium-sized GPTs.
+      * [nanoGPT](https://github.com/karpathy/nanoGPT) ⭐ 65,095 | 🐛 368 | 🌐 Python | 📅 2025-11-12 <img src="https://img.shields.io/github/stars/karpathy/nanoGPT?style=social"/> : The simplest, fastest repository for training/finetuning medium-sized GPTs.
 
-      * [Llama 2](https://github.com/facebookresearch/llama) ⭐ 59,649 | 🐛 537 | 🌐 Python | 📅 2025-01-26 <img src="https://img.shields.io/github/stars/facebookresearch/llama?style=social"/> : Inference code for LLaMA models. "LLaMA: Open and Efficient Foundation Language Models". (**[arXiv 2023](https://arxiv.org/abs/2302.13971)**). "Llama 2: Open Foundation and Fine-Tuned Chat Models". (**[ai.meta.com, 2023-07-18](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)**). (**[2023-07-18, Llama 2 is here - get it on Hugging Face](https://huggingface.co/blog/llama2)**).
+      * [Llama 2](https://github.com/facebookresearch/llama) ⭐ 59,653 | 🐛 537 | 🌐 Python | 📅 2025-01-26 <img src="https://img.shields.io/github/stars/facebookresearch/llama?style=social"/> : Inference code for LLaMA models. "LLaMA: Open and Efficient Foundation Language Models". (**[arXiv 2023](https://arxiv.org/abs/2302.13971)**). "Llama 2: Open Foundation and Fine-Tuned Chat Models". (**[ai.meta.com, 2023-07-18](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)**). (**[2023-07-18, Llama 2 is here - get it on Hugging Face](https://huggingface.co/blog/llama2)**).
 
       * [GPT-Engineer](https://github.com/AntonOsika/gpt-engineer) ⚠️ Archived <img src="https://img.shields.io/github/stars/AntonOsika/gpt-engineer?style=social"/> : Specify what you want it to build, the AI asks for clarification, and then builds it. GPT Engineer is made to be easy to adapt, extend, and make your agent learn how you want your code to look. It generates an entire codebase based on a prompt.
 
-      * [Grok-1](https://github.com/xai-org/grok-1) ⭐ 52,250 | 🐛 125 | 🌐 Python | 📅 2024-08-30 <img src="https://img.shields.io/github/stars/xai-org/grok-1?style=social"/> : This repository contains JAX example code for loading and running the Grok-1 open-weights model.
+      * [Grok-1](https://github.com/xai-org/grok-1) ⭐ 52,251 | 🐛 125 | 🌐 Python | 📅 2024-08-30 <img src="https://img.shields.io/github/stars/xai-org/grok-1?style=social"/> : This repository contains JAX example code for loading and running the Grok-1 open-weights model.
 
-      * [Colossal-AI](https://github.com/hpcaitech/ColossalAI) ⭐ 41,424 | 🐛 359 | 🌐 Python | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social"/> : Making big AI models cheaper, easier, and scalable. [www.colossalai.org](www.colossalai.org). "Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training". (**[arXiv 2021](https://arxiv.org/abs/2110.14883)**).
+      * [Colossal-AI](https://github.com/hpcaitech/ColossalAI) ⭐ 41,426 | 🐛 360 | 🌐 Python | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social"/> : Making big AI models cheaper, easier, and scalable. [www.colossalai.org](www.colossalai.org). "Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training". (**[arXiv 2021](https://arxiv.org/abs/2110.14883)**).
 
-      * [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,837 | 🐛 609 | 🌐 Python | 📅 2024-06-27 <img src="https://img.shields.io/github/stars/THUDM/ChatGLM-6B?style=social"/> : ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型。 ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型，基于 [General Language Model (GLM)](https://github.com/THUDM/GLM) ⭐ 3,701 | 🐛 119 | 🌐 Python | 📅 2023-11-03 架构，具有 62 亿参数。 "GLM: General Language Model Pretraining with Autoregressive Blank Infilling". (**[ACL 2022](https://aclanthology.org/2022.acl-long.26/)**).  "GLM-130B: An Open Bilingual Pre-trained Model". (**[ICLR 2023](https://openreview.net/forum?id=-Aw0rrrPUF)**).
+      * [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,841 | 🐛 609 | 🌐 Python | 📅 2024-06-27 <img src="https://img.shields.io/github/stars/THUDM/ChatGLM-6B?style=social"/> : ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型。 ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型，基于 [General Language Model (GLM)](https://github.com/THUDM/GLM) ⭐ 3,701 | 🐛 119 | 🌐 Python | 📅 2023-11-03 架构，具有 62 亿参数。 "GLM: General Language Model Pretraining with Autoregressive Blank Infilling". (**[ACL 2022](https://aclanthology.org/2022.acl-long.26/)**).  "GLM-130B: An Open Bilingual Pre-trained Model". (**[ICLR 2023](https://openreview.net/forum?id=-Aw0rrrPUF)**).
 
-      * [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) ⭐ 30,221 | 🐛 186 | 🌐 Python | 📅 2024-07-17 <img src="https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca?style=social"/> : Stanford Alpaca: An Instruction-following LLaMA Model.
+      * [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) ⭐ 30,222 | 🐛 186 | 🌐 Python | 📅 2024-07-17 <img src="https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca?style=social"/> : Stanford Alpaca: An Instruction-following LLaMA Model.
 
       * [Llama 3](https://github.com/meta-llama/llama3) ⚠️ Archived <img src="https://img.shields.io/github/stars/meta-llama/llama3?style=social"/> : The official Meta Llama 3 GitHub site.
 
-      * [Qwen3](https://github.com/QwenLM/Qwen3) ⭐ 27,770 | 🐛 72 | 🌐 Python | 📅 2026-01-09 <img src="https://img.shields.io/github/stars/QwenLM/Qwen3?style=social"/> : Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud. "Qwen3: Think Deeper, Act Faster". (**[Qwen Blog](https://qwenlm.github.io/blog/qwen3/)**). "Qwen2.5 Technical Report". (**[arXiv 2024](https://arxiv.org/abs/2412.15115)**). "Qwen2 Technical Report". (**[arXiv 2024](https://arxiv.org/abs/2407.10671)**).
+      * [Qwen3](https://github.com/QwenLM/Qwen3) ⭐ 27,775 | 🐛 72 | 🌐 Python | 📅 2026-01-09 <img src="https://img.shields.io/github/stars/QwenLM/Qwen3?style=social"/> : Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud. "Qwen3: Think Deeper, Act Faster". (**[Qwen Blog](https://qwenlm.github.io/blog/qwen3/)**). "Qwen2.5 Technical Report". (**[arXiv 2024](https://arxiv.org/abs/2412.15115)**). "Qwen2 Technical Report". (**[arXiv 2024](https://arxiv.org/abs/2407.10671)**).
 
-      * [Open R1](https://github.com/huggingface/open-r1) ⭐ 26,489 | 🐛 1 | 🌐 Python | 📅 2026-10-26 <img src="https://img.shields.io/github/stars/huggingface/open-r1?style=social"/> : Fully open reproduction of [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) ⭐ 92,051 | 🐛 46 | 📅 2025-06-27.
+      * [Open R1](https://github.com/huggingface/open-r1) ⭐ 26,489 | 🐛 1 | 🌐 Python | 📅 2026-10-26 <img src="https://img.shields.io/github/stars/huggingface/open-r1?style=social"/> : Fully open reproduction of [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) ⭐ 92,060 | 🐛 46 | 📅 2025-06-27.
 
-      * [JARVIS](https://github.com/microsoft/JARVIS) ⭐ 25,781 | 🐛 4,332 | 🌐 Python | 📅 2025-07-29 <img src="https://img.shields.io/github/stars/microsoft/JARVIS?style=social"/> : JARVIS, a system to connect LLMs with ML community. "HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace". (**[arXiv 2023](https://arxiv.org/abs/2303.17580)**).
+      * [JARVIS](https://github.com/microsoft/JARVIS) ⭐ 25,785 | 🐛 4,338 | 🌐 Python | 📅 2025-07-29 <img src="https://img.shields.io/github/stars/microsoft/JARVIS?style=social"/> : JARVIS, a system to connect LLMs with ML community. "HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace". (**[arXiv 2023](https://arxiv.org/abs/2303.17580)**).
 
-      * [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) ⭐ 25,552 | 🐛 375 | 🌐 Python | 📅 2024-09-02 <img src="https://img.shields.io/github/stars/Vision-CAIR/MiniGPT-4?style=social"/> : MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models. [minigpt-4.github.io](https://minigpt-4.github.io/)
+      * [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) ⭐ 25,553 | 🐛 375 | 🌐 Python | 📅 2024-09-02 <img src="https://img.shields.io/github/stars/Vision-CAIR/MiniGPT-4?style=social"/> : MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models. [minigpt-4.github.io](https://minigpt-4.github.io/)
 
-      * [minGPT](https://github.com/karpathy/minGPT) ⭐ 25,055 | 🐛 83 | 🌐 Python | 📅 2024-08-15 <img src="https://img.shields.io/github/stars/karpathy/minGPT?style=social"/> : A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training.
+      * [minGPT](https://github.com/karpathy/minGPT) ⭐ 25,061 | 🐛 83 | 🌐 Python | 📅 2024-08-15 <img src="https://img.shields.io/github/stars/karpathy/minGPT?style=social"/> : A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training.
 
       * [GPT-2](https://github.com/openai/gpt-2) ⚠️ Archived <img src="https://img.shields.io/github/stars/openai/gpt-2?style=social"/> : "Language Models are Unsupervised Multitask Learners". (**[OpenAI blog, 2019](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)**). [Better language models and their implications](https://openai.com/research/better-language-models).
 
-      * [Qwen（通义千问）](https://github.com/QwenLM/Qwen) ⭐ 22,078 | 🐛 38 | 🌐 Python | 📅 2026-03-05 <img src="https://img.shields.io/github/stars/QwenLM/Qwen?style=social"/> : The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
+      * [Qwen（通义千问）](https://github.com/QwenLM/Qwen) ⭐ 22,082 | 🐛 37 | 🌐 Python | 📅 2026-03-05 <img src="https://img.shields.io/github/stars/QwenLM/Qwen?style=social"/> : The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
 
-      * [Chinese LLaMA and Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) ⭐ 18,912 | 🐛 5 | 🌐 Python | 📅 2026-04-19 <img src="https://img.shields.io/github/stars/ymcui/Chinese-LLaMA-Alpaca?style=social"/> : 中文LLaMA\&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)。"Efficient and Effective Text Encoding for Chinese LLaMA and Alpaca". (**[arXiv 2023](https://arxiv.org/abs/2304.08177)**).
+      * [Chinese LLaMA and Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) ⭐ 18,914 | 🐛 5 | 🌐 Python | 📅 2026-04-19 <img src="https://img.shields.io/github/stars/ymcui/Chinese-LLaMA-Alpaca?style=social"/> : 中文LLaMA\&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)。"Efficient and Effective Text Encoding for Chinese LLaMA and Alpaca". (**[arXiv 2023](https://arxiv.org/abs/2304.08177)**).
 
       * [ChatALL](https://github.com/sunner/ChatALL) ⚠️ Archived <img src="https://img.shields.io/github/stars/sunner/ChatALL?style=social"/> :  Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers. [chatall.ai](http://chatall.ai/)
 
       * [GPT-3](https://github.com/openai/gpt-3) ⚠️ Archived <img src="https://img.shields.io/github/stars/openai/gpt-3?style=social"/> : "GPT-3: Language Models are Few-Shot Learners". (**[arXiv 2020](https://arxiv.org/abs/2005.14165)**).
 
-      * [StableLM](https://github.com/Stability-AI/StableLM) ⭐ 15,649 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2024-04-08 <img src="https://img.shields.io/github/stars/Stability-AI/StableLM?style=social"/> : StableLM: Stability AI Language Models.
+      * [StableLM](https://github.com/Stability-AI/StableLM) ⭐ 15,650 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2024-04-08 <img src="https://img.shields.io/github/stars/Stability-AI/StableLM?style=social"/> : StableLM: Stability AI Language Models.
 
       * [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) ⭐ 15,473 | 🐛 449 | 🌐 Python | 📅 2024-06-27 <img src="https://img.shields.io/github/stars/THUDM/ChatGLM2-6B?style=social"/> : ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型。ChatGLM2-6B 是开源中英双语对话模型 ChatGLM-6B 的第二代版本，在保留了初代模型对话流畅、部署门槛较低等众多优秀特性的基础之上，ChatGLM2-6B 引入了更强大的性能、更强大的性能、更高效的推理、更开放的协议。
 
-      * [FlagAlpha/Llama2-Chinese](https://github.com/FlagAlpha/Llama2-Chinese) ⭐ 14,757 | 🐛 196 | 🌐 Python | 📅 2025-04-06 <img src="https://img.shields.io/github/stars/FlagAlpha/Llama2-Chinese?style=social"/> : Llama中文社区，最好的中文Llama大模型，完全开源可商用。
+      * [FlagAlpha/Llama2-Chinese](https://github.com/FlagAlpha/Llama2-Chinese) ⭐ 14,756 | 🐛 196 | 🌐 Python | 📅 2025-04-06 <img src="https://img.shields.io/github/stars/FlagAlpha/Llama2-Chinese?style=social"/> : Llama中文社区，最好的中文Llama大模型，完全开源可商用。
 
-      * [ChatGLM3](https://github.com/THUDM/ChatGLM3) ⭐ 13,627 | 🐛 37 | 🌐 Python | 📅 2025-01-13 <img src="https://img.shields.io/github/stars/THUDM/ChatGLM3?style=social"/> : ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型。
+      * [ChatGLM3](https://github.com/THUDM/ChatGLM3) ⭐ 13,628 | 🐛 37 | 🌐 Python | 📅 2025-01-13 <img src="https://img.shields.io/github/stars/THUDM/ChatGLM3?style=social"/> : ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型。
 
-      * [TinyZero](https://github.com/Jiayi-Pan/TinyZero) ⭐ 13,263 | 🐛 83 | 🌐 Python | 📅 2026-02-27 <img src="https://img.shields.io/github/stars/Jiayi-Pan/TinyZero?style=social"/> : Clean, minimal, accessible reproduction of DeepSeek R1-Zero. TinyZero is a reproduction of [DeepSeek R1 Zero](https://github.com/deepseek-ai/DeepSeek-R1) ⭐ 92,051 | 🐛 46 | 📅 2025-06-27 in countdown and multiplication tasks. We built upon [veRL](https://github.com/volcengine/verl) ⭐ 24,348 | 🐛 1,560 | 🌐 Python | 📅 2026-11-25.
+      * [TinyZero](https://github.com/Jiayi-Pan/TinyZero) ⭐ 13,263 | 🐛 83 | 🌐 Python | 📅 2026-02-27 <img src="https://img.shields.io/github/stars/Jiayi-Pan/TinyZero?style=social"/> : Clean, minimal, accessible reproduction of DeepSeek R1-Zero. TinyZero is a reproduction of [DeepSeek R1 Zero](https://github.com/deepseek-ai/DeepSeek-R1) ⭐ 92,060 | 🐛 46 | 📅 2025-06-27 in countdown and multiplication tasks. We built upon [veRL](https://github.com/volcengine/verl) ⭐ 24,361 | 🐛 1,562 | 🌐 Python | 📅 2026-11-26.
 
       * [MOSS](https://github.com/OpenLMLab/MOSS) ⭐ 12,386 | 🐛 244 | 🌐 Python | 📅 2026-09-06 <img src="https://img.shields.io/github/stars/OpenLMLab/MOSS?style=social"/> : An open-source tool-augmented conversational language model from Fudan University. MOSS是一个支持中英双语和多种插件的开源对话语言模型，moss-moon系列模型具有160亿参数，在FP16精度下可在单张A100/A800或两张3090显卡运行，在INT4/8精度下可在单张3090显卡运行。MOSS基座语言模型在约七千亿中英文以及代码单词上预训练得到，后续经过对话指令微调、插件增强学习和人类偏好训练具备多轮对话能力及使用多种插件的能力。[txsun1997.github.io/blogs/moss.html](https://txsun1997.github.io/blogs/moss.html)
 
       * [WorkGPT](https://github.com/h2oai/h2ogpt) ⚠️ Archived <img src="https://img.shields.io/github/stars/h2oai/h2ogpt?style=social"/> : WorkGPT is an agent framework in a similar fashion to AutoGPT or LangChain.
 
-      * [Dolly](https://github.com/databrickslabs/dolly) ⭐ 10,805 | 🐛 5 | 🌐 Python | 📅 2023-06-30 <img src="https://img.shields.io/github/stars/databrickslabs/dolly?style=social"/> : Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform. [Hello Dolly: Democratizing the magic of ChatGPT with open models](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html)
+      * [Dolly](https://github.com/databrickslabs/dolly) ⭐ 10,806 | 🐛 5 | 🌐 Python | 📅 2023-06-30 <img src="https://img.shields.io/github/stars/databrickslabs/dolly?style=social"/> : Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform. [Hello Dolly: Democratizing the magic of ChatGPT with open models](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html)
 
-      * [xorbitsai/inference](https://github.com/xorbitsai/inference) ⭐ 9,669 | 🐛 41 | 🌐 Python | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/xorbitsai/inference?style=social"/> : Xorbits Inference (Xinference) is a powerful and versatile library designed to serve LLMs, speech recognition models, and multimodal models, even on your laptop. It supports a variety of models compatible with GGML, such as llama, chatglm, baichuan, whisper, vicuna, orac, and many others.
+      * [xorbitsai/inference](https://github.com/xorbitsai/inference) ⭐ 9,674 | 🐛 52 | 🌐 Python | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/xorbitsai/inference?style=social"/> : Xorbits Inference (Xinference) is a powerful and versatile library designed to serve LLMs, speech recognition models, and multimodal models, even on your laptop. It supports a variety of models compatible with GGML, such as llama, chatglm, baichuan, whisper, vicuna, orac, and many others.
 
-      * [LMFlow](https://github.com/OptimalScale/LMFlow) ⭐ 8,483 | 🐛 87 | 🌐 Python | 📅 2026-08-10 <img src="https://img.shields.io/github/stars/OptimalScale/LMFlow?style=social"/> : An extensible, convenient, and efficient toolbox for finetuning large machine learning models, designed to be user-friendly, speedy and reliable, and accessible to the entire community. Large Language Model for All. [optimalscale.github.io/LMFlow/](https://optimalscale.github.io/LMFlow/)
+      * [LMFlow](https://github.com/OptimalScale/LMFlow) ⭐ 8,484 | 🐛 87 | 🌐 Python | 📅 2026-08-10 <img src="https://img.shields.io/github/stars/OptimalScale/LMFlow?style=social"/> : An extensible, convenient, and efficient toolbox for finetuning large machine learning models, designed to be user-friendly, speedy and reliable, and accessible to the entire community. Large Language Model for All. [optimalscale.github.io/LMFlow/](https://optimalscale.github.io/LMFlow/)
 
       * [GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese) ⭐ 7,596 | 🐛 108 | 🌐 Python | 📅 2024-04-25 <img src="https://img.shields.io/github/stars/Morizeyao/GPT2-Chinese?style=social"/> : Chinese version of GPT2 training code, using BERT tokenizer.
 
@@ -173,25 +173,25 @@
 
       * [Chinese-LLaMA-Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2) ⭐ 7,100 | 🐛 6 | 🌐 Python | 📅 2026-04-19 <img src="https://img.shields.io/github/stars/ymcui/Chinese-LLaMA-Alpaca-2?style=social"/> : 中文 LLaMA-2 & Alpaca-2 大模型二期项目 (Chinese LLaMA-2 & Alpaca-2 LLMs).
 
-      * [Liger-Kernel](https://github.com/linkedin/Liger-Kernel) ⭐ 6,714 | 🐛 269 | 🌐 Python | 📅 2026-11-21 <img src="https://img.shields.io/github/stars/linkedin/Liger-Kernel?style=social"/> : Efficient Triton Kernels for LLM Training. [arxiv.org/pdf/2410.10989](https://arxiv.org/pdf/2410.10989)
+      * [Liger-Kernel](https://github.com/linkedin/Liger-Kernel) ⭐ 6,712 | 🐛 273 | 🌐 Python | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/linkedin/Liger-Kernel?style=social"/> : Efficient Triton Kernels for LLM Training. [arxiv.org/pdf/2410.10989](https://arxiv.org/pdf/2410.10989)
 
       * [Lit-LLaMA](https://github.com/Lightning-AI/lit-llama) ⭐ 6,077 | 🐛 106 | 🌐 Python | 📅 2025-07-01 <img src="https://img.shields.io/github/stars/Lightning-AI/lit-llama?style=social"/> : ⚡ Lit-LLaMA. Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
 
-      * [DeepScaleR](https://github.com/agentica-project/deepscaler) ⭐ 5,934 | 🐛 207 | 🌐 Python | 📅 2026-10-16 <img src="https://img.shields.io/github/stars/agentica-project/deepscaler?style=social"/> : Democratizing Reinforcement Learning for LLMs. [www.agentica-project.com](https://www.agentica-project.com/). ["DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL"](https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2)
+      * [DeepScaleR](https://github.com/agentica-project/deepscaler) ⭐ 5,934 | 🐛 208 | 🌐 Python | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/agentica-project/deepscaler?style=social"/> : Democratizing Reinforcement Learning for LLMs. [www.agentica-project.com](https://www.agentica-project.com/). ["DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL"](https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2)
 
       * [LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter) ⭐ 5,909 | 🐛 112 | 🌐 Python | 📅 2024-03-14 <img src="https://img.shields.io/github/stars/OpenGVLab/LLaMA-Adapter?style=social"/> : Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters. LLaMA-Adapter: Efficient Fine-tuning of LLaMA 🚀
 
       * [Gemma](https://github.com/google/gemma_pytorch) ⚠️ Archived <img src="https://img.shields.io/github/stars/google/gemma_pytorch?style=social"/> : The official PyTorch implementation of Google's Gemma models. [ai.google.dev/gemma](https://ai.google.dev/gemma)
 
-      * [Baichuan-7B（百川-7B）](https://github.com/baichuan-inc/Baichuan-7B) ⭐ 5,645 | 🐛 88 | 🌐 Python | 📅 2024-07-18 <img src="https://img.shields.io/github/stars/baichuan-inc/Baichuan-7B?style=social"/> : A large-scale 7B pretraining language model developed by BaiChuan-Inc. Baichuan-7B 是由百川智能开发的一个开源可商用的大规模预训练语言模型。基于 Transformer 结构，在大约 1.2 万亿 tokens 上训练的 70 亿参数模型，支持中英双语，上下文窗口长度为 4096。在标准的中文和英文 benchmark（C-Eval/MMLU）上均取得同尺寸最好的效果。[huggingface.co/baichuan-inc/baichuan-7B](https://huggingface.co/baichuan-inc/Baichuan-7B)
+      * [Baichuan-7B（百川-7B）](https://github.com/baichuan-inc/Baichuan-7B) ⭐ 5,646 | 🐛 88 | 🌐 Python | 📅 2024-07-18 <img src="https://img.shields.io/github/stars/baichuan-inc/Baichuan-7B?style=social"/> : A large-scale 7B pretraining language model developed by BaiChuan-Inc. Baichuan-7B 是由百川智能开发的一个开源可商用的大规模预训练语言模型。基于 Transformer 结构，在大约 1.2 万亿 tokens 上训练的 70 亿参数模型，支持中英双语，上下文窗口长度为 4096。在标准的中文和英文 benchmark（C-Eval/MMLU）上均取得同尺寸最好的效果。[huggingface.co/baichuan-inc/baichuan-7B](https://huggingface.co/baichuan-inc/Baichuan-7B)
 
-      * [Search-R1](https://github.com/PeterGriffinJin/Search-R1) ⭐ 5,599 | 🐛 40 | 🌐 Python | 📅 2025-11-13 <img src="https://img.shields.io/github/stars/PeterGriffinJin/Search-R1?style=social"/> : Search-R1: An Efficient, Scalable RL Training Framework for Reasoning & Search Engine Calling interleaved LLM based on veRL. "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning". (**[arXiv 2025](https://arxiv.org/abs/2503.09516)**).
+      * [Search-R1](https://github.com/PeterGriffinJin/Search-R1) ⭐ 5,601 | 🐛 40 | 🌐 Python | 📅 2025-11-13 <img src="https://img.shields.io/github/stars/PeterGriffinJin/Search-R1?style=social"/> : Search-R1: An Efficient, Scalable RL Training Framework for Reasoning & Search Engine Calling interleaved LLM based on veRL. "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning". (**[arXiv 2025](https://arxiv.org/abs/2503.09516)**).
 
-      * [OpenChat](https://github.com/imoneoi/openchat) ⭐ 5,476 | 🐛 137 | 🌐 Python | 📅 2024-09-13 <img src="https://img.shields.io/github/stars/imoneoi/openchat?style=social"/> : OpenChat: Advancing Open-source Language Models with Imperfect Data. [huggingface.co/openchat/openchat](https://huggingface.co/openchat/openchat)
+      * [OpenChat](https://github.com/imoneoi/openchat) ⭐ 5,475 | 🐛 137 | 🌐 Python | 📅 2024-09-13 <img src="https://img.shields.io/github/stars/imoneoi/openchat?style=social"/> : OpenChat: Advancing Open-source Language Models with Imperfect Data. [huggingface.co/openchat/openchat](https://huggingface.co/openchat/openchat)
 
       * [GPT-4-LLM](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM) ⭐ 4,330 | 🐛 13 | 🌐 HTML | 📅 2023-06-11 <img src="https://img.shields.io/github/stars/Instruction-Tuning-with-GPT-4/GPT-4-LLM?style=social"/> : "Instruction Tuning with GPT-4". (**[arXiv 2023](https://arxiv.org/abs/2304.03277)**). [instruction-tuning-with-gpt-4.github.io/](https://instruction-tuning-with-gpt-4.github.io/)
 
-      * [gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer) ⭐ 4,172 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2025-05-02 <img src="https://img.shields.io/github/stars/mshumer/gpt-llm-trainer?style=social"/> : The goal of this project is to explore an experimental new pipeline to train a high-performing task-specific model. We try to abstract away all the complexity, so it's as easy as possible to go from idea -> performant fully-trained model.
+      * [gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer) ⭐ 4,171 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2025-05-02 <img src="https://img.shields.io/github/stars/mshumer/gpt-llm-trainer?style=social"/> : The goal of this project is to explore an experimental new pipeline to train a high-performing task-specific model. We try to abstract away all the complexity, so it's as easy as possible to go from idea -> performant fully-trained model.
 
       * [CrazyBoyM/llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat) ⭐ 4,133 | 🐛 29 | 🌐 Python | 📅 2026-02-21 <img src="https://img.shields.io/github/stars/CrazyBoyM/llama3-Chinese-chat?style=social"/> : Llama3 中文版。
 
@@ -201,7 +201,7 @@
 
       * [FreedomIntelligence/LLMZoo](https://github.com/FreedomIntelligence/LLMZoo) ⭐ 2,933 | 🐛 26 | 🌐 Python | 📅 2023-11-26 <img src="https://img.shields.io/github/stars/FreedomIntelligence/LLMZoo?style=social"/> : ⚡LLM Zoo is a project that provides data, models, and evaluation benchmark for large language models.⚡ [Tech Report](https://github.com/FreedomIntelligence/LLMZoo/blob/main/assets/llmzoo.pdf) ⭐ 2,933 | 🐛 26 | 🌐 Python | 📅 2023-11-26
 
-      * [MicroGPT](https://github.com/muellerberndt/micro-gpt) ⭐ 2,928 | 🐛 12 | 🌐 Python | 📅 2026-11-03 <img src="https://img.shields.io/github/stars/muellerberndt/micro-gpt?style=social"/> : A simple and effective autonomous agent compatible with GPT-3.5-Turbo and GPT-4. MicroGPT aims to be as compact and reliable as possible.
+      * [MicroGPT](https://github.com/muellerberndt/micro-gpt) ⭐ 2,929 | 🐛 12 | 🌐 Python | 📅 2026-11-03 <img src="https://img.shields.io/github/stars/muellerberndt/micro-gpt?style=social"/> : A simple and effective autonomous agent compatible with GPT-3.5-Turbo and GPT-4. MicroGPT aims to be as compact and reliable as possible.
 
       * [Baichuan-13B（百川-13B）](https://github.com/baichuan-inc/Baichuan-13B) ⭐ 2,916 | 🐛 96 | 🌐 Python | 📅 2023-09-06 <img src="https://img.shields.io/github/stars/baichuan-inc/Baichuan-13B?style=social"/> : A 13B large language model developed by Baichuan Intelligent Technology. Baichuan-13B 是由百川智能继 Baichuan-7B 之后开发的包含 130 亿参数的开源可商用的大规模语言模型，在权威的中文和英文 benchmark 上均取得同尺寸最好的效果。本次发布包含有预训练 (Baichuan-13B-Base) 和对齐 (Baichuan-13B-Chat) 两个版本。[huggingface.co/baichuan-inc/Baichuan-13B-Chat](https://huggingface.co/baichuan-inc/Baichuan-13B-Chat)
 
@@ -219,17 +219,17 @@
 
       * [i-Code](https://github.com/microsoft/i-Code) ⚠️ Archived <img src="https://img.shields.io/github/stars/microsoft/i-Code?style=social"/> : The ambition of the i-Code project is to build integrative and composable multimodal Artificial Intelligence. The "i" stands for integrative multimodal learning. "CoDi: Any-to-Any Generation via Composable Diffusion". (**[arXiv 2023](https://arxiv.org/abs/2305.11846)**).
 
-      * [LongLLaMA ](https://github.com/CStanKonrad/long_llama) ⭐ 1,458 | 🐛 18 | 🌐 Python | 📅 2023-11-07 <img src="https://img.shields.io/github/stars/CStanKonrad/long_llama?style=social"/> : LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method.
+      * [LongLLaMA ](https://github.com/CStanKonrad/long_llama) ⭐ 1,459 | 🐛 18 | 🌐 Python | 📅 2023-11-07 <img src="https://img.shields.io/github/stars/CStanKonrad/long_llama?style=social"/> : LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method.
 
       * [SpeechGPT](https://github.com/0nutation/SpeechGPT) ⭐ 1,401 | 🐛 47 | 🌐 Python | 📅 2024-07-22 <img src="https://img.shields.io/github/stars/0nutation/SpeechGPT?style=social"/> : "SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities". (**[arXiv 2023](https://arxiv.org/abs/2305.11000)**).
 
-      * [FlagGems](https://github.com/FlagOpen/FlagGems) ⭐ 1,186 | 🐛 1,849 | 🌐 Python | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/FlagOpen/FlagGems?style=social"/> : FlagGems is a high-performance general operator library implemented in [OpenAI Triton](https://github.com/openai/triton) ⭐ 20,638 | 🐛 1,437 | 🌐 MLIR | 📅 2026-11-25. It aims to provide a suite of kernel functions to accelerate LLM training and inference.
+      * [FlagGems](https://github.com/FlagOpen/FlagGems) ⭐ 1,186 | 🐛 1,919 | 🌐 Python | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/FlagOpen/FlagGems?style=social"/> : FlagGems is a high-performance general operator library implemented in [OpenAI Triton](https://github.com/openai/triton) ⭐ 20,647 | 🐛 1,438 | 🌐 MLIR | 📅 2026-11-25. It aims to provide a suite of kernel functions to accelerate LLM training and inference.
 
       * [Llama-2-Onnx](https://github.com/microsoft/Llama-2-Onnx) ⭐ 1,025 | 🐛 24 | 🌐 Python | 📅 2024-01-04 <img src="https://img.shields.io/github/stars/microsoft/Llama-2-Onnx?style=social"/> : Llama 2 Powered By ONNX.
 
       * [PandaLM](https://github.com/WeOpenML/PandaLM) ⭐ 926 | 🐛 19 | 🌐 Python | 📅 2024-05-22 <img src="https://img.shields.io/github/stars/WeOpenML/PandaLM?style=social"/> : PandaLM: Reproducible and Automated Language Model Assessment.
 
-      * [X-R1](https://github.com/dhcode-cpp/X-R1) ⭐ 817 | 🐛 20 | 🌐 Python | 📅 2025-05-14 <img src="https://img.shields.io/github/stars/dhcode-cpp/X-R1?style=social"/> : X-R1 aims to build an easy-to-use, low-cost training framework based on end-to-end reinforcement learning to accelerate the development of Scaling Post-Training. Inspired by [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) ⭐ 92,051 | 🐛 46 | 📅 2025-06-27 and [open-r1](https://github.com/huggingface/open-r1) ⭐ 26,489 | 🐛 1 | 🌐 Python | 📅 2026-10-26 , we produce minimal-cost for training 0.5B R1-Zero "Aha Moment"💡 from base model
+      * [X-R1](https://github.com/dhcode-cpp/X-R1) ⭐ 817 | 🐛 20 | 🌐 Python | 📅 2025-05-14 <img src="https://img.shields.io/github/stars/dhcode-cpp/X-R1?style=social"/> : X-R1 aims to build an easy-to-use, low-cost training framework based on end-to-end reinforcement learning to accelerate the development of Scaling Post-Training. Inspired by [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) ⭐ 92,060 | 🐛 46 | 📅 2025-06-27 and [open-r1](https://github.com/huggingface/open-r1) ⭐ 26,489 | 🐛 1 | 🌐 Python | 📅 2026-10-26 , we produce minimal-cost for training 0.5B R1-Zero "Aha Moment"💡 from base model
 
       * [michael-wzhu/Chinese-LlaMA2](https://github.com/michael-wzhu/Chinese-LlaMA2) ⭐ 731 | 🐛 5 | 🌐 Python | 📅 2023-08-10 <img src="https://img.shields.io/github/stars/michael-wzhu/Chinese-LlaMA2?style=social"/> : Repo for adapting Meta LlaMA2 in Chinese! META最新发布的LlaMA2的汉化版！ （完全开源可商用）
 
@@ -237,7 +237,7 @@
 
       * [1595901624/gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) ⭐ 712 | 🐛 11 | 🌐 Rust | 📅 2025-06-07 <img src="https://img.shields.io/github/stars/1595901624/gpt-aggregated-edition?style=social"/> : 聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台。
 
-      * [YuLan-Chat（玉兰）](https://github.com/RUC-GSAI/YuLan-Chat/) ⭐ 633 | 🐛 5 | 🌐 Python | 📅 2025-01-10 <img src="https://img.shields.io/github/stars/RUC-GSAI/YuLan-Chat?style=social"/> : YuLan-Chat models are chat-based large language models, which are developed by the researchers in GSAI, Renmin University of China (YuLan, which represents Yulan Magnolia, is the campus flower of Renmin University of China). The newest version is developed by continually-pretraining and instruction-tuning [LLaMA-2](https://github.com/facebookresearch/llama) ⭐ 59,649 | 🐛 537 | 🌐 Python | 📅 2025-01-26 with high-quality English and Chinese data. YuLan-Chat系列模型是中国人民大学高瓴人工智能学院师生共同开发的支持聊天的大语言模型（名字"玉兰"取自中国人民大学校花）。 最新版本基于LLaMA-2进行了中英文双语的继续预训练和指令微调。
+      * [YuLan-Chat（玉兰）](https://github.com/RUC-GSAI/YuLan-Chat/) ⭐ 633 | 🐛 5 | 🌐 Python | 📅 2025-01-10 <img src="https://img.shields.io/github/stars/RUC-GSAI/YuLan-Chat?style=social"/> : YuLan-Chat models are chat-based large language models, which are developed by the researchers in GSAI, Renmin University of China (YuLan, which represents Yulan Magnolia, is the campus flower of Renmin University of China). The newest version is developed by continually-pretraining and instruction-tuning [LLaMA-2](https://github.com/facebookresearch/llama) ⭐ 59,653 | 🐛 537 | 🌐 Python | 📅 2025-01-26 with high-quality English and Chinese data. YuLan-Chat系列模型是中国人民大学高瓴人工智能学院师生共同开发的支持聊天的大语言模型（名字"玉兰"取自中国人民大学校花）。 最新版本基于LLaMA-2进行了中英文双语的继续预训练和指令微调。
 
       * [epfLLM/Megatron-LLM](https://github.com/epfLLM/Megatron-LLM) ⭐ 592 | 🐛 10 | 🌐 Python | 📅 2024-05-20 <img src="https://img.shields.io/github/stars/epfLLM/Megatron-LLM?style=social"/> : distributed trainer for LLMs.
 
@@ -291,23 +291,23 @@
 
       ###### 视觉语言大模型（LVLM）
 
-      * [SAM](https://github.com/facebookresearch/segment-anything) ⭐ 55,177 | 🐛 598 | 🌐 Jupyter Notebook | 📅 2024-09-18 <img src="https://img.shields.io/github/stars/facebookresearch/segment-anything?style=social"/> : The repository provides code for running inference with the Segment Anything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. "Segment Anything". (**[arXiv 2023](https://arxiv.org/abs/2304.02643)**).
+      * [SAM](https://github.com/facebookresearch/segment-anything) ⭐ 55,184 | 🐛 598 | 🌐 Jupyter Notebook | 📅 2024-09-18 <img src="https://img.shields.io/github/stars/facebookresearch/segment-anything?style=social"/> : The repository provides code for running inference with the Segment Anything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. "Segment Anything". (**[arXiv 2023](https://arxiv.org/abs/2304.02643)**).
 
-      * [CLIP](https://github.com/openai/CLIP) ⭐ 34,655 | 🐛 274 | 🌐 Jupyter Notebook | 📅 2026-03-25 <img src="https://img.shields.io/github/stars/openai/CLIP?style=social"/> : CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image. "Learning Transferable Visual Models From Natural Language Supervision". (**[arXiv 2021](https://arxiv.org/abs/2103.00020)**).
+      * [CLIP](https://github.com/openai/CLIP) ⭐ 34,664 | 🐛 274 | 🌐 Jupyter Notebook | 📅 2026-03-25 <img src="https://img.shields.io/github/stars/openai/CLIP?style=social"/> : CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image. "Learning Transferable Visual Models From Natural Language Supervision". (**[arXiv 2021](https://arxiv.org/abs/2103.00020)**).
 
-      * [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt) ⭐ 33,882 | 🐛 262 | 🌐 Python | 📅 2024-01-06 <img src="https://img.shields.io/github/stars/microsoft/visual-chatgpt?style=social"/> : Visual ChatGPT connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting. "Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models". (**[arXiv 2023](https://arxiv.org/abs/2303.04671)**).
+      * [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt) ⭐ 33,884 | 🐛 262 | 🌐 Python | 📅 2024-01-06 <img src="https://img.shields.io/github/stars/microsoft/visual-chatgpt?style=social"/> : Visual ChatGPT connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting. "Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models". (**[arXiv 2023](https://arxiv.org/abs/2303.04671)**).
 
       * [LLaVA](https://github.com/haotian-liu/LLaVA) ⭐ 25,091 | 🐛 1,140 | 🌐 Python | 📅 2024-08-12 <img src="https://img.shields.io/github/stars/haotian-liu/LLaVA?style=social"/> : 🌋 LLaVA: Large Language and Vision Assistant. Visual instruction tuning towards large language and vision models with GPT-4 level capabilities. [llava.hliu.cc](https://llava.hliu.cc/). "Visual Instruction Tuning". (**[arXiv 2023](https://arxiv.org/abs/2304.08485)**).
 
-      * [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) ⭐ 20,256 | 🐛 444 | 🌐 Jupyter Notebook | 📅 2026-01-30 <img src="https://img.shields.io/github/stars/QwenLM/Qwen2-VL?style=social"/> : Qwen2-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud. "Qwen2.5-VL Technical Report". (**[arXiv 2025](https://arxiv.org/abs/2502.13923)**). [2025-01-26，Qwen2.5 VL! Qwen2.5 VL! Qwen2.5 VL!](https://qwenlm.github.io/blog/qwen2.5-vl/). "Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution". (**[arXiv 2024](https://arxiv.org/abs/2409.12191)**). "Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond". (**[arXiv 2023](https://arxiv.org/abs/2308.12966)**).
+      * [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) ⭐ 20,262 | 🐛 444 | 🌐 Jupyter Notebook | 📅 2026-01-30 <img src="https://img.shields.io/github/stars/QwenLM/Qwen2-VL?style=social"/> : Qwen2-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud. "Qwen2.5-VL Technical Report". (**[arXiv 2025](https://arxiv.org/abs/2502.13923)**). [2025-01-26，Qwen2.5 VL! Qwen2.5 VL! Qwen2.5 VL!](https://qwenlm.github.io/blog/qwen2.5-vl/). "Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution". (**[arXiv 2024](https://arxiv.org/abs/2409.12191)**). "Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond". (**[arXiv 2023](https://arxiv.org/abs/2308.12966)**).
 
-      * [Grounded-SAM](https://github.com/IDEA-Research/Grounded-Segment-Anything) ⭐ 17,795 | 🐛 310 | 🌐 Jupyter Notebook | 📅 2024-09-05 <img src="https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything?style=social"/> : Marrying Grounding DINO with Segment Anything & Stable Diffusion & Tag2Text & BLIP & Whisper & ChatBot - Automatically Detect , Segment and Generate Anything with Image, Text, and Audio Inputs. We plan to create a very interesting demo by combining [Grounding DINO](https://github.com/IDEA-Research/GroundingDINO) ⭐ 10,773 | 🐛 326 | 🌐 Python | 📅 2024-08-12 and [Segment Anything](https://github.com/facebookresearch/segment-anything) ⭐ 55,177 | 🐛 598 | 🌐 Jupyter Notebook | 📅 2024-09-18 which aims to detect and segment Anything with text inputs!
+      * [Grounded-SAM](https://github.com/IDEA-Research/Grounded-Segment-Anything) ⭐ 17,799 | 🐛 310 | 🌐 Jupyter Notebook | 📅 2024-09-05 <img src="https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything?style=social"/> : Marrying Grounding DINO with Segment Anything & Stable Diffusion & Tag2Text & BLIP & Whisper & ChatBot - Automatically Detect , Segment and Generate Anything with Image, Text, and Audio Inputs. We plan to create a very interesting demo by combining [Grounding DINO](https://github.com/IDEA-Research/GroundingDINO) ⭐ 10,775 | 🐛 326 | 🌐 Python | 📅 2024-08-12 and [Segment Anything](https://github.com/facebookresearch/segment-anything) ⭐ 55,184 | 🐛 598 | 🌐 Jupyter Notebook | 📅 2024-09-18 which aims to detect and segment Anything with text inputs!
 
-      * [Janus](https://github.com/deepseek-ai/Janus) ⭐ 17,778 | 🐛 183 | 🌐 Python | 📅 2025-02-01 <img src="https://img.shields.io/github/stars/deepseek-ai/Janus?style=social"/> : 🚀 Janus-Series: Unified Multimodal Understanding and Generation Models. "Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling". (**[arXiv 2025](https://arxiv.org/abs/2501.17811)**). "Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation". (**[arXiv 2024](https://arxiv.org/abs/2410.13848)**). "JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation". (**[arXiv 2024](https://arxiv.org/abs/2411.07975)**).
+      * [Janus](https://github.com/deepseek-ai/Janus) ⭐ 17,777 | 🐛 183 | 🌐 Python | 📅 2025-02-01 <img src="https://img.shields.io/github/stars/deepseek-ai/Janus?style=social"/> : 🚀 Janus-Series: Unified Multimodal Understanding and Generation Models. "Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling". (**[arXiv 2025](https://arxiv.org/abs/2501.17811)**). "Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation". (**[arXiv 2024](https://arxiv.org/abs/2410.13848)**). "JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation". (**[arXiv 2024](https://arxiv.org/abs/2411.07975)**).
 
-      * [OpenCLIP](https://github.com/mlfoundations/open_clip) ⭐ 14,288 | 🐛 34 | 🌐 Python | 📅 2026-11-21 <img src="https://img.shields.io/github/stars/mlfoundations/open_clip?style=social"/> : Welcome to an open source implementation of OpenAI's [CLIP](https://arxiv.org/abs/2103.00020) (Contrastive Language-Image Pre-training). "Reproducible scaling laws for contrastive language-image learning". (**[arXiv 2022](https://arxiv.org/abs/2212.07143)**).
+      * [OpenCLIP](https://github.com/mlfoundations/open_clip) ⭐ 14,292 | 🐛 35 | 🌐 Python | 📅 2026-11-21 <img src="https://img.shields.io/github/stars/mlfoundations/open_clip?style=social"/> : Welcome to an open source implementation of OpenAI's [CLIP](https://arxiv.org/abs/2103.00020) (Contrastive Language-Image Pre-training). "Reproducible scaling laws for contrastive language-image learning". (**[arXiv 2022](https://arxiv.org/abs/2212.07143)**).
 
-      * [X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) ⭐ 11,027 | 🐛 18 | 🌐 Python | 📅 2026-11-18 <img src="https://img.shields.io/github/stars/CVHub520/X-AnyLabeling?style=social"/> : 💫 X-AnyLabeling 💫. Effortless data labeling with AI support from Segment Anything and other awesome models!
+      * [X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) ⭐ 11,037 | 🐛 19 | 🌐 Python | 📅 2026-11-18 <img src="https://img.shields.io/github/stars/CVHub520/X-AnyLabeling?style=social"/> : 💫 X-AnyLabeling 💫. Effortless data labeling with AI support from Segment Anything and other awesome models!
 
       * [ImageBind](https://github.com/facebookresearch/ImageBind) ⭐ 9,086 | 🐛 92 | 🌐 Python | 📅 2025-11-21 <img src="https://img.shields.io/github/stars/facebookresearch/ImageBind?style=social"/> : "ImageBind: One Embedding Space To Bind Them All". (**[CVPR 2023](https://arxiv.org/abs/2305.05665)**).
 
@@ -315,21 +315,21 @@
 
       * [VLM-R1](https://github.com/om-ai-lab/VLM-R1) ⭐ 6,050 | 🐛 166 | 🌐 Python | 📅 2026-07-07 <img src="https://img.shields.io/github/stars/om-ai-lab/VLM-R1?style=social"/> : VLM-R1: A stable and generalizable R1-style Large Vision-Language Model. Solve Visual Understanding with Reinforced VLMs. [2025-03-20，Improving Object Detection through Reinforcement Learning with VLM-R1](https://om-ai-lab.github.io/2025_03_20.html).
 
-      * [MobileSAM](https://github.com/ChaoningZhang/MobileSAM) ⭐ 5,928 | 🐛 119 | 🌐 Jupyter Notebook | 📅 2026-05-05 <img src="https://img.shields.io/github/stars/ChaoningZhang/MobileSAM?style=social"/> : "Faster Segment Anything: Towards Lightweight SAM for Mobile Applications". (**[arXiv 2023](https://arxiv.org/abs/2306.14289)**).
+      * [MobileSAM](https://github.com/ChaoningZhang/MobileSAM) ⭐ 5,930 | 🐛 119 | 🌐 Jupyter Notebook | 📅 2026-05-05 <img src="https://img.shields.io/github/stars/ChaoningZhang/MobileSAM?style=social"/> : "Faster Segment Anything: Towards Lightweight SAM for Mobile Applications". (**[arXiv 2023](https://arxiv.org/abs/2306.14289)**).
 
       * [SEEM](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) ⭐ 4,787 | 🐛 60 | 🌐 Python | 📅 2024-08-19 <img src="https://img.shields.io/github/stars/UX-Decoder/Segment-Everything-Everywhere-All-At-Once?style=social"/> : We introduce SEEM that can Segment Everything Everywhere with Multi-modal prompts all at once. SEEM allows users to easily segment an image using prompts of different types including visual prompts (points, marks, boxes, scribbles and image segments) and language prompts (text and audio), etc. It can also work with any combinations of prompts or generalize to custom prompts! "Segment Everything Everywhere All at Once". (**[arXiv 2023](https://arxiv.org/abs/2304.06718)**).
 
-      * [BEVFormer](https://github.com/fundamentalvision/BEVFormer) ⭐ 4,656 | 🐛 183 | 🌐 Python | 📅 2024-08-15 <img src="https://img.shields.io/github/stars/fundamentalvision/BEVFormer?style=social"/> : BEVFormer: a Cutting-edge Baseline for Camera-based Detection. "BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers". (**[arXiv 2022](https://arxiv.org/abs/2203.17270)**).
+      * [BEVFormer](https://github.com/fundamentalvision/BEVFormer) ⭐ 4,657 | 🐛 183 | 🌐 Python | 📅 2024-08-15 <img src="https://img.shields.io/github/stars/fundamentalvision/BEVFormer?style=social"/> : BEVFormer: a Cutting-edge Baseline for Camera-based Detection. "BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers". (**[arXiv 2022](https://arxiv.org/abs/2203.17270)**).
 
-      * [R1-V](https://github.com/Deep-Agent/R1-V) ⭐ 4,068 | 🐛 95 | 🌐 Python | 📅 2025-05-19 <img src="https://img.shields.io/github/stars/Deep-Agent/R1-V?style=social"/> : R1-V: Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3.
+      * [R1-V](https://github.com/Deep-Agent/R1-V) ⭐ 4,069 | 🐛 95 | 🌐 Python | 📅 2025-05-19 <img src="https://img.shields.io/github/stars/Deep-Agent/R1-V?style=social"/> : R1-V: Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3.
 
-      * [NVILA](https://github.com/NVlabs/VILA) ⭐ 3,874 | 🐛 79 | 🌐 Python | 📅 2026-03-12 <img src="https://img.shields.io/github/stars/NVlabs/VILA?style=social"/> : VILA - a multi-image visual language model with training, inference and evaluation recipe, deployable from cloud to edge (Jetson Orin and laptops). "NVILA: Efficient Frontier Visual Language Models". (**[arXiv 2024](https://arxiv.org/abs/2412.04468)**).
+      * [NVILA](https://github.com/NVlabs/VILA) ⭐ 3,875 | 🐛 79 | 🌐 Python | 📅 2026-03-12 <img src="https://img.shields.io/github/stars/NVlabs/VILA?style=social"/> : VILA - a multi-image visual language model with training, inference and evaluation recipe, deployable from cloud to edge (Jetson Orin and laptops). "NVILA: Efficient Frontier Visual Language Models". (**[arXiv 2024](https://arxiv.org/abs/2412.04468)**).
 
       * [AnyLabeling](https://github.com/vietanhdev/anylabeling) ⭐ 3,533 | 🐛 51 | 🌐 Python | 📅 2026-08-30 <img src="https://img.shields.io/github/stars/vietanhdev/anylabeling?style=social"/> : 🌟 AnyLabeling 🌟. Effortless data labeling with AI support from YOLO and Segment Anything! Effortless data labeling with AI support from YOLO and Segment Anything!
 
       * [Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA) ⭐ 3,508 | 🐛 126 | 🌐 Python | 📅 2024-12-03 <img src="https://img.shields.io/github/stars/PKU-YuanGroup/Video-LLaVA?style=social"/> : "Video-LLaVA: Learning United Visual Representation by Alignment Before Projection". (**[EMNLP 2024](https://arxiv.org/pdf/2311.10122.pdf)**).
 
-      * [Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) ⭐ 3,139 | 🐛 69 | 🌐 Python | 📅 2024-06-04 <img src="https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA?style=social"/> : "Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding". (**[arXiv 2023](https://arxiv.org/abs/2306.02858)**).
+      * [Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) ⭐ 3,138 | 🐛 69 | 🌐 Python | 📅 2024-06-04 <img src="https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA?style=social"/> : "Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding". (**[arXiv 2023](https://arxiv.org/abs/2306.02858)**).
 
       * [InternImage](https://github.com/OpenGVLab/InternImage) ⭐ 2,860 | 🐛 185 | 🌐 Python | 📅 2025-03-25 <img src="https://img.shields.io/github/stars/OpenGVLab/InternImage?style=social"/> : "InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions". (**[CVPR 2023](https://arxiv.org/abs/2211.05778)**).
 
@@ -337,7 +337,7 @@
 
       * [GLIPv2](https://github.com/microsoft/GLIP) ⚠️ Archived <img src="https://img.shields.io/github/stars/microsoft/GLIP?style=social"/> : "GLIPv2: Unifying Localization and Vision-Language Understanding". (**[arXiv 2022](https://arxiv.org/abs/2206.05836)**).
 
-      * [Visual-RFT](https://github.com/Liuziyu77/Visual-RFT) ⭐ 2,283 | 🐛 124 | 🌐 Jupyter Notebook | 📅 2025-10-29 <img src="https://img.shields.io/github/stars/Liuziyu77/Visual-RFT?style=social"/> : 🌈We introduce Visual Reinforcement Fine-tuning (Visual-RFT), the first comprehensive adaptation of Deepseek-R1's RL strategy to the multimodal field. We use the Qwen2-VL-2/7B model as our base model and design a rule-based verifiable reward, which is integrated into a GRPO-based reinforcement fine-tuning framework to enhance the performance of LVLMs across various visual perception tasks. ViRFT extends R1's reasoning capabilities to multiple visual perception tasks, including various detection tasks like Open Vocabulary Detection, Few-shot Detection, Reasoning Grounding, and Fine-grained Image Classification. "Visual-RFT: Visual Reinforcement Fine-Tuning". (**[arXiv 2025](https://arxiv.org/abs/2503.01785)**).
+      * [Visual-RFT](https://github.com/Liuziyu77/Visual-RFT) ⭐ 2,280 | 🐛 124 | 🌐 Jupyter Notebook | 📅 2025-10-29 <img src="https://img.shields.io/github/stars/Liuziyu77/Visual-RFT?style=social"/> : 🌈We introduce Visual Reinforcement Fine-tuning (Visual-RFT), the first comprehensive adaptation of Deepseek-R1's RL strategy to the multimodal field. We use the Qwen2-VL-2/7B model as our base model and design a rule-based verifiable reward, which is integrated into a GRPO-based reinforcement fine-tuning framework to enhance the performance of LVLMs across various visual perception tasks. ViRFT extends R1's reasoning capabilities to multiple visual perception tasks, including various detection tasks like Open Vocabulary Detection, Few-shot Detection, Reasoning Grounding, and Fine-grained Image Classification. "Visual-RFT: Visual Reinforcement Fine-Tuning". (**[arXiv 2025](https://arxiv.org/abs/2503.01785)**).
 
       * [qianqianwang68/omnimotion](https://github.com/qianqianwang68/omnimotion) ⭐ 2,268 | 🐛 30 | 🌐 Python | 📅 2024-06-11 <img src="https://img.shields.io/github/stars/qianqianwang68/omnimotion?style=social"/> : "Tracking Everything Everywhere All at Once". (**[arXiv 2023](https://arxiv.org/abs/2306.05422)**).
 
@@ -363,7 +363,7 @@
 
       * [Griffon/Vision-R1](https://github.com/jefferyZhan/Griffon/tree/master/Vision-R1) ⭐ 254 | 🐛 4 | 🌐 Python | 📅 2026-11-18 <img src="https://img.shields.io/github/stars/jefferyZhan/Griffon?style=social"/> : "Vision-R1: Evolving Human-Free Alignment in Large Vision-Language Models via Vision-Guided Reinforcement Learning". (**[arXiv 2025](https://arxiv.org/abs/2503.18013)**).
 
-      * [SAM3D](https://github.com/DYZhang09/SAM3D) ⭐ 231 | 🐛 3 | 🌐 Python | 📅 2024-01-28 <img src="https://img.shields.io/github/stars/DYZhang09/SAM3D?style=social"/> : "SAM3D: Zero-Shot 3D Object Detection via [Segment Anything](https://github.com/facebookresearch/segment-anything) ⭐ 55,177 | 🐛 598 | 🌐 Jupyter Notebook | 📅 2024-09-18 Model". (**[arXiv 2023](https://arxiv.org/abs/2306.02245)**).
+      * [SAM3D](https://github.com/DYZhang09/SAM3D) ⭐ 231 | 🐛 3 | 🌐 Python | 📅 2024-01-28 <img src="https://img.shields.io/github/stars/DYZhang09/SAM3D?style=social"/> : "SAM3D: Zero-Shot 3D Object Detection via [Segment Anything](https://github.com/facebookresearch/segment-anything) ⭐ 55,184 | 🐛 598 | 🌐 Jupyter Notebook | 📅 2024-09-18 Model". (**[arXiv 2023](https://arxiv.org/abs/2306.02245)**).
 
       * [MAYE](https://github.com/GAIR-NLP/MAYE) ⭐ 148 | 🐛 3 | 🌐 Python | 📅 2025-04-09 <img src="https://img.shields.io/github/stars/GAIR-NLP/MAYE?style=social"/> : This project presents MAYE, a transparent and reproducible framework and a comprehensive evaluation scheme for applying reinforcement learning (RL) to vision-language models (VLMs). The codebase is built entirely from scratch without relying on existing RL toolkits. "Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme". (**[arXiv 2025](https://arxiv.org/abs/2504.02587)**).
 
@@ -379,27 +379,27 @@
 
       ###### 人工智能生成内容（AIGC）
 
-      * [Stable Diffusion](https://github.com/CompVis/stable-diffusion) ⭐ 73,601 | 🐛 619 | 🌐 Jupyter Notebook | 📅 2024-06-18 <img src="https://img.shields.io/github/stars/CompVis/stable-diffusion?style=social"/> : Stable Diffusion is a latent text-to-image diffusion model. Stable Diffusion was made possible thanks to a collaboration with [Stability AI](https://stability.ai/) and [Runway](https://runwayml.com/) and builds upon our previous work "High-Resolution Image Synthesis with Latent Diffusion Models". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html)**).
+      * [Stable Diffusion](https://github.com/CompVis/stable-diffusion) ⭐ 73,612 | 🐛 619 | 🌐 Jupyter Notebook | 📅 2024-06-18 <img src="https://img.shields.io/github/stars/CompVis/stable-diffusion?style=social"/> : Stable Diffusion is a latent text-to-image diffusion model. Stable Diffusion was made possible thanks to a collaboration with [Stability AI](https://stability.ai/) and [Runway](https://runwayml.com/) and builds upon our previous work "High-Resolution Image Synthesis with Latent Diffusion Models". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html)**).
 
-      * [Fooocus](https://github.com/lllyasviel/Fooocus) ⭐ 53,971 | 🐛 315 | 🌐 Python | 📅 2025-12-01 <img src="https://img.shields.io/github/stars/lllyasviel/Fooocus?style=social"/> : Fooocus is an image generating software. Fooocus is a rethinking of Stable Diffusion and Midjourney’s designs. "微信公众号「GitHubStore」《[Fooocus : 集Stable Diffusion 和 Midjourney 优点于一身的开源AI绘图软件](https://mp.weixin.qq.com/s/adyXek6xcz5aOPAGqZBrvg)》"。
+      * [Fooocus](https://github.com/lllyasviel/Fooocus) ⭐ 53,976 | 🐛 315 | 🌐 Python | 📅 2025-12-01 <img src="https://img.shields.io/github/stars/lllyasviel/Fooocus?style=social"/> : Fooocus is an image generating software. Fooocus is a rethinking of Stable Diffusion and Midjourney’s designs. "微信公众号「GitHubStore」《[Fooocus : 集Stable Diffusion 和 Midjourney 优点于一身的开源AI绘图软件](https://mp.weixin.qq.com/s/adyXek6xcz5aOPAGqZBrvg)》"。
 
-      * [DragGAN](https://github.com/XingangPan/DragGAN) ⭐ 35,831 | 🐛 153 | 🌐 Python | 📅 2024-05-18 <img src="https://img.shields.io/github/stars/XingangPan/DragGAN?style=social"/> : "Stable Diffusion Training with MosaicML. This repo contains code used to train your own Stable Diffusion model on your own data". (**[SIGGRAPH 2023](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)**).
+      * [DragGAN](https://github.com/XingangPan/DragGAN) ⭐ 35,832 | 🐛 153 | 🌐 Python | 📅 2024-05-18 <img src="https://img.shields.io/github/stars/XingangPan/DragGAN?style=social"/> : "Stable Diffusion Training with MosaicML. This repo contains code used to train your own Stable Diffusion model on your own data". (**[SIGGRAPH 2023](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)**).
 
-      * [ControlNet](https://github.com/lllyasviel/ControlNet) ⭐ 34,161 | 🐛 461 | 🌐 Python | 📅 2024-02-25 <img src="https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social"/> : Let us control diffusion models! "Adding Conditional Control to Text-to-Image Diffusion Models". (**[arXiv 2023](https://arxiv.org/abs/2302.05543)**).
+      * [ControlNet](https://github.com/lllyasviel/ControlNet) ⭐ 34,160 | 🐛 461 | 🌐 Python | 📅 2024-02-25 <img src="https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social"/> : Let us control diffusion models! "Adding Conditional Control to Text-to-Image Diffusion Models". (**[arXiv 2023](https://arxiv.org/abs/2302.05543)**).
 
-      * [InvokeAI](https://github.com/invoke-ai/InvokeAI) ⭐ 29,158 | 🐛 316 | 🌐 TypeScript | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/invoke-ai/InvokeAI?style=social"/> : Invoke AI - Generative AI for Professional Creatives. Professional Creative Tools for Stable Diffusion, Custom-Trained Models, and more. [invoke-ai.github.io/InvokeAI/](https://invoke-ai.github.io/InvokeAI/)
+      * [InvokeAI](https://github.com/invoke-ai/InvokeAI) ⭐ 29,162 | 🐛 300 | 🌐 TypeScript | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/invoke-ai/InvokeAI?style=social"/> : Invoke AI - Generative AI for Professional Creatives. Professional Creative Tools for Stable Diffusion, Custom-Trained Models, and more. [invoke-ai.github.io/InvokeAI/](https://invoke-ai.github.io/InvokeAI/)
 
-      * [PandasAI](https://github.com/gventuri/pandas-ai) ⭐ 23,965 | 🐛 24 | 🌐 Python | 📅 2025-10-28 <img src="https://img.shields.io/github/stars/gventuri/pandas-ai?style=social"/> : Pandas AI is a Python library that adds generative artificial intelligence capabilities to Pandas, the popular data analysis and manipulation tool. It is designed to be used in conjunction with Pandas, and is not a replacement for it.
+      * [AudioCraft](https://github.com/facebookresearch/audiocraft) ⭐ 23,974 | 🐛 401 | 🌐 Jupyter Notebook | 📅 2026-03-03 <img src="https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social"/> : Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
 
-      * [AudioCraft](https://github.com/facebookresearch/audiocraft) ⭐ 23,964 | 🐛 401 | 🌐 Jupyter Notebook | 📅 2026-03-03 <img src="https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social"/> : Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
+      * [PandasAI](https://github.com/gventuri/pandas-ai) ⭐ 23,967 | 🐛 24 | 🌐 Python | 📅 2025-10-28 <img src="https://img.shields.io/github/stars/gventuri/pandas-ai?style=social"/> : Pandas AI is a Python library that adds generative artificial intelligence capabilities to Pandas, the popular data analysis and manipulation tool. It is designed to be used in conjunction with Pandas, and is not a replacement for it.
 
-      * [Wan2.1](https://github.com/Wan-Video/Wan2.1) ⭐ 17,491 | 🐛 394 | 🌐 Python | 📅 2026-03-05 <img src="https://img.shields.io/github/stars/Wan-Video/Wan2.1?style=social"/> : Wan: Open and Advanced Large-Scale Video Generative Models.
+      * [Wan2.1](https://github.com/Wan-Video/Wan2.1) ⭐ 17,495 | 🐛 395 | 🌐 Python | 📅 2026-03-05 <img src="https://img.shields.io/github/stars/Wan-Video/Wan2.1?style=social"/> : Wan: Open and Advanced Large-Scale Video Generative Models.
 
       * [Open Sora Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) ⭐ 12,198 | 🐛 268 | 🌐 Python | 📅 2026-11-18 <img src="https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan?style=social"/> : This project aim to reproducing [Sora](https://openai.com/sora) (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project. 本项目希望通过开源社区的力量复现Sora，由北大-兔展AIGC联合实验室共同发起，当前我们资源有限仅搭建了基础架构，无法进行完整训练，希望通过开源社区逐步增加模块并筹集资源进行训练，当前版本离目标差距巨大，仍需持续完善和快速迭代，欢迎Pull request！！！[Project Page](https://pku-yuangroup.github.io/Open-Sora-Plan/) [中文主页](https://pku-yuangroup.github.io/Open-Sora-Plan/blog_cn.html)
 
       * [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) ⭐ 10,171 | 🐛 53 | 🌐 Python | 📅 2024-07-06 <img src="https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social"/> : AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head.
 
-      * [StableStudio](https://github.com/Stability-AI/StableStudio) ⭐ 9,029 | 🐛 62 | 🌐 TypeScript | 📅 2024-04-30 <img src="https://img.shields.io/github/stars/Stability-AI/StableStudio?style=social"/> : StableStudio by [Stability AI](https://stability.ai/). 👋 Welcome to the community repository for StableStudio, the open-source version of [DreamStudio](https://dreamstudio.ai/).
+      * [StableStudio](https://github.com/Stability-AI/StableStudio) ⭐ 9,028 | 🐛 62 | 🌐 TypeScript | 📅 2024-04-30 <img src="https://img.shields.io/github/stars/Stability-AI/StableStudio?style=social"/> : StableStudio by [Stability AI](https://stability.ai/). 👋 Welcome to the community repository for StableStudio, the open-source version of [DreamStudio](https://dreamstudio.ai/).
 
       * [EMO](https://github.com/HumanAIGC/EMO) ⭐ 7,567 | 🐛 257 | 📅 2024-08-21 <img src="https://img.shields.io/github/stars/HumanAIGC/EMO?style=social"/> : "EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions". (**[arXiv 2024](https://arxiv.org/abs/2402.17485)**).
 
@@ -413,7 +413,7 @@
 
       * [Mini Sora](https://github.com/mini-sora/minisora) <img src="https://img.shields.io/github/stars/mini-sora/minisora?style=social"/> : The Mini Sora project aims to explore the implementation path and future development direction of Sora.
 
-      * [Stable Diffusion Version 2](https://github.com/Stability-AI/stablediffusion) <img src="https://img.shields.io/github/stars/Stability-AI/stablediffusion?style=social"/> : This repository contains [Stable Diffusion](https://github.com/CompVis/stable-diffusion) ⭐ 73,601 | 🐛 619 | 🌐 Jupyter Notebook | 📅 2024-06-18 models trained from scratch and will be continuously updated with new checkpoints. "High-Resolution Image Synthesis with Latent Diffusion Models". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html)**).
+      * [Stable Diffusion Version 2](https://github.com/Stability-AI/stablediffusion) <img src="https://img.shields.io/github/stars/Stability-AI/stablediffusion?style=social"/> : This repository contains [Stable Diffusion](https://github.com/CompVis/stable-diffusion) ⭐ 73,612 | 🐛 619 | 🌐 Jupyter Notebook | 📅 2024-06-18 models trained from scratch and will be continuously updated with new checkpoints. "High-Resolution Image Synthesis with Latent Diffusion Models". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html)**).
 
       * [World Labs](https://www.worldlabs.ai/) : We are a spatial intelligence company building Large World Models to perceive, generate, and interact with the 3D world.
 
@@ -437,9 +437,9 @@
 
     ##### 性能分析及可视化
 
-    * [hahnyuan/LLM-Viewer](https://github.com/hahnyuan/LLM-Viewer) ⭐ 693 | 🐛 16 | 🌐 Python | 📅 2024-09-11 <img src="https://img.shields.io/github/stars/hahnyuan/LLM-Viewer?style=social"/> : Analyze the inference of Large Language Models (LLMs). Analyze aspects like computation, storage, transmission, and hardware roofline model in a user-friendly interface.
+    * [hahnyuan/LLM-Viewer](https://github.com/hahnyuan/LLM-Viewer) ⭐ 692 | 🐛 16 | 🌐 Python | 📅 2024-09-11 <img src="https://img.shields.io/github/stars/hahnyuan/LLM-Viewer?style=social"/> : Analyze the inference of Large Language Models (LLMs). Analyze aspects like computation, storage, transmission, and hardware roofline model in a user-friendly interface.
 
-    * [FlagPerf](https://github.com/FlagOpen/FlagPerf) ⭐ 387 | 🐛 9 | 🌐 Python | 📅 2026-07-18 <img src="https://img.shields.io/github/stars/FlagOpen/FlagPerf?style=social"/> : FlagPerf is an open-source software platform for benchmarking AI chips. FlagPerf是智源研究院联合AI硬件厂商共建的一体化AI硬件评测引擎，旨在建立以产业实践为导向的指标体系，评测AI硬件在软件栈组合（模型+框架+编译器）下的实际能力。
+    * [FlagPerf](https://github.com/FlagOpen/FlagPerf) ⭐ 388 | 🐛 9 | 🌐 Python | 📅 2026-07-18 <img src="https://img.shields.io/github/stars/FlagOpen/FlagPerf?style=social"/> : FlagPerf is an open-source software platform for benchmarking AI chips. FlagPerf是智源研究院联合AI硬件厂商共建的一体化AI硬件评测引擎，旨在建立以产业实践为导向的指标体系，评测AI硬件在软件栈组合（模型+框架+编译器）下的实际能力。
 
     * [harleyszhang/llm\_counts](https://github.com/harleyszhang/llm_counts) ⭐ 125 | 🐛 2 | 🌐 Python | 📅 2025-07-11 <img src="https://img.shields.io/github/stars/harleyszhang/llm_counts?style=social"/> : llm theoretical performance analysis tools and support params, flops, memory and latency analysis.
 
@@ -447,11 +447,11 @@
 
     ##### 训练和微调框架
 
-    * [unsloth](https://github.com/unslothai/unsloth) ⭐ 80,210 | 🐛 559 | 🌐 Python | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/unslothai/unsloth?style=social"/> : Finetune Llama 3.3, DeepSeek-R1 & Reasoning LLMs 2x faster with 70% less memory. [unsloth.ai](https://unsloth.ai/)
+    * [unsloth](https://github.com/unslothai/unsloth) ⭐ 80,280 | 🐛 642 | 🌐 Python | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/unslothai/unsloth?style=social"/> : Finetune Llama 3.3, DeepSeek-R1 & Reasoning LLMs 2x faster with 70% less memory. [unsloth.ai](https://unsloth.ai/)
 
-    * [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) ⭐ 76,277 | 🐛 1,264 | 🌐 Python | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=social"/> : Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024). "LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models". (**[arXiv 2024](https://arxiv.org/abs/2403.13372)**).
+    * [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) ⭐ 76,292 | 🐛 1,265 | 🌐 Python | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=social"/> : Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024). "LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models". (**[arXiv 2024](https://arxiv.org/abs/2403.13372)**).
 
-    * [DeepSpeed](https://github.com/deepspeedai/DeepSpeed) ⭐ 43,359 | 🐛 1,595 | 🌐 Python | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/deepspeedai/DeepSpeed?style=social"/> : DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. [www.deepspeed.ai/](https://www.deepspeed.ai/)
+    * [DeepSpeed](https://github.com/deepspeedai/DeepSpeed) ⭐ 43,364 | 🐛 1,593 | 🌐 Python | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/deepspeedai/DeepSpeed?style=social"/> : DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. [www.deepspeed.ai/](https://www.deepspeed.ai/)
 
   * #### Reinforcement Learning Framework
 
@@ -465,87 +465,87 @@
 
     * ##### LLM Inference and Serving Engine
 
-      * [Ollama](https://github.com/ollama/ollama) ⭐ 188,070 | 🐛 4,760 | 🌐 Go | 📅 2026-11-24 <img src="https://img.shields.io/github/stars/ollama/ollama?style=social"/> : Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models. [ollama.com](https://ollama.com/)
+      * [Ollama](https://github.com/ollama/ollama) ⭐ 188,177 | 🐛 4,781 | 🌐 Go | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/ollama/ollama?style=social"/> : Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models. [ollama.com](https://ollama.com/)
 
-      * [llama.cpp](https://github.com/ggerganov/llama.cpp) ⭐ 136,205 | 🐛 2,644 | 🌐 C++ | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social"/> : LLM inference in C/C++.
+      * [llama.cpp](https://github.com/ggerganov/llama.cpp) ⭐ 136,332 | 🐛 2,652 | 🌐 C++ | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social"/> : LLM inference in C/C++.
 
-      * [vLLM](https://github.com/vllm-project/vllm) ⭐ 97,550 | 🐛 11,136 | 🌐 Python | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/vllm-project/vllm?style=social"/> : A high-throughput and memory-efficient inference and serving engine for LLMs. [docs.vllm.ai](https://docs.vllm.ai/)
+      * [vLLM](https://github.com/vllm-project/vllm) ⭐ 97,606 | 🐛 11,228 | 🌐 Python | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/vllm-project/vllm?style=social"/> : A high-throughput and memory-efficient inference and serving engine for LLMs. [docs.vllm.ai](https://docs.vllm.ai/)
 
-      * [SGLang](https://github.com/sgl-project/sglang) ⭐ 39,048 | 🐛 7,401 | 🌐 Python | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/sgl-project/sglang?style=social"/> : SGLang is a fast serving framework for large language models and vision language models. [docs.sglang.ai/](https://docs.sglang.ai/)
+      * [SGLang](https://github.com/sgl-project/sglang) ⭐ 39,078 | 🐛 7,454 | 🌐 Python | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/sgl-project/sglang?style=social"/> : SGLang is a fast serving framework for large language models and vision language models. [docs.sglang.ai/](https://docs.sglang.ai/)
 
-      * [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) ⭐ 32,859 | 🐛 167 | 🌐 Jupyter Notebook | 📅 2026-11-17 <img src="https://img.shields.io/github/stars/datawhalechina/self-llm?style=social"/> :  《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程。
+      * [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) ⭐ 32,871 | 🐛 167 | 🌐 Jupyter Notebook | 📅 2026-11-17 <img src="https://img.shields.io/github/stars/datawhalechina/self-llm?style=social"/> :  《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程。
 
-      * [MLC LLM](https://github.com/mlc-ai/mlc-llm) ⭐ 23,466 | 🐛 369 | 🌐 Python | 📅 2026-11-21 <img src="https://img.shields.io/github/stars/mlc-ai/mlc-llm?style=social"/> : Universal LLM Deployment Engine with ML Compilation. [llm.mlc.ai/](https://llm.mlc.ai/)
+      * [MLC LLM](https://github.com/mlc-ai/mlc-llm) ⭐ 23,484 | 🐛 369 | 🌐 Python | 📅 2026-11-21 <img src="https://img.shields.io/github/stars/mlc-ai/mlc-llm?style=social"/> : Universal LLM Deployment Engine with ML Compilation. [llm.mlc.ai/](https://llm.mlc.ai/)
 
-      * [KTransformers](https://github.com/kvcache-ai/ktransformers) ⭐ 19,698 | 🐛 539 | 🌐 Python | 📅 2026-11-24 <img src="https://img.shields.io/github/stars/kvcache-ai/ktransformers?style=social"/> : A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations. [kvcache-ai.github.io/ktransformers/](https://kvcache-ai.github.io/ktransformers/)
+      * [KTransformers](https://github.com/kvcache-ai/ktransformers) ⭐ 19,703 | 🐛 540 | 🌐 Python | 📅 2026-11-24 <img src="https://img.shields.io/github/stars/kvcache-ai/ktransformers?style=social"/> : A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations. [kvcache-ai.github.io/ktransformers/](https://kvcache-ai.github.io/ktransformers/)
 
-      * [Nano-vLLM](https://github.com/GeeeekExplorer/nano-vllm) ⭐ 16,575 | 🐛 117 | 🌐 Python | 📅 2026-04-26 <img src="https://img.shields.io/github/stars/GeeeekExplorer/nano-vllm?style=social"/> : A lightweight vLLM implementation built from scratch.
+      * [Nano-vLLM](https://github.com/GeeeekExplorer/nano-vllm) ⭐ 16,587 | 🐛 117 | 🌐 Python | 📅 2026-04-26 <img src="https://img.shields.io/github/stars/GeeeekExplorer/nano-vllm?style=social"/> : A lightweight vLLM implementation built from scratch.
 
-      * [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) ⭐ 15,131 | 🐛 2,034 | 🌐 Python | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM?style=social"/> : TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines. [nvidia.github.io/TensorRT-LLM](https://nvidia.github.io/TensorRT-LLM)
+      * [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) ⭐ 15,136 | 🐛 2,054 | 🌐 Python | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM?style=social"/> : TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines. [nvidia.github.io/TensorRT-LLM](https://nvidia.github.io/TensorRT-LLM)
 
-      * [TensorRT](https://github.com/NVIDIA/TensorRT) ⭐ 13,483 | 🐛 711 | 🌐 C++ | 📅 2026-11-18 <img src="https://img.shields.io/github/stars/NVIDIA/TensorRT?style=social"/> : NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT. [developer.nvidia.com/tensorrt](https://developer.nvidia.com/tensorrt)
+      * [TensorRT](https://github.com/NVIDIA/TensorRT) ⭐ 13,485 | 🐛 712 | 🌐 C++ | 📅 2026-11-18 <img src="https://img.shields.io/github/stars/NVIDIA/TensorRT?style=social"/> : NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT. [developer.nvidia.com/tensorrt](https://developer.nvidia.com/tensorrt)
 
-      * [FlashInfer](https://github.com/flashinfer-ai/flashinfer) ⭐ 7,004 | 🐛 1,627 | 🌐 Cuda | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/flashinfer-ai/flashinfer?style=social"/> : FlashInfer: Kernel Library for LLM Serving . [flashinfer.ai](flashinfer.ai)
+      * [FlashInfer](https://github.com/flashinfer-ai/flashinfer) ⭐ 7,009 | 🐛 1,640 | 🌐 Cuda | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/flashinfer-ai/flashinfer?style=social"/> : FlashInfer: Kernel Library for LLM Serving . [flashinfer.ai](flashinfer.ai)
 
-      * [GPUStack](https://github.com/gpustack/gpustack) ⭐ 6,115 | 🐛 815 | 🌐 Python | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/gpustack/gpustack?style=social"/> : GPUStack is an open-source GPU cluster manager for running AI models. Manage GPU clusters for running AI models. [gpustack.ai](https://gpustack.ai/)
+      * [GPUStack](https://github.com/gpustack/gpustack) ⭐ 6,119 | 🐛 829 | 🌐 Python | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/gpustack/gpustack?style=social"/> : GPUStack is an open-source GPU cluster manager for running AI models. Manage GPU clusters for running AI models. [gpustack.ai](https://gpustack.ai/)
 
-      * [NVIDIA/TensorRT-Model-Optimizer](https://github.com/NVIDIA/TensorRT-Model-Optimizer) ⭐ 5,664 | 🐛 589 | 🌐 Python | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/NVIDIA/TensorRT-Model-Optimizer?style=social"/> : TensorRT Model Optimizer is a unified library of state-of-the-art model optimization techniques such as quantization, pruning, distillation, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM or TensorRT to optimize inference speed on NVIDIA GPUs. [nvidia.github.io/TensorRT-Model-Optimizer](https://nvidia.github.io/TensorRT-Model-Optimizer/)
+      * [NVIDIA/TensorRT-Model-Optimizer](https://github.com/NVIDIA/TensorRT-Model-Optimizer) ⭐ 5,673 | 🐛 595 | 🌐 Python | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/NVIDIA/TensorRT-Model-Optimizer?style=social"/> : TensorRT Model Optimizer is a unified library of state-of-the-art model optimization techniques such as quantization, pruning, distillation, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM or TensorRT to optimize inference speed on NVIDIA GPUs. [nvidia.github.io/TensorRT-Model-Optimizer](https://nvidia.github.io/TensorRT-Model-Optimizer/)
 
-      * [ztxz16/fastllm](https://github.com/ztxz16/fastllm) ⭐ 5,133 | 🐛 365 | 🌐 C++ | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/ztxz16/fastllm?style=social"/> : fastllm是c++实现自有算子替代Pytorch的高性能全功能大模型推理库，可以推理Qwen, Llama, Phi等稠密模型，以及DeepSeek, Qwen-moe等moe模型。fastllm是后端无依赖的高性能大模型推理库。同时支持张量并行推理稠密模型和混合模式推理MOE模型，任意10G以上显卡即可推理满血DeepSeek。双路9004/9005服务器+单显卡部署DeepSeek满血满精度原版模型，单并发20tps；INT4量化模型单并发30tps，多并发可达60+。
+      * [ztxz16/fastllm](https://github.com/ztxz16/fastllm) ⭐ 5,135 | 🐛 366 | 🌐 C++ | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/ztxz16/fastllm?style=social"/> : fastllm是c++实现自有算子替代Pytorch的高性能全功能大模型推理库，可以推理Qwen, Llama, Phi等稠密模型，以及DeepSeek, Qwen-moe等moe模型。fastllm是后端无依赖的高性能大模型推理库。同时支持张量并行推理稠密模型和混合模式推理MOE模型，任意10G以上显卡即可推理满血DeepSeek。双路9004/9005服务器+单显卡部署DeepSeek满血满精度原版模型，单并发20tps；INT4量化模型单并发30tps，多并发可达60+。
 
-      * [Chitu（赤兔）](https://github.com/thu-pacman/chitu) ⭐ 3,006 | 🐛 66 | 🌐 Python | 📅 2026-11-24 <img src="https://img.shields.io/github/stars/thu-pacman/chitu?style=social"/> : High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability. Chitu (赤兔) 是一个专注于效率、灵活性和可用性的高性能大语言模型推理框架。
+      * [Chitu（赤兔）](https://github.com/thu-pacman/chitu) ⭐ 3,008 | 🐛 66 | 🌐 Python | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/thu-pacman/chitu?style=social"/> : High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability. Chitu (赤兔) 是一个专注于效率、灵活性和可用性的高性能大语言模型推理框架。
 
       * [Lamini](https://github.com/lamini-ai/lamini) ⭐ 2,526 | 🐛 6 | 🌐 Python | 📅 2025-04-07 <img src="https://img.shields.io/github/stars/lamini-ai/lamini?style=social"/> : The Official Python Client for Lamini's API. [lamini.ai/](https://lamini.ai/)
 
-      * [Aphrodite](https://github.com/aphrodite-engine/aphrodite-engine) ⭐ 1,914 | 🐛 52 | 🌐 Python | 📅 2026-11-22 <img src="https://img.shields.io/github/stars/aphrodite-engine/aphrodite-engine?style=social"/> : Large-scale LLM inference engine. [aphrodite.pygmalion.chat](https://aphrodite.pygmalion.chat/)
+      * [Aphrodite](https://github.com/aphrodite-engine/aphrodite-engine) ⭐ 1,915 | 🐛 52 | 🌐 Python | 📅 2026-11-22 <img src="https://img.shields.io/github/stars/aphrodite-engine/aphrodite-engine?style=social"/> : Large-scale LLM inference engine. [aphrodite.pygmalion.chat](https://aphrodite.pygmalion.chat/)
 
       * [triton-inference-server/tensorrtllm\_backend](https://github.com/triton-inference-server/tensorrtllm_backend) ⭐ 944 | 🐛 345 | 📅 2026-11-02 <img src="https://img.shields.io/github/stars/triton-inference-server/tensorrtllm_backend?style=social"/> : The Triton TensorRT-LLM Backend.
 
       * [ninehills/llm-inference-benchmark](https://github.com/ninehills/llm-inference-benchmark) ⭐ 441 | 🐛 3 | 🌐 Python | 📅 2024-07-23 <img src="https://img.shields.io/github/stars/ninehills/llm-inference-benchmark?style=social"/> : LLM Inference benchmark.
 
-      * [MooreThreads/vllm\_musa](https://github.com/MooreThreads/vllm_musa) ⭐ 135 | 🐛 21 | 🌐 Python | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/MooreThreads/vllm_musa?style=social"/> : A high-throughput and memory-efficient inference and serving engine for LLMs. [docs.vllm.ai](https://docs.vllm.ai/)
+      * [MooreThreads/vllm\_musa](https://github.com/MooreThreads/vllm_musa) ⭐ 135 | 🐛 24 | 🌐 Python | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/MooreThreads/vllm_musa?style=social"/> : A high-throughput and memory-efficient inference and serving engine for LLMs. [docs.vllm.ai](https://docs.vllm.ai/)
 
       * [csbench/csbench](https://github.com/csbench/csbench) ⭐ 46 | 🐛 1 | 🌐 Python | 📅 2025-10-28 <img src="https://img.shields.io/github/stars/csbench/csbench?style=social"/> : "CS-Bench: A Comprehensive Benchmark for Large Language Models towards Computer Science Mastery". (**[arXiv 2024](https://arxiv.org/abs/2406.08587)**).
 
     * ##### High Performance Kernel Library
 
-      * [FlashMLA](https://github.com/deepseek-ai/FlashMLA) ⭐ 13,285 | 🐛 142 | 🌐 C++ | 📅 2026-10-27 <img src="https://img.shields.io/github/stars/deepseek-ai/FlashMLA?style=social"/> : FlashMLA: Efficient MLA Decoding Kernel for Hopper GPUs.
+      * [FlashMLA](https://github.com/deepseek-ai/FlashMLA) ⭐ 13,288 | 🐛 142 | 🌐 C++ | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/deepseek-ai/FlashMLA?style=social"/> : FlashMLA: Efficient MLA Decoding Kernel for Hopper GPUs.
 
-      * [DeepEP](https://github.com/deepseek-ai/DeepEP) ⭐ 10,475 | 🐛 331 | 🌐 Cuda | 📅 2026-11-20 <img src="https://img.shields.io/github/stars/deepseek-ai/DeepEP?style=social"/> : DeepEP: an efficient expert-parallel communication library.
+      * [DeepEP](https://github.com/deepseek-ai/DeepEP) ⭐ 10,477 | 🐛 331 | 🌐 Cuda | 📅 2026-11-20 <img src="https://img.shields.io/github/stars/deepseek-ai/DeepEP?style=social"/> : DeepEP: an efficient expert-parallel communication library.
 
-      * [DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) ⭐ 9,233 | 🐛 182 | 🌐 Cuda | 📅 2026-11-19 <img src="https://img.shields.io/github/stars/deepseek-ai/DeepGEMM?style=social"/> : DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling.
+      * [DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) ⭐ 9,237 | 🐛 184 | 🌐 Cuda | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/deepseek-ai/DeepGEMM?style=social"/> : DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling.
 
-      * [FlashInfer](https://github.com/flashinfer-ai/flashinfer) ⭐ 7,004 | 🐛 1,627 | 🌐 Cuda | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/flashinfer-ai/flashinfer?style=social"/> : FlashInfer: Kernel Library for LLM Serving . [flashinfer.ai](flashinfer.ai)
+      * [FlashInfer](https://github.com/flashinfer-ai/flashinfer) ⭐ 7,009 | 🐛 1,640 | 🌐 Cuda | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/flashinfer-ai/flashinfer?style=social"/> : FlashInfer: Kernel Library for LLM Serving . [flashinfer.ai](flashinfer.ai)
 
-      * [Liger-Kernel](https://github.com/linkedin/Liger-Kernel) ⭐ 6,714 | 🐛 269 | 🌐 Python | 📅 2026-11-21 <img src="https://img.shields.io/github/stars/linkedin/Liger-Kernel?style=social"/> : Efficient Triton Kernels for LLM Training. [arxiv.org/pdf/2410.10989](https://arxiv.org/pdf/2410.10989)
+      * [Liger-Kernel](https://github.com/linkedin/Liger-Kernel) ⭐ 6,712 | 🐛 273 | 🌐 Python | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/linkedin/Liger-Kernel?style=social"/> : Efficient Triton Kernels for LLM Training. [arxiv.org/pdf/2410.10989](https://arxiv.org/pdf/2410.10989)
 
-      * [FlagGems](https://github.com/FlagOpen/FlagGems) ⭐ 1,186 | 🐛 1,849 | 🌐 Python | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/FlagOpen/FlagGems?style=social"/> : FlagGems is a high-performance general operator library implemented in [OpenAI Triton](https://github.com/openai/triton) ⭐ 20,638 | 🐛 1,437 | 🌐 MLIR | 📅 2026-11-25. It aims to provide a suite of kernel functions to accelerate LLM training and inference.
+      * [FlagGems](https://github.com/FlagOpen/FlagGems) ⭐ 1,186 | 🐛 1,919 | 🌐 Python | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/FlagOpen/FlagGems?style=social"/> : FlagGems is a high-performance general operator library implemented in [OpenAI Triton](https://github.com/openai/triton) ⭐ 20,647 | 🐛 1,438 | 🌐 MLIR | 📅 2026-11-25. It aims to provide a suite of kernel functions to accelerate LLM training and inference.
 
     * ##### C and CPP Implementation
 
-      * [llama.cpp](https://github.com/ggerganov/llama.cpp) ⭐ 136,205 | 🐛 2,644 | 🌐 C++ | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social"/> : LLM inference in C/C++.
+      * [llama.cpp](https://github.com/ggerganov/llama.cpp) ⭐ 136,332 | 🐛 2,652 | 🌐 C++ | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social"/> : LLM inference in C/C++.
 
-      * [whisper.cpp](https://github.com/ggerganov/whisper.cpp) ⭐ 55,506 | 🐛 366 | 🌐 C++ | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/ggerganov/whisper.cpp?style=social"/> : High-performance inference of [OpenAI's Whisper](https://github.com/openai/whisper) ⭐ 113,472 | 🐛 187 | 🌐 Python | 📅 2026-08-31 automatic speech recognition (ASR) model.
+      * [whisper.cpp](https://github.com/ggerganov/whisper.cpp) ⭐ 55,533 | 🐛 368 | 🌐 C++ | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/ggerganov/whisper.cpp?style=social"/> : High-performance inference of [OpenAI's Whisper](https://github.com/openai/whisper) ⭐ 113,566 | 🐛 187 | 🌐 Python | 📅 2026-08-31 automatic speech recognition (ASR) model.
 
-      * [llm.c](https://github.com/karpathy/llm.c) ⭐ 31,543 | 🐛 233 | 🌐 Cuda | 📅 2025-06-26 <img src="https://img.shields.io/github/stars/karpathy/llm.c?style=social"/> : LLM training in simple, pure C/CUDA. There is no need for 245MB of PyTorch or 107MB of cPython. For example, training GPT-2 (CPU, fp32) is \~1,000 lines of clean code in a single file. It compiles and runs instantly, and exactly matches the PyTorch reference implementation.
+      * [llm.c](https://github.com/karpathy/llm.c) ⭐ 31,555 | 🐛 233 | 🌐 Cuda | 📅 2025-06-26 <img src="https://img.shields.io/github/stars/karpathy/llm.c?style=social"/> : LLM training in simple, pure C/CUDA. There is no need for 245MB of PyTorch or 107MB of cPython. For example, training GPT-2 (CPU, fp32) is \~1,000 lines of clean code in a single file. It compiles and runs instantly, and exactly matches the PyTorch reference implementation.
 
-      * [llama2.c](https://github.com/karpathy/llama2.c) ⭐ 20,320 | 🐛 191 | 🌐 C | 📅 2024-08-06 <img src="https://img.shields.io/github/stars/karpathy/llama2.c?style=social"/> : Inference Llama 2 in one file of pure C. Train the Llama 2 LLM architecture in PyTorch then inference it with one simple 700-line C file (run.c).
+      * [llama2.c](https://github.com/karpathy/llama2.c) ⭐ 20,325 | 🐛 191 | 🌐 C | 📅 2024-08-06 <img src="https://img.shields.io/github/stars/karpathy/llama2.c?style=social"/> : Inference Llama 2 in one file of pure C. Train the Llama 2 LLM architecture in PyTorch then inference it with one simple 700-line C file (run.c).
 
-      * [Const-me/Whisper](https://github.com/Const-me/Whisper) ⭐ 10,715 | 🐛 172 | 🌐 C++ | 📅 2026-09-22 <img src="https://img.shields.io/github/stars/Const-me/Whisper?style=social"/> : High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model.
+      * [Const-me/Whisper](https://github.com/Const-me/Whisper) ⭐ 10,714 | 🐛 172 | 🌐 C++ | 📅 2026-09-22 <img src="https://img.shields.io/github/stars/Const-me/Whisper?style=social"/> : High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model.
 
-      * [gemma.cpp](https://github.com/google/gemma.cpp) ⭐ 7,089 | 🐛 60 | 🌐 C++ | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/google/gemma.cpp?style=social"/> :  gemma.cpp is a lightweight, standalone C++ inference engine for the Gemma foundation models from Google.
+      * [gemma.cpp](https://github.com/google/gemma.cpp) ⭐ 7,090 | 🐛 62 | 🌐 C++ | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/google/gemma.cpp?style=social"/> :  gemma.cpp is a lightweight, standalone C++ inference engine for the Gemma foundation models from Google.
 
-      * [ztxz16/fastllm](https://github.com/ztxz16/fastllm) ⭐ 5,133 | 🐛 365 | 🌐 C++ | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/ztxz16/fastllm?style=social"/> : fastllm是c++实现自有算子替代Pytorch的高性能全功能大模型推理库，可以推理Qwen, Llama, Phi等稠密模型，以及DeepSeek, Qwen-moe等moe模型。fastllm是后端无依赖的高性能大模型推理库。同时支持张量并行推理稠密模型和混合模式推理MOE模型，任意10G以上显卡即可推理满血DeepSeek。双路9004/9005服务器+单显卡部署DeepSeek满血满精度原版模型，单并发20tps；INT4量化模型单并发30tps，多并发可达60+。
+      * [ztxz16/fastllm](https://github.com/ztxz16/fastllm) ⭐ 5,135 | 🐛 366 | 🌐 C++ | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/ztxz16/fastllm?style=social"/> : fastllm是c++实现自有算子替代Pytorch的高性能全功能大模型推理库，可以推理Qwen, Llama, Phi等稠密模型，以及DeepSeek, Qwen-moe等moe模型。fastllm是后端无依赖的高性能大模型推理库。同时支持张量并行推理稠密模型和混合模式推理MOE模型，任意10G以上显卡即可推理满血DeepSeek。双路9004/9005服务器+单显卡部署DeepSeek满血满精度原版模型，单并发20tps；INT4量化模型单并发30tps，多并发可达60+。
 
       * [zjhellofss/KuiperInfer (自制深度学习推理框架)](https://github.com/zjhellofss/KuiperInfer) ⭐ 3,526 | 🐛 9 | 🌐 C++ | 📅 2025-06-22 <img src="https://img.shields.io/github/stars/zjhellofss/KuiperInfer?style=social"/> :  带你从零实现一个高性能的深度学习推理库，支持llama 、Unet、Yolov5、Resnet等模型的推理。Implement a high-performance deep learning inference library step by step.
 
-      * [ChatGLM.cpp](https://github.com/li-plus/chatglm.cpp) ⭐ 2,960 | 🐛 161 | 🌐 C++ | 📅 2024-07-31 <img src="https://img.shields.io/github/stars/li-plus/chatglm.cpp?style=social"/> : C++ implementation of [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,837 | 🐛 609 | 🌐 Python | 📅 2024-06-27 and [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) ⭐ 15,473 | 🐛 449 | 🌐 Python | 📅 2024-06-27.
+      * [ChatGLM.cpp](https://github.com/li-plus/chatglm.cpp) ⭐ 2,960 | 🐛 161 | 🌐 C++ | 📅 2024-07-31 <img src="https://img.shields.io/github/stars/li-plus/chatglm.cpp?style=social"/> : C++ implementation of [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,841 | 🐛 609 | 🌐 Python | 📅 2024-06-27 and [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) ⭐ 15,473 | 🐛 449 | 🌐 Python | 📅 2024-06-27.
 
-      * [DeployAI/nndeploy](https://github.com/DeployAI/nndeploy) ⭐ 1,905 | 🐛 23 | 🌐 C++ | 📅 2026-11-23 <img src="https://img.shields.io/github/stars/DeployAI/nndeploy?style=social"/> : nndeploy是一款模型端到端部署框架。以多端推理以及基于有向无环图模型部署为内核，致力为用户提供跨平台、简单易用、高性能的模型部署体验。[nndeploy-zh.readthedocs.io/zh/latest/](https://nndeploy-zh.readthedocs.io/zh/latest/)
+      * [DeployAI/nndeploy](https://github.com/DeployAI/nndeploy) ⭐ 1,907 | 🐛 23 | 🌐 C++ | 📅 2026-11-23 <img src="https://img.shields.io/github/stars/DeployAI/nndeploy?style=social"/> : nndeploy是一款模型端到端部署框架。以多端推理以及基于有向无环图模型部署为内核，致力为用户提供跨平台、简单易用、高性能的模型部署体验。[nndeploy-zh.readthedocs.io/zh/latest/](https://nndeploy-zh.readthedocs.io/zh/latest/)
 
       * [wangzhaode/ChatGLM-MNN](https://github.com/wangzhaode/ChatGLM-MNN) ⭐ 1,615 | 🐛 0 | 🌐 C++ | 📅 2025-01-20 <img src="https://img.shields.io/github/stars/wangzhaode/ChatGLM-MNN?style=social"/> : Pure C++, Easy Deploy ChatGLM-6B.
 
-      * [TinyChatEngine](https://github.com/mit-han-lab/TinyChatEngine) ⭐ 972 | 🐛 41 | 🌐 C++ | 📅 2024-07-04 <img src="https://img.shields.io/github/stars/mit-han-lab/TinyChatEngine?style=social"/> : TinyChatEngine: On-Device LLM Inference Library. Running large language models (LLMs) and visual language models (VLMs) on the edge is useful: copilot services (coding, office, smart reply) on laptops, cars, robots, and more. Users can get instant responses with better privacy, as the data is local. This is enabled by LLM model compression technique: [SmoothQuant](https://github.com/mit-han-lab/smoothquant) ⭐ 1,707 | 🐛 74 | 🌐 Python | 📅 2024-07-12 and [AWQ (Activation-aware Weight Quantization)](https://github.com/mit-han-lab/llm-awq) ⭐ 3,666 | 🐛 210 | 🌐 Python | 📅 2025-07-17, co-designed with TinyChatEngine that implements the compressed low-precision model. Feel free to check out our [slides](https://github.com/mit-han-lab/TinyChatEngine/blob/main/assets/slides.pdf) ⭐ 972 | 🐛 41 | 🌐 C++ | 📅 2024-07-04 for more details!
+      * [TinyChatEngine](https://github.com/mit-han-lab/TinyChatEngine) ⭐ 972 | 🐛 41 | 🌐 C++ | 📅 2024-07-04 <img src="https://img.shields.io/github/stars/mit-han-lab/TinyChatEngine?style=social"/> : TinyChatEngine: On-Device LLM Inference Library. Running large language models (LLMs) and visual language models (VLMs) on the edge is useful: copilot services (coding, office, smart reply) on laptops, cars, robots, and more. Users can get instant responses with better privacy, as the data is local. This is enabled by LLM model compression technique: [SmoothQuant](https://github.com/mit-han-lab/smoothquant) ⭐ 1,707 | 🐛 74 | 🌐 Python | 📅 2024-07-12 and [AWQ (Activation-aware Weight Quantization)](https://github.com/mit-han-lab/llm-awq) ⭐ 3,666 | 🐛 195 | 🌐 Python | 📅 2025-07-17, co-designed with TinyChatEngine that implements the compressed low-precision model. Feel free to check out our [slides](https://github.com/mit-han-lab/TinyChatEngine/blob/main/assets/slides.pdf) ⭐ 972 | 🐛 41 | 🌐 C++ | 📅 2024-07-04 for more details!
 
       * [MegEngine/InferLLM](https://github.com/MegEngine/InferLLM) ⭐ 753 | 🐛 41 | 🌐 C++ | 📅 2024-04-07 <img src="https://img.shields.io/github/stars/MegEngine/InferLLM?style=social"/> : InferLLM is a lightweight LLM model inference framework that mainly references and borrows from the llama.cpp project.
 
@@ -563,9 +563,9 @@
 
     * ##### Triton Implementation
 
-      * [Liger-Kernel](https://github.com/linkedin/Liger-Kernel) ⭐ 6,714 | 🐛 269 | 🌐 Python | 📅 2026-11-21 <img src="https://img.shields.io/github/stars/linkedin/Liger-Kernel?style=social"/> : Efficient Triton Kernels for LLM Training. [arxiv.org/pdf/2410.10989](https://arxiv.org/pdf/2410.10989)
+      * [Liger-Kernel](https://github.com/linkedin/Liger-Kernel) ⭐ 6,712 | 🐛 273 | 🌐 Python | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/linkedin/Liger-Kernel?style=social"/> : Efficient Triton Kernels for LLM Training. [arxiv.org/pdf/2410.10989](https://arxiv.org/pdf/2410.10989)
 
-      * [FlagGems](https://github.com/FlagOpen/FlagGems) ⭐ 1,186 | 🐛 1,849 | 🌐 Python | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/FlagOpen/FlagGems?style=social"/> : FlagGems is a high-performance general operator library implemented in [OpenAI Triton](https://github.com/openai/triton) ⭐ 20,638 | 🐛 1,437 | 🌐 MLIR | 📅 2026-11-25. It aims to provide a suite of kernel functions to accelerate LLM training and inference.
+      * [FlagGems](https://github.com/FlagOpen/FlagGems) ⭐ 1,186 | 🐛 1,919 | 🌐 Python | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/FlagOpen/FlagGems?style=social"/> : FlagGems is a high-performance general operator library implemented in [OpenAI Triton](https://github.com/openai/triton) ⭐ 20,647 | 🐛 1,438 | 🌐 MLIR | 📅 2026-11-25. It aims to provide a suite of kernel functions to accelerate LLM training and inference.
 
       * [harleyszhang/lite\_llama](https://github.com/harleyszhang/lite_llama) ⭐ 198 | 🐛 0 | 🌐 Python | 📅 2026-10-10 <img src="https://img.shields.io/github/stars/harleyszhang/lite_llama?style=social"/> : A light llama-like llm inference framework based on the triton kernel.
 
@@ -573,7 +573,7 @@
 
     * ##### Python Implementation
 
-      * [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) ⭐ 10,695 | 🐛 729 | 🌐 Python | 📅 2026-11-23 <img src="https://img.shields.io/github/stars/abetlen/llama-cpp-python?style=social"/> : Python bindings for llama.cpp. [llama-cpp-python.readthedocs.io](https://llama-cpp-python.readthedocs.io/)
+      * [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) ⭐ 10,696 | 🐛 731 | 🌐 Python | 📅 2026-11-23 <img src="https://img.shields.io/github/stars/abetlen/llama-cpp-python?style=social"/> : Python bindings for llama.cpp. [llama-cpp-python.readthedocs.io](https://llama-cpp-python.readthedocs.io/)
 
       * [ggml-python](https://github.com/abetlen/ggml-python) ⭐ 152 | 🐛 34 | 🌐 Python | 📅 2026-09-02 <img src="https://img.shields.io/github/stars/abetlen/ggml-python?style=social"/> : Python bindings for ggml. [ggml-python.readthedocs.io](https://ggml-python.readthedocs.io/)
 
@@ -585,27 +585,27 @@
 
     * ##### Rust Implementation
 
-      * [lencx/ChatGPT](https://github.com/lencx/ChatGPT) ⭐ 54,679 | 🐛 967 | 🌐 Rust | 📅 2024-08-29 <img src="https://img.shields.io/github/stars/lencx/ChatGPT?style=social"/> : 🔮 ChatGPT Desktop Application (Mac, Windows and Linux). [NoFWL](https://app.nofwl.com/).
+      * [lencx/ChatGPT](https://github.com/lencx/ChatGPT) ⭐ 54,686 | 🐛 967 | 🌐 Rust | 📅 2024-08-29 <img src="https://img.shields.io/github/stars/lencx/ChatGPT?style=social"/> : 🔮 ChatGPT Desktop Application (Mac, Windows and Linux). [NoFWL](https://app.nofwl.com/).
 
-      * [yetone/openai-translator](https://github.com/yetone/openai-translator) ⭐ 25,079 | 🐛 523 | 🌐 TypeScript | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/yetone/openai-translator?style=social"/> : The translator that does more than just translation - powered by OpenAI.
+      * [yetone/openai-translator](https://github.com/yetone/openai-translator) ⭐ 25,081 | 🐛 523 | 🌐 TypeScript | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/yetone/openai-translator?style=social"/> : The translator that does more than just translation - powered by OpenAI.
 
-      * [Candle](https://github.com/huggingface/candle) ⭐ 21,413 | 🐛 1,017 | 🌐 Rust | 📅 2026-11-24 <img src="https://img.shields.io/github/stars/huggingface/candle?style=social"/> : Minimalist ML framework for Rust.
+      * [Candle](https://github.com/huggingface/candle) ⭐ 21,423 | 🐛 1,013 | 🌐 Rust | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/huggingface/candle?style=social"/> : Minimalist ML framework for Rust.
 
-      * [Burn](https://github.com/burn-rs/burn) ⭐ 16,346 | 🐛 229 | 🌐 Rust | 📅 2026-11-24 <img src="https://img.shields.io/github/stars/burn-rs/burn?style=social"/> : Burn - A Flexible and Comprehensive Deep Learning Framework in Rust. [burn-rs.github.io/](https://burn-rs.github.io/)
+      * [Burn](https://github.com/burn-rs/burn) ⭐ 16,353 | 🐛 220 | 🌐 Rust | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/burn-rs/burn?style=social"/> : Burn - A Flexible and Comprehensive Deep Learning Framework in Rust. [burn-rs.github.io/](https://burn-rs.github.io/)
 
-      * [Tokenizers](https://github.com/huggingface/tokenizers) ⭐ 11,304 | 🐛 208 | 🌐 Rust | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/huggingface/tokenizers?style=social"/> : 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production. [huggingface.co/docs/tokenizers](https://huggingface.co/docs/tokenizers/index)
+      * [Tokenizers](https://github.com/huggingface/tokenizers) ⭐ 11,317 | 🐛 212 | 🌐 Rust | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/huggingface/tokenizers?style=social"/> : 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production. [huggingface.co/docs/tokenizers](https://huggingface.co/docs/tokenizers/index)
 
-      * [sigoden/aichat](https://github.com/sigoden/aichat) ⭐ 10,599 | 🐛 110 | 🌐 Rust | 📅 2026-02-23 <img src="https://img.shields.io/github/stars/sigoden/aichat?style=social"/> : Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
+      * [sigoden/aichat](https://github.com/sigoden/aichat) ⭐ 10,601 | 🐛 110 | 🌐 Rust | 📅 2026-02-23 <img src="https://img.shields.io/github/stars/sigoden/aichat?style=social"/> : Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
 
       * [rustformers/llm](https://github.com/rustformers/llm) ⚠️ Archived <img src="https://img.shields.io/github/stars/rustformers/llm?style=social"/> : Run inference for Large Language Models on CPU, with Rust 🦀🚀🦙.
 
-      * [tch-rs](https://github.com/LaurentMazare/tch-rs) ⭐ 5,522 | 🐛 256 | 🌐 Rust | 📅 2026-11-10 <img src="https://img.shields.io/github/stars/LaurentMazare/tch-rs?style=social"/> : Rust bindings for the C++ api of PyTorch.
+      * [tch-rs](https://github.com/LaurentMazare/tch-rs) ⭐ 5,522 | 🐛 255 | 🌐 Rust | 📅 2026-11-10 <img src="https://img.shields.io/github/stars/LaurentMazare/tch-rs?style=social"/> : Rust bindings for the C++ api of PyTorch.
 
       * [TensorFlow Rust](https://github.com/tensorflow/rust) ⚠️ Archived <img src="https://img.shields.io/github/stars/tensorflow/rust?style=social"/> : Rust language bindings for TensorFlow.
 
-      * [Safetensors](https://github.com/huggingface/safetensors) ⭐ 3,998 | 🐛 148 | 🌐 Rust | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/huggingface/safetensors?style=social"/> : Simple, safe way to store and distribute tensors. [huggingface.co/docs/safetensors](https://huggingface.co/docs/safetensors/index)
+      * [Safetensors](https://github.com/huggingface/safetensors) ⭐ 4,000 | 🐛 146 | 🌐 Rust | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/huggingface/safetensors?style=social"/> : Simple, safe way to store and distribute tensors. [huggingface.co/docs/safetensors](https://huggingface.co/docs/safetensors/index)
 
-      * [luminal](https://github.com/jafioti/luminal) ⭐ 3,064 | 🐛 73 | 🌐 Rust | 📅 2026-11-23 <img src="https://img.shields.io/github/stars/jafioti/luminal?style=social"/> : Deep learning at the speed of light. [www.luminalai.com/](https://www.luminalai.com/)
+      * [luminal](https://github.com/jafioti/luminal) ⭐ 3,065 | 🐛 74 | 🌐 Rust | 📅 2026-11-23 <img src="https://img.shields.io/github/stars/jafioti/luminal?style=social"/> : Deep learning at the speed of light. [www.luminalai.com/](https://www.luminalai.com/)
 
       * [purton-tech/bionicgpt](https://github.com/purton-tech/bionicgpt) ⭐ 2,412 | 🐛 5 | 🌐 Rust | 📅 2026-11-17 <img src="https://img.shields.io/github/stars/purton-tech/bionicgpt?style=social"/> : Accelerate LLM adoption in your organisation. Chat with your confidential data safely and securely. [bionic-gpt.com](https://bionic-gpt.com/)
 
@@ -621,11 +621,11 @@
 
       * [Chidori](https://github.com/ThousandBirdsInc/chidori) ⭐ 1,372 | 🐛 17 | 🌐 Rust | 📅 2026-11-16 <img src="https://img.shields.io/github/stars/ThousandBirdsInc/chidori?style=social"/> : A reactive runtime for building durable AI agents. [docs.thousandbirds.ai](https://docs.thousandbirds.ai/).
 
-      * [Abraxas-365/langchain-rust](https://github.com/Abraxas-365/langchain-rust) ⭐ 1,365 | 🐛 10 | 🌐 Rust | 📅 2026-11-23 <img src="https://img.shields.io/github/stars/Abraxas-365/langchain-rust?style=social"/> : 🦜️🔗LangChain for Rust, the easiest way to write LLM-based programs in Rust.
+      * [Abraxas-365/langchain-rust](https://github.com/Abraxas-365/langchain-rust) ⭐ 1,365 | 🐛 11 | 🌐 Rust | 📅 2026-11-23 <img src="https://img.shields.io/github/stars/Abraxas-365/langchain-rust?style=social"/> : 🦜️🔗LangChain for Rust, the easiest way to write LLM-based programs in Rust.
 
       * [llama2.rs](https://github.com/srush/llama2.rs) ⭐ 1,060 | 🐛 15 | 🌐 Rust | 📅 2023-11-30 <img src="https://img.shields.io/github/stars/srush/llama2.rs?style=social"/> : A fast llama2 decoder in pure Rust.
 
-      * [tazz4843/whisper-rs](https://github.com/tazz4843/whisper-rs) ⚠️ Archived <img src="https://img.shields.io/github/stars/tazz4843/whisper-rs?style=social"/> : Rust bindings to [whisper.cpp](https://github.com/ggerganov/whisper.cpp) ⭐ 55,506 | 🐛 366 | 🌐 C++ | 📅 2026-11-25.
+      * [tazz4843/whisper-rs](https://github.com/tazz4843/whisper-rs) ⚠️ Archived <img src="https://img.shields.io/github/stars/tazz4843/whisper-rs?style=social"/> : Rust bindings to [whisper.cpp](https://github.com/ggerganov/whisper.cpp) ⭐ 55,533 | 🐛 368 | 🌐 C++ | 📅 2026-11-26.
 
       * [femtoGPT](https://github.com/keyvank/femtoGPT) ⭐ 936 | 🐛 10 | 🌐 Rust | 📅 2025-10-21 <img src="https://img.shields.io/github/stars/keyvank/femtoGPT?style=social"/> : femtoGPT is a pure Rust implementation of a minimal Generative Pretrained Transformer. [discord.gg/wTJFaDVn45](https://github.com/keyvank/femtoGPT) ⭐ 936 | 🐛 10 | 🌐 Rust | 📅 2025-10-21
 
@@ -653,7 +653,7 @@
 
       * [mxismean/chatgpt-app](https://github.com/mxismean/chatgpt-app) ⭐ 56 | 🐛 0 | 🌐 Vue | 📅 2023-02-17 <img src="https://img.shields.io/github/stars/mxismean/chatgpt-app?style=social"/> : Tauri 项目：ChatGPT App.
 
-      * [flaneur2020/llama2.rs](https://github.com/flaneur2020/llama2.rs) ⭐ 28 | 🐛 0 | 🌐 Rust | 📅 2023-09-24 <img src="https://img.shields.io/github/stars/flaneur2020/llama2.rs?style=social"/> : An rust reimplementatin of <https://github.com/karpathy/llama2.c> ⭐ 20,320 | 🐛 191 | 🌐 C | 📅 2024-08-06.
+      * [flaneur2020/llama2.rs](https://github.com/flaneur2020/llama2.rs) ⭐ 28 | 🐛 0 | 🌐 Rust | 📅 2023-09-24 <img src="https://img.shields.io/github/stars/flaneur2020/llama2.rs?style=social"/> : An rust reimplementatin of <https://github.com/karpathy/llama2.c> ⭐ 20,325 | 🐛 191 | 🌐 C | 📅 2024-08-06.
 
       * [rustai-solutions/candle\_demo\_openchat\_35](https://github.com/rustai-solutions/candle_demo_openchat_35) ⭐ 15 | 🐛 0 | 🌐 Rust | 📅 2023-11-30 <img src="https://img.shields.io/github/stars/rustai-solutions/candle_demo_openchat_35?style=social"/> : candle\_demo\_openchat\_35.
 
@@ -669,7 +669,7 @@
 
     * #### Zig Implementation
 
-      * [llama2.zig](https://github.com/cgbur/llama2.zig) ⭐ 225 | 🐛 2 | 🌐 Zig | 📅 2026-08-02 <img src="https://img.shields.io/github/stars/cgbur/llama2.zig?style=social"/> : Inference Llama 2 in one file of pure Zig.
+      * [llama2.zig](https://github.com/cgbur/llama2.zig) ⭐ 226 | 🐛 2 | 🌐 Zig | 📅 2026-08-02 <img src="https://img.shields.io/github/stars/cgbur/llama2.zig?style=social"/> : Inference Llama 2 in one file of pure Zig.
 
       * [renerocksai/gpt4all.zig](https://github.com/renerocksai/gpt4all.zig) ⭐ 93 | 🐛 0 | 🌐 C | 📅 2023-08-11 <img src="https://img.shields.io/github/stars/renerocksai/gpt4all.zig?style=social"/> : ZIG build for a terminal-based chat client for an assistant-style large language model with \~800k GPT-3.5-Turbo Generations based on LLaMa.
 
@@ -677,15 +677,15 @@
 
     * ##### Go Implementation
 
-      * [Ollama](https://github.com/ollama/ollama/) ⭐ 188,070 | 🐛 4,760 | 🌐 Go | 📅 2026-11-24 <img src="https://img.shields.io/github/stars/ollama/ollama?style=social"/> : Get up and running with Llama 2, Mistral, Gemma, and other large language models. [ollama.com](https://ollama.com/)
+      * [Ollama](https://github.com/ollama/ollama/) ⭐ 188,177 | 🐛 4,781 | 🌐 Go | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/ollama/ollama?style=social"/> : Get up and running with Llama 2, Mistral, Gemma, and other large language models. [ollama.com](https://ollama.com/)
 
-      * [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) ⭐ 50,529 | 🐛 227 | 🌐 Go | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/go-skynet/LocalAI?style=social"/> : 🤖 Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other. [localai.io](https://localai.io/)
+      * [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) ⭐ 50,557 | 🐛 215 | 🌐 Go | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/go-skynet/LocalAI?style=social"/> : 🤖 Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other. [localai.io](https://localai.io/)
 
   * #### LLM Quantization Framework
 
     ##### LLM量化框架
 
-    * [AWQ](https://github.com/mit-han-lab/llm-awq) ⭐ 3,666 | 🐛 210 | 🌐 Python | 📅 2025-07-17 <img src="https://img.shields.io/github/stars/mit-han-lab/llm-awq?style=social"/> :  "AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration". (**[MLSys 2024](https://arxiv.org/abs/2306.00978)**).
+    * [AWQ](https://github.com/mit-han-lab/llm-awq) ⭐ 3,666 | 🐛 195 | 🌐 Python | 📅 2025-07-17 <img src="https://img.shields.io/github/stars/mit-han-lab/llm-awq?style=social"/> :  "AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration". (**[MLSys 2024](https://arxiv.org/abs/2306.00978)**).
 
     * [GPTQ](https://github.com/IST-DASLab/gptq) ⭐ 2,401 | 🐛 27 | 🌐 Python | 📅 2024-03-27 <img src="https://img.shields.io/github/stars/IST-DASLab/gptq?style=social"/> :  "GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers". (**[ICLR 2023](https://arxiv.org/abs/2210.17323)**).
 
@@ -695,15 +695,15 @@
 
     ##### 应用程序开发平台
 
-    * [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) ⭐ 188,180 | 🐛 850 | 🌐 Python | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT?style=social"/> : Auto-GPT: An Autonomous GPT-4 Experiment. Auto-GPT is an experimental open-source application showcasing the capabilities of the GPT-4 language model. This program, driven by GPT-4, chains together LLM "thoughts", to autonomously achieve whatever goal you set. As one of the first examples of GPT-4 running fully autonomously, Auto-GPT pushes the boundaries of what is possible with AI. [agpt.co](https://news.agpt.co/)
+    * [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) ⭐ 188,203 | 🐛 809 | 🌐 Python | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT?style=social"/> : Auto-GPT: An Autonomous GPT-4 Experiment. Auto-GPT is an experimental open-source application showcasing the capabilities of the GPT-4 language model. This program, driven by GPT-4, chains together LLM "thoughts", to autonomously achieve whatever goal you set. As one of the first examples of GPT-4 running fully autonomously, Auto-GPT pushes the boundaries of what is possible with AI. [agpt.co](https://news.agpt.co/)
 
-    * [Dify](https://github.com/langgenius/dify) ⭐ 161,875 | 🐛 1,300 | 🌐 Python | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/langgenius/dify?style=social"/> : Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. [dify.ai](https://dify.ai/)
+    * [Dify](https://github.com/langgenius/dify) ⭐ 161,936 | 🐛 1,319 | 🌐 Python | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/langgenius/dify?style=social"/> : Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. [dify.ai](https://dify.ai/)
 
-    * [LangChain](https://github.com/langchain-ai/langchain) ⭐ 149,970 | 🐛 784 | 🌐 Python | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/hwchase17/langchain?style=social"/> :  🦜️🔗 LangChain. ⚡ Building applications with LLMs through composability ⚡ [python.langchain.com](https://python.langchain.com/docs/get_started/introduction.html)
+    * [LangChain](https://github.com/langchain-ai/langchain) ⭐ 150,020 | 🐛 779 | 🌐 Python | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/hwchase17/langchain?style=social"/> :  🦜️🔗 LangChain. ⚡ Building applications with LLMs through composability ⚡ [python.langchain.com](https://python.langchain.com/docs/get_started/introduction.html)
 
-    * [Lobe Chat](https://github.com/lobehub/lobe-chat) ⭐ 86,130 | 🐛 1,451 | 🌐 TypeScript | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/lobehub/lobe-chat?style=social"/> : 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application. [chat-preview.lobehub.com](https://chat-preview.lobehub.com/)
+    * [Lobe Chat](https://github.com/lobehub/lobe-chat) ⭐ 86,172 | 🐛 1,359 | 🌐 TypeScript | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/lobehub/lobe-chat?style=social"/> : 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application. [chat-preview.lobehub.com](https://chat-preview.lobehub.com/)
 
-    * [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) ⭐ 37,344 | 🐛 295 | 🌐 Python | 📅 2024-08-17 <img src="https://img.shields.io/github/stars/LAION-AI/Open-Assistant?style=social"/> : OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so. [open-assistant.io](https://open-assistant.io/)
+    * [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) ⭐ 37,348 | 🐛 295 | 🌐 Python | 📅 2024-08-17 <img src="https://img.shields.io/github/stars/LAION-AI/Open-Assistant?style=social"/> : OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so. [open-assistant.io](https://open-assistant.io/)
 
     * [om-ai-lab/OmAgent](https://github.com/om-ai-lab/OmAgent) ⭐ 2,670 | 🐛 23 | 🌐 Python | 📅 2026-10-16 <img src="https://img.shields.io/github/stars/om-ai-lab/OmAgent?style=social"/> : Build multimodal language agents for fast prototype and production. [om-agent.com](https://om-agent.com/)
 
@@ -715,23 +715,23 @@
 
     ##### 检索增强生成框架
 
-    * [Embedchain](https://github.com/embedchain/embedchain) ⭐ 69,448 | 🐛 993 | 🌐 Python | 📅 2026-11-24 <img src="https://img.shields.io/github/stars/embedchain/embedchain?style=social"/> : The Open Source RAG framework. [docs.embedchain.ai](https://docs.embedchain.ai/)
+    * [Embedchain](https://github.com/embedchain/embedchain) ⭐ 69,496 | 🐛 1,014 | 🌐 Python | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/embedchain/embedchain?style=social"/> : The Open Source RAG framework. [docs.embedchain.ai](https://docs.embedchain.ai/)
 
-    * [LlamaIndex](https://github.com/run-llama/llama_index) ⭐ 52,997 | 🐛 1,554 | 🌐 Python | 📅 2026-11-20 <img src="https://img.shields.io/github/stars/run-llama/llama_index?style=social"/> : LlamaIndex is a data framework for your LLM applications. [docs.llamaindex.ai](https://docs.llamaindex.ai/)
+    * [LlamaIndex](https://github.com/run-llama/llama_index) ⭐ 53,014 | 🐛 1,591 | 🌐 Python | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/run-llama/llama_index?style=social"/> : LlamaIndex is a data framework for your LLM applications. [docs.llamaindex.ai](https://docs.llamaindex.ai/)
 
-    * [QAnything](https://github.com/netease-youdao/QAnything) ⭐ 14,221 | 🐛 408 | 🌐 Python | 📅 2026-09-23 <img src="https://img.shields.io/github/stars/netease-youdao/QAnything?style=social"/> : Question and Answer based on Anything. [qanything.ai](https://qanything.ai/)
+    * [QAnything](https://github.com/netease-youdao/QAnything) ⭐ 14,223 | 🐛 408 | 🌐 Python | 📅 2026-09-23 <img src="https://img.shields.io/github/stars/netease-youdao/QAnything?style=social"/> : Question and Answer based on Anything. [qanything.ai](https://qanything.ai/)
 
-    * [langchain-ai/rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch) ⭐ 10,178 | 🐛 46 | 🌐 Jupyter Notebook | 📅 2025-06-26 <img src="https://img.shields.io/github/stars/langchain-ai/rag-from-scratch?style=social"/> : Retrieval augmented generation (RAG) comes is a general methodology for connecting LLMs with external data sources. These notebooks accompany a video series will build up an understanding of RAG from scratch, starting with the basics of indexing, retrieval, and generation.
+    * [langchain-ai/rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch) ⭐ 10,183 | 🐛 46 | 🌐 Jupyter Notebook | 📅 2025-06-26 <img src="https://img.shields.io/github/stars/langchain-ai/rag-from-scratch?style=social"/> : Retrieval augmented generation (RAG) comes is a general methodology for connecting LLMs with external data sources. These notebooks accompany a video series will build up an understanding of RAG from scratch, starting with the basics of indexing, retrieval, and generation.
 
-    * [R2R](https://github.com/SciPhi-AI/R2R) ⭐ 8,109 | 🐛 132 | 🌐 Python | 📅 2025-11-07 <img src="https://img.shields.io/github/stars/SciPhi-AI/R2R?style=social"/> : A framework for rapid development and deployment of production-ready RAG systems. [docs.sciphi.ai](https://docs.sciphi.ai/)
+    * [R2R](https://github.com/SciPhi-AI/R2R) ⭐ 8,110 | 🐛 132 | 🌐 Python | 📅 2025-11-07 <img src="https://img.shields.io/github/stars/SciPhi-AI/R2R?style=social"/> : A framework for rapid development and deployment of production-ready RAG systems. [docs.sciphi.ai](https://docs.sciphi.ai/)
 
   * #### Vector Database
 
     ##### 向量数据库
 
-    * [Qdrant](https://github.com/milvus-io/milvus) ⭐ 46,736 | 🐛 1,504 | 🌐 Go | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/milvus-io/milvus?style=social"/> : Milvus is an open-source vector database built to power embedding similarity search and AI applications. Milvus makes unstructured data search more accessible, and provides a consistent user experience regardless of the deployment environment. [milvus.io](https://milvus.io/)
+    * [Qdrant](https://github.com/milvus-io/milvus) ⭐ 46,747 | 🐛 1,540 | 🌐 Go | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/milvus-io/milvus?style=social"/> : Milvus is an open-source vector database built to power embedding similarity search and AI applications. Milvus makes unstructured data search more accessible, and provides a consistent user experience regardless of the deployment environment. [milvus.io](https://milvus.io/)
 
-    * [Qdrant](https://github.com/qdrant/qdrant) ⭐ 35,700 | 🐛 863 | 🌐 Rust | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/qdrant/qdrant?style=social"/> : Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud <https://cloud.qdrant.io/>. [qdrant.tech](https://qdrant.tech/)
+    * [Qdrant](https://github.com/qdrant/qdrant) ⭐ 35,719 | 🐛 870 | 🌐 Rust | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/qdrant/qdrant?style=social"/> : Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud <https://cloud.qdrant.io/>. [qdrant.tech](https://qdrant.tech/)
 
   * #### Memory Management
 
@@ -741,21 +741,21 @@
 
 * ### Awesome List
 
-  * [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) ⭐ 40,019 | 🐛 217 | 📅 2026-11-13 <img src="https://img.shields.io/github/stars/deepseek-ai/awesome-deepseek-integration?style=social"/> : Integrate the DeepSeek API into popular softwares. Access [DeepSeek Open Platform](https://platform.deepseek.com/) to get an API key.
+  * [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) ⭐ 40,035 | 🐛 220 | 📅 2026-11-13 <img src="https://img.shields.io/github/stars/deepseek-ai/awesome-deepseek-integration?style=social"/> : Integrate the DeepSeek API into popular softwares. Access [DeepSeek Open Platform](https://platform.deepseek.com/) to get an API key.
 
-  * [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) ⭐ 27,513 | 🐛 513 | 📅 2025-07-31 <img src="https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=social"/> : Awesome-LLM: a curated list of Large Language Model.
+  * [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) ⭐ 27,517 | 🐛 514 | 📅 2025-07-31 <img src="https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=social"/> : Awesome-LLM: a curated list of Large Language Model.
 
-  * [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) ⭐ 22,782 | 🐛 42 | 📅 2026-05-10 <img src="https://img.shields.io/github/stars/HqWu-HITCS/Awesome-Chinese-LLM?style=social"/> : 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
+  * [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) ⭐ 22,781 | 🐛 42 | 📅 2026-05-10 <img src="https://img.shields.io/github/stars/HqWu-HITCS/Awesome-Chinese-LLM?style=social"/> : 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
 
-  * [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) ⭐ 21,381 | 🐛 130 | 🌐 Python | 📅 2025-06-23 <img src="https://img.shields.io/github/stars/LiLittleCat/awesome-free-chatgpt?style=social"/> : 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
+  * [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) ⭐ 21,387 | 🐛 130 | 🌐 Python | 📅 2025-06-23 <img src="https://img.shields.io/github/stars/LiLittleCat/awesome-free-chatgpt?style=social"/> : 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
   * [BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 18,097 | 🐛 121 | 📅 2026-10-29 <img src="https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models?style=social"/> : ✨✨Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation. "A Survey on Multimodal Large Language Models". (**[arXiv 2023](https://arxiv.org/abs/2306.13549)**). " 微信公众号「我爱计算机视觉」《[中科大腾讯发布首篇《多模态大语言模型综述》](https://mp.weixin.qq.com/s/IiPZWEVdAJ4xrlgyWtDwng)》"。
 
-  * [xx025/carrot](https://github.com/xx025/carrot) ⭐ 17,234 | 🐛 15 | 📅 2026-11-21 <img src="https://img.shields.io/github/stars/xx025/carrot?style=social"/> : Free ChatGPT Site List. [cc.ai55.cc](https://cc.ai55.cc/)
+  * [xx025/carrot](https://github.com/xx025/carrot) ⭐ 17,236 | 🐛 17 | 📅 2026-11-21 <img src="https://img.shields.io/github/stars/xx025/carrot?style=social"/> : Free ChatGPT Site List. [cc.ai55.cc](https://cc.ai55.cc/)
 
-  * [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) ⭐ 12,881 | 🐛 11 | 📅 2025-02-13 <img src="https://img.shields.io/github/stars/eugeneyan/open-llms?style=social"/> : 📋 A list of open LLMs available for commercial use.
+  * [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) ⭐ 12,882 | 🐛 11 | 📅 2025-02-13 <img src="https://img.shields.io/github/stars/eugeneyan/open-llms?style=social"/> : 📋 A list of open LLMs available for commercial use.
 
-  * [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) ⭐ 12,864 | 🐛 1,449 | 📅 2026-11-20 <img src="https://img.shields.io/github/stars/steven2358/awesome-generative-ai?style=social"/> : A curated list of modern Generative Artificial Intelligence projects and services.
+  * [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) ⭐ 12,865 | 🐛 1,449 | 📅 2026-11-20 <img src="https://img.shields.io/github/stars/steven2358/awesome-generative-ai?style=social"/> : A curated list of modern Generative Artificial Intelligence projects and services.
 
   * [RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) ⭐ 12,237 | 🐛 30 | 🌐 Python | 📅 2025-03-11 <img src="https://img.shields.io/github/stars/RUCAIBox/LLMSurvey?style=social"/> : The official GitHub page for the survey paper "A Survey of Large Language Models". (**[arXiv 2023](https://arxiv.org/abs/2303.18223)**). " 微信公众号「RUC AI Box」《[大模型综述升级啦](https://mp.weixin.qq.com/s/9YMUSSrGLSBKMFY3JYlaoQ)》"。
 
@@ -767,29 +767,29 @@
 
   * [Yutong-Zhou-cv/Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image) ⭐ 2,444 | 🐛 1 | 📅 2026-11-03 <img src="https://img.shields.io/github/stars/Yutong-Zhou-cv/Awesome-Text-to-Image?style=social"/> : (ෆ\`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.
 
-  * [imaurer/awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) ⭐ 2,169 | 🐛 0 | 📅 2025-02-18 <img src="https://img.shields.io/github/stars/imaurer/awesome-decentralized-llm?style=social"/> : Repos and resources for running LLMs locally. (e.g. LLaMA, Cerebras, RWKV).
+  * [imaurer/awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) ⭐ 2,170 | 🐛 0 | 📅 2025-02-18 <img src="https://img.shields.io/github/stars/imaurer/awesome-decentralized-llm?style=social"/> : Repos and resources for running LLMs locally. (e.g. LLaMA, Cerebras, RWKV).
 
   * [hymie122/RAG-Survey](https://github.com/hymie122/RAG-Survey) ⭐ 1,784 | 🐛 7 | 📅 2024-08-20 <img src="https://img.shields.io/github/stars/hymie122/RAG-Survey?style=social"/> : Collecting awesome papers of RAG for AIGC. We propose a taxonomy of RAG foundations, enhancements, and applications in paper "Retrieval-Augmented Generation for AI-Generated Content: A Survey". (**[arXiv 2024](https://arxiv.org/abs/2402.19473)**). " 微信公众号「数智笔记」《[2024检索增强生成RAG最新综述](https://mp.weixin.qq.com/s/F-shRy1m7wQIS87ujOS7Dw)》"。
 
-  * [jxzhangjhu/Awesome-LLM-RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG) ⭐ 1,372 | 🐛 11 | 📅 2026-11-16 <img src="https://img.shields.io/github/stars/jxzhangjhu/Awesome-LLM-RAG?style=social"/> : Awesome-LLM-RAG: a curated list of advanced retrieval augmented generation (RAG) in Large Language Models.
+  * [jxzhangjhu/Awesome-LLM-RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG) ⭐ 1,373 | 🐛 11 | 📅 2026-11-16 <img src="https://img.shields.io/github/stars/jxzhangjhu/Awesome-LLM-RAG?style=social"/> : Awesome-LLM-RAG: a curated list of advanced retrieval augmented generation (RAG) in Large Language Models.
 
-  * [cedrickchee/awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) ⭐ 1,151 | 🐛 3 | 📅 2024-10-27 <img src="https://img.shields.io/github/stars/cedrickchee/awesome-transformer-nlp?style=social"/> : A curated list of NLP resources focused on Transformer networks, attention mechanism, GPT, BERT, ChatGPT, LLMs, and transfer learning.
+  * [cedrickchee/awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) ⭐ 1,150 | 🐛 3 | 📅 2024-10-27 <img src="https://img.shields.io/github/stars/cedrickchee/awesome-transformer-nlp?style=social"/> : A curated list of NLP resources focused on Transformer networks, attention mechanism, GPT, BERT, ChatGPT, LLMs, and transfer learning.
 
   * [formulahendry/awesome-gpt](https://github.com/formulahendry/awesome-gpt) ⭐ 1,047 | 🐛 32 | 📅 2024-05-29 <img src="https://img.shields.io/github/stars/formulahendry/awesome-gpt?style=social"/> : A curated list of awesome projects and resources related to GPT, ChatGPT, OpenAI, LLM, and more.
 
   * [wshzd/Awesome-AIGC](https://github.com/wshzd/Awesome-AIGC) ⭐ 880 | 🐛 4 | 📅 2023-10-22 <img src="https://img.shields.io/github/stars/wshzd/Awesome-AIGC?style=social"/> : AIGC资料汇总学习，持续更新......
 
-  * [vince-lam/awesome-local-llms](https://github.com/vince-lam/awesome-local-llms) ⭐ 816 | 🐛 3 | 🌐 Python | 📅 2026-11-16 <img src="https://img.shields.io/github/stars/vince-lam/awesome-local-llms?style=social"/> : Compare open-source local LLM inference projects by their metrics to assess popularity and activeness.
+  * [vince-lam/awesome-local-llms](https://github.com/vince-lam/awesome-local-llms) ⭐ 816 | 🐛 5 | 🌐 Python | 📅 2026-11-16 <img src="https://img.shields.io/github/stars/vince-lam/awesome-local-llms?style=social"/> : Compare open-source local LLM inference projects by their metrics to assess popularity and activeness.
 
-  * [SeedV/generative-ai-roadmap](https://github.com/SeedV/generative-ai-roadmap) ⭐ 619 | 🐛 0 | 📅 2026-07-31 <img src="https://img.shields.io/github/stars/SeedV/generative-ai-roadmap?style=social"/> : 生成式AI的应用路线图 The roadmap of generative AI: use cases and applications.
+  * [SeedV/generative-ai-roadmap](https://github.com/SeedV/generative-ai-roadmap) ⭐ 618 | 🐛 0 | 📅 2026-07-31 <img src="https://img.shields.io/github/stars/SeedV/generative-ai-roadmap?style=social"/> : 生成式AI的应用路线图 The roadmap of generative AI: use cases and applications.
 
-  * [yzfly/Awesome-AGI](https://github.com/yzfly/Awesome-AGI) ⭐ 582 | 🐛 6 | 📅 2026-10-15 <img src="https://img.shields.io/github/stars/yzfly/Awesome-AGI?style=social"/> : A curated list of awesome AGI frameworks, software and resources.
+  * [yzfly/Awesome-AGI](https://github.com/yzfly/Awesome-AGI) ⭐ 583 | 🐛 6 | 📅 2026-10-15 <img src="https://img.shields.io/github/stars/yzfly/Awesome-AGI?style=social"/> : A curated list of awesome AGI frameworks, software and resources.
 
   * [mikhail-bot/awesome-gpt3](https://github.com/mikhail-bot/awesome-gpt3) ⭐ 314 | 🐛 2 | 📅 2023-06-01 <img src="https://img.shields.io/github/stars/mikhail-bot/awesome-gpt3?style=social"/> :A Curated list of awesome GPT3 tools, libraries and resources.
 
   * [csbl-br/awesome-compbio-chatgpt](https://github.com/csbl-br/awesome-compbio-chatgpt) ⚠️ Archived <img src="https://img.shields.io/github/stars/csbl-br/awesome-compbio-chatgpt?style=social"/> : An awesome repository of community-curated applications of ChatGPT and other LLMs in computational biology!
 
-  * [doanbactam/awesome-stable-diffusion](https://github.com/doanbactam/awesome-stable-diffusion) ⭐ 84 | 🐛 9 | 📅 2026-11-18 <img src="https://img.shields.io/github/stars/doanbactam/awesome-stable-diffusion?style=social"/> : A curated list of awesome stable diffusion resources 🌟
+  * [doanbactam/awesome-stable-diffusion](https://github.com/doanbactam/awesome-stable-diffusion) ⭐ 84 | 🐛 10 | 📅 2026-11-18 <img src="https://img.shields.io/github/stars/doanbactam/awesome-stable-diffusion?style=social"/> : A curated list of awesome stable diffusion resources 🌟
 
   * [DefTruth/Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference) ⭐ 21 | 🐛 0 | 📅 2025-03-30 <img src="https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference?style=social"/> : 📖A curated list of Awesome LLM/VLM Inference Papers with codes, such as FlashAttention, PagedAttention, Parallelism, etc. 🎉🎉
 
@@ -815,33 +815,33 @@
 
 * ### Learning Resources
 
-  * [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) ⭐ 109,022 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/rasbt/LLMs-from-scratch?style=social"/> : Implementing a ChatGPT-like LLM from scratch, step by step. <https://www.manning.com/books/build-a-large-language-model-from-scratch>
+  * [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) ⭐ 109,073 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/rasbt/LLMs-from-scratch?style=social"/> : Implementing a ChatGPT-like LLM from scratch, step by step. <https://www.manning.com/books/build-a-large-language-model-from-scratch>
 
-  * [mlabonne/llm-course](https://github.com/mlabonne/llm-course) ⭐ 85,221 | 🐛 92 | 📅 2026-02-05 <img src="https://img.shields.io/github/stars/mlabonne/llm-course?style=social"/> : Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.[mlabonne.github.io/blog/](https://mlabonne.github.io/blog/)
+  * [mlabonne/llm-course](https://github.com/mlabonne/llm-course) ⭐ 85,249 | 🐛 92 | 📅 2026-02-05 <img src="https://img.shields.io/github/stars/mlabonne/llm-course?style=social"/> : Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.[mlabonne.github.io/blog/](https://mlabonne.github.io/blog/)
 
-  * [动手学深度学习（Dive into Deep Learning，D2L.ai）](https://github.com/d2l-ai/d2l-zh) ⭐ 82,724 | 🐛 130 | 🌐 Python | 📅 2024-07-30 <img src="https://img.shields.io/github/stars/d2l-ai/d2l-zh?style=social"/> : 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。[zh.d2l.ai](http://zh.d2l.ai/)
+  * [动手学深度学习（Dive into Deep Learning，D2L.ai）](https://github.com/d2l-ai/d2l-zh) ⭐ 82,743 | 🐛 130 | 🌐 Python | 📅 2024-07-30 <img src="https://img.shields.io/github/stars/d2l-ai/d2l-zh?style=social"/> : 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。[zh.d2l.ai](http://zh.d2l.ai/)
 
-  * [MiniMind](https://github.com/jingyaogong/minimind) ⭐ 70,658 | 🐛 64 | 🌐 Python | 📅 2026-11-23 <img src="https://img.shields.io/github/stars/jingyaogong/minimind?style=social"/> : 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h! [jingyaogong.github.io/minimind](https://jingyaogong.github.io/minimind)
+  * [MiniMind](https://github.com/jingyaogong/minimind) ⭐ 71,338 | 🐛 66 | 🌐 Python | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/jingyaogong/minimind?style=social"/> : 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h! [jingyaogong.github.io/minimind](https://jingyaogong.github.io/minimind)
 
   * [karpathy/LLM101n](https://github.com/karpathy/LLM101n) ⚠️ Archived <img src="https://img.shields.io/github/stars/karpathy/LLM101n?style=social"/> : LLM101n: Let's build a Storyteller. In this course we will build a Storyteller AI Large Language Model (LLM). Hand in hand, you'll be able create, refine and illustrate little [stories](https://huggingface.co/datasets/roneneldan/TinyStories) with the AI. We are going to build everything end-to-end from basics to a functioning web app similar to ChatGPT, from scratch in Python, C and CUDA, and with minimal computer science prerequisits. By the end you should have a relatively deep understanding of AI, LLMs, and deep learning more generally.
 
-  * [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) ⭐ 25,984 | 🐛 54 | 🌐 Jupyter Notebook | 📅 2024-08-18 <img src="https://img.shields.io/github/stars/karpathy/nn-zero-to-hero?style=social"/> : Neural Networks: Zero to Hero. A course on neural networks that starts all the way at the basics. The course is a series of YouTube videos where we code and train neural networks together. The Jupyter notebooks we build in the videos are then captured here inside the [lectures](https://github.com/karpathy/nn-zero-to-hero/blob/master/lectures) ⭐ 25,984 | 🐛 54 | 🌐 Jupyter Notebook | 📅 2024-08-18 directory. Every lecture also has a set of exercises included in the video description.
+  * [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) ⭐ 26,018 | 🐛 54 | 🌐 Jupyter Notebook | 📅 2024-08-18 <img src="https://img.shields.io/github/stars/karpathy/nn-zero-to-hero?style=social"/> : Neural Networks: Zero to Hero. A course on neural networks that starts all the way at the basics. The course is a series of YouTube videos where we code and train neural networks together. The Jupyter notebooks we build in the videos are then captured here inside the [lectures](https://github.com/karpathy/nn-zero-to-hero/blob/master/lectures) ⭐ 26,018 | 🐛 54 | 🌐 Jupyter Notebook | 📅 2024-08-18 directory. Every lecture also has a set of exercises included in the video description.
 
   * [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) ⭐ 25,309 | 🐛 20 | 🌐 HTML | 📅 2026-10-14 <img src="https://img.shields.io/github/stars/liguodongiot/llm-action?style=social"/> :  本项目旨在分享大模型相关技术原理以及实战经验。
 
-  * [Nano-vLLM](https://github.com/GeeeekExplorer/nano-vllm) ⭐ 16,575 | 🐛 117 | 🌐 Python | 📅 2026-04-26 <img src="https://img.shields.io/github/stars/GeeeekExplorer/nano-vllm?style=social"/> : A lightweight vLLM implementation built from scratch.
+  * [Nano-vLLM](https://github.com/GeeeekExplorer/nano-vllm) ⭐ 16,587 | 🐛 117 | 🌐 Python | 📅 2026-04-26 <img src="https://img.shields.io/github/stars/GeeeekExplorer/nano-vllm?style=social"/> : A lightweight vLLM implementation built from scratch.
 
   * [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) ⭐ 15,194 | 🐛 24 | 🌐 Jupyter Notebook | 📅 2024-05-23 <img src="https://img.shields.io/github/stars/naklecha/llama3-from-scratch?style=social"/> : llama3 implementation one matrix multiplication at a time.
 
-  * [datawhalechina/llm-universe](https://github.com/datawhalechina/llm-universe) ⭐ 14,343 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/datawhalechina/llm-universe?style=social"/> : 动手学大模型应用开发。本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：<https://datawhalechina.github.io/llm-universe/>
+  * [datawhalechina/llm-universe](https://github.com/datawhalechina/llm-universe) ⭐ 14,352 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/datawhalechina/llm-universe?style=social"/> : 动手学大模型应用开发。本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：<https://datawhalechina.github.io/llm-universe/>
 
-  * [langchain-ai/rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch) ⭐ 10,178 | 🐛 46 | 🌐 Jupyter Notebook | 📅 2025-06-26 <img src="https://img.shields.io/github/stars/langchain-ai/rag-from-scratch?style=social"/> : Retrieval augmented generation (RAG) comes is a general methodology for connecting LLMs with external data sources. These notebooks accompany a video series will build up an understanding of RAG from scratch, starting with the basics of indexing, retrieval, and generation.
+  * [langchain-ai/rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch) ⭐ 10,183 | 🐛 46 | 🌐 Jupyter Notebook | 📅 2025-06-26 <img src="https://img.shields.io/github/stars/langchain-ai/rag-from-scratch?style=social"/> : Retrieval augmented generation (RAG) comes is a general methodology for connecting LLMs with external data sources. These notebooks accompany a video series will build up an understanding of RAG from scratch, starting with the basics of indexing, retrieval, and generation.
 
-  * [MiniMind-V](https://github.com/jingyaogong/minimind-v) ⭐ 8,893 | 🐛 21 | 🌐 Python | 📅 2026-10-27 <img src="https://img.shields.io/github/stars/jingyaogong/minimind-v?style=social"/> : 🚀 「大模型」3小时从0训练27M参数的视觉多模态VLM！🌏 Train a 27M-parameter VLM from scratch in just 3 hours! [jingyaogong.github.io/minimind-v](https://jingyaogong.github.io/minimind-v)
+  * [MiniMind-V](https://github.com/jingyaogong/minimind-v) ⭐ 8,900 | 🐛 21 | 🌐 Python | 📅 2026-10-27 <img src="https://img.shields.io/github/stars/jingyaogong/minimind-v?style=social"/> : 🚀 「大模型」3小时从0训练27M参数的视觉多模态VLM！🌏 Train a 27M-parameter VLM from scratch in just 3 hours! [jingyaogong.github.io/minimind-v](https://jingyaogong.github.io/minimind-v)
 
-  * [DataTalksClub/llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp) ⭐ 7,747 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2026-11-16 <img src="https://img.shields.io/github/stars/DataTalksClub/llm-zoomcamp?style=social"/> :  LLM Zoomcamp - a free online course about building a Q\&A system.
+  * [DataTalksClub/llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp) ⭐ 7,755 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2026-11-16 <img src="https://img.shields.io/github/stars/DataTalksClub/llm-zoomcamp?style=social"/> :  LLM Zoomcamp - a free online course about building a Q\&A system.
 
-  * [karpathy/build-nanogpt](https://github.com/karpathy/build-nanogpt) ⭐ 5,665 | 🐛 35 | 🌐 Python | 📅 2024-08-13 <img src="https://img.shields.io/github/stars/karpathy/build-nanogpt?style=social"/> : Video+code lecture on building nanoGPT from scratch.
+  * [karpathy/build-nanogpt](https://github.com/karpathy/build-nanogpt) ⭐ 5,667 | 🐛 35 | 🌐 Python | 📅 2024-08-13 <img src="https://img.shields.io/github/stars/karpathy/build-nanogpt?style=social"/> : Video+code lecture on building nanoGPT from scratch.
 
   * [zyds/transformers-code](https://github.com/zyds/transformers-code) ⭐ 4,105 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2024-07-15 <img src="https://img.shields.io/github/stars/zyds/transformers-code?style=social"/> :  手把手带你实战 Huggingface Transformers 课程视频同步更新在B站与YouTube。
 
@@ -889,7 +889,7 @@
 
 * ### Community
 
-  * [ModelScope | 魔塔社区](https://github.com/modelscope/modelscope) ⭐ 9,230 | 🐛 23 | 🌐 Python | 📅 2026-11-16 <img src="https://img.shields.io/github/stars/modelscope/modelscope?style=social"/> : [ModelScope](https://www.modelscope.cn/home) is built upon the notion of “Model-as-a-Service” (MaaS). It seeks to bring together most advanced machine learning models from the AI community, and streamlines the process of leveraging AI models in real-world applications. [ModelScope](https://www.modelscope.cn/home) 是一个“模型即服务”(MaaS)平台，旨在汇集来自AI社区的最先进的机器学习模型，并简化在实际应用中使用AI模型的流程。ModelScope库使开发人员能够通过丰富的API设计执行推理、训练和评估，从而促进跨不同AI领域的最先进模型的统一体验。[www.modelscope.cn/](https://www.modelscope.cn/)
+  * [ModelScope | 魔塔社区](https://github.com/modelscope/modelscope) ⭐ 9,230 | 🐛 23 | 🌐 Python | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/modelscope/modelscope?style=social"/> : [ModelScope](https://www.modelscope.cn/home) is built upon the notion of “Model-as-a-Service” (MaaS). It seeks to bring together most advanced machine learning models from the AI community, and streamlines the process of leveraging AI models in real-world applications. [ModelScope](https://www.modelscope.cn/home) 是一个“模型即服务”(MaaS)平台，旨在汇集来自AI社区的最先进的机器学习模型，并简化在实际应用中使用AI模型的流程。ModelScope库使开发人员能够通过丰富的API设计执行推理、训练和评估，从而促进跨不同AI领域的最先进模型的统一体验。[www.modelscope.cn/](https://www.modelscope.cn/)
 
   * [Hugging Face](https://huggingface.co/) : The AI community building the future. The platform where the machine learning community collaborates on models, datasets, and applications.
 
@@ -899,11 +899,11 @@
 
 ### 提示语（魔法）
 
-* [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 178,487 | 🐛 98 | 🌐 MDX | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social"/> : This repo includes ChatGPT prompt curation to use ChatGPT better.
+* [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 178,546 | 🐛 99 | 🌐 MDX | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social"/> : This repo includes ChatGPT prompt curation to use ChatGPT better.
 
-* [EmbraceAGI/LangGPT](https://github.com/EmbraceAGI/LangGPT) ⭐ 12,737 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-11 <img src="https://img.shields.io/github/stars/EmbraceAGI/LangGPT?style=social"/> : LangGPT: Empowering everyone to become a prompt expert!🚀 Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt [feishu.langgpt.ai/](http://feishu.langgpt.ai/)
+* [EmbraceAGI/LangGPT](https://github.com/EmbraceAGI/LangGPT) ⭐ 12,743 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-11 <img src="https://img.shields.io/github/stars/EmbraceAGI/LangGPT?style=social"/> : LangGPT: Empowering everyone to become a prompt expert!🚀 Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt [feishu.langgpt.ai/](http://feishu.langgpt.ai/)
 
-* [travistangvh/ChatGPT-Data-Science-Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) ⭐ 1,629 | 🐛 1 | 📅 2023-12-28 <img src="https://img.shields.io/github/stars/travistangvh/ChatGPT-Data-Science-Prompts?style=social"/> : 🚀 ChatGPT Prompts for Data Science! A repository of 60 useful data science prompts for ChatGPT.
+* [travistangvh/ChatGPT-Data-Science-Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) ⭐ 1,630 | 🐛 1 | 📅 2023-12-28 <img src="https://img.shields.io/github/stars/travistangvh/ChatGPT-Data-Science-Prompts?style=social"/> : 🚀 ChatGPT Prompts for Data Science! A repository of 60 useful data science prompts for ChatGPT.
 
 * [kevinamiri/Instructgpt-prompts](https://github.com/kevinamiri/Instructgpt-prompts) ⭐ 540 | 🐛 0 | 📅 2025-11-13 <img src="https://img.shields.io/github/stars/kevinamiri/Instructgpt-prompts?style=social"/> : A collection of ChatGPT and GPT-3.5 instruction-based prompts for generating and classifying text. [prompts.maila.ai/](https://prompts.maila.ai/)
 
@@ -913,11 +913,11 @@
 
 * ### Python API
 
-  * [gpt4free](https://github.com/xtekky/gpt4free) ⭐ 67,105 | 🐛 4 | 🌐 Python | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/xtekky/gpt4free?style=social"/> : decentralising the Ai Industry, just some language model api's... [discord.gg/gpt4free](https://discord.gg/gpt4free)
+  * [gpt4free](https://github.com/xtekky/gpt4free) ⭐ 67,112 | 🐛 4 | 🌐 Python | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/xtekky/gpt4free?style=social"/> : decentralising the Ai Industry, just some language model api's... [discord.gg/gpt4free](https://discord.gg/gpt4free)
 
   * [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) ⚠️ Archived <img src="https://img.shields.io/github/stars/acheong08/ChatGPT?style=social"/> : Reverse Engineered ChatGPT API by OpenAI. Extensible for chatbots etc.
 
-  * [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) ⭐ 13,000 | 🐛 106 | 🌐 TypeScript | 📅 2024-08-14 <img src="https://img.shields.io/github/stars/wong2/chatgpt-google-extension?style=social"/> : A browser extension that enhance search engines with ChatGPT.
+  * [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) ⭐ 13,002 | 🐛 106 | 🌐 TypeScript | 📅 2024-08-14 <img src="https://img.shields.io/github/stars/wong2/chatgpt-google-extension?style=social"/> : A browser extension that enhance search engines with ChatGPT.
 
   * [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) ⚠️ Archived <img src="https://img.shields.io/github/stars/acheong08/EdgeGPT?style=social"/> : Reverse engineered API of Microsoft's Bing Chat AI.
 
@@ -927,7 +927,7 @@
 
 * ### Csharp API
 
-  * [betalgo/openai](https://github.com/betalgo/openai) ⭐ 3,021 | 🐛 22 | 🌐 C# | 📅 2026-03-21 <img src="https://img.shields.io/github/stars/betalgo/openai?style=social"/> : OpenAI ChatGPT, Whisper, GPT-3 , GPT-4, Azure OpenAI and DALL-E dotnet SDK. [betalgo.github.io/openai/](https://betalgo.github.io/openai/)
+  * [betalgo/openai](https://github.com/betalgo/openai) ⭐ 3,022 | 🐛 22 | 🌐 C# | 📅 2026-03-21 <img src="https://img.shields.io/github/stars/betalgo/openai?style=social"/> : OpenAI ChatGPT, Whisper, GPT-3 , GPT-4, Azure OpenAI and DALL-E dotnet SDK. [betalgo.github.io/openai/](https://betalgo.github.io/openai/)
 
   * [OkGoDoIt/OpenAI-API-dotnet](https://github.com/OkGoDoIt/OpenAI-API-dotnet) ⭐ 1,890 | 🐛 123 | 🌐 C# | 📅 2024-08-07 <img src="https://img.shields.io/github/stars/OkGoDoIt/OpenAI-API-dotnet?style=social"/> : An unofficial C#/.NET SDK for accessing the OpenAI GPT-3 API. [www.nuget.org/packages/OpenAI/](https://www.nuget.org/packages/OpenAI/)
 
@@ -946,19 +946,19 @@
 
   #### 集成开发环境
 
-  * [Cursor](https://github.com/getcursor/cursor) ⭐ 33,361 | 🐛 4 | 📅 2026-05-12 <img src="https://img.shields.io/github/stars/getcursor/cursor?style=social"/> : An editor made for programming with AI 🤖. Long term, our plan is to build Cursor into the world's most productive development environment. [cursor.so](https://www.cursor.so/)
+  * [Cursor](https://github.com/getcursor/cursor) ⭐ 33,362 | 🐛 4 | 📅 2026-05-12 <img src="https://img.shields.io/github/stars/getcursor/cursor?style=social"/> : An editor made for programming with AI 🤖. Long term, our plan is to build Cursor into the world's most productive development environment. [cursor.so](https://www.cursor.so/)
 
 * ### Chatbot
 
   #### 聊天机器人
 
-  * [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) ⭐ 13,223 | 🐛 54 | 🌐 TypeScript | 📅 2024-05-20 <img src="https://img.shields.io/github/stars/fuergaosi233/wechat-chatgpt?style=social"/> : Use ChatGPT On Wechat via wechaty.
+  * [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) ⭐ 13,224 | 🐛 54 | 🌐 TypeScript | 📅 2024-05-20 <img src="https://img.shields.io/github/stars/fuergaosi233/wechat-chatgpt?style=social"/> : Use ChatGPT On Wechat via wechaty.
 
   * [ChatHub](https://github.com/chathub-dev/chathub) ⭐ 10,670 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-20 <img src="https://img.shields.io/github/stars/chathub-dev/chathub?style=social"/> : ChatHub is an all-in-one chatbot client. [chathub.gg/?utm\_source=github](https://chathub.gg/?utm_source=github)
 
   * [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) ⭐ 3,361 | 🐛 74 | 🌐 Python | 📅 2026-07-17 <img src="https://img.shields.io/github/stars/OpenGVLab/Ask-Anything?style=social"/> : \[VideoChatGPT] ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS. [vchat.opengvlab.com/](https://vchat.opengvlab.com/). "VideoChat: Chat-Centric Video Understanding". (**[arXiv 2023](https://arxiv.org/abs/2305.06355)**).
 
-  * [InternLM/HuixiangDou](https://github.com/InternLM/HuixiangDou) ⭐ 2,500 | 🐛 37 | 🌐 Python | 📅 2025-11-24 <img src="https://img.shields.io/github/stars/InternLM/HuixiangDou?style=social"/> : HuixiangDou: Overcoming Group Chat Scenarios with LLM-based Technical Assistance. "HuixiangDou" is a domain-specific knowledge assistant based on the LLM. “茴香豆”是一个基于 LLM 的领域知识助手。
+  * [InternLM/HuixiangDou](https://github.com/InternLM/HuixiangDou) ⭐ 2,501 | 🐛 37 | 🌐 Python | 📅 2025-11-24 <img src="https://img.shields.io/github/stars/InternLM/HuixiangDou?style=social"/> : HuixiangDou: Overcoming Group Chat Scenarios with LLM-based Technical Assistance. "HuixiangDou" is a domain-specific knowledge assistant based on the LLM. “茴香豆”是一个基于 LLM 的领域知识助手。
 
   * [a16z-infra/llama2-chatbot](https://github.com/a16z-infra/llama2-chatbot) ⭐ 1,407 | 🐛 10 | 🌐 Python | 📅 2023-08-27 <img src="https://img.shields.io/github/stars/a16z-infra/llama2-chatbot?style=social"/> : LLaMA 2 Chatbot App ⚡
 
@@ -974,11 +974,11 @@
 
   #### 目标检测领域
 
-  * [DINOv2](https://github.com/facebookresearch/dinov2) ⭐ 13,570 | 🐛 305 | 🌐 Jupyter Notebook | 📅 2026-11-05 <img src="https://img.shields.io/github/stars/facebookresearch/dinov2?style=social"/> : "DINOv2: Learning Robust Visual Features without Supervision". (**[arXiv 2023](https://arxiv.org/abs/2304.07193)**).
+  * [DINOv2](https://github.com/facebookresearch/dinov2) ⭐ 13,571 | 🐛 305 | 🌐 Jupyter Notebook | 📅 2026-11-05 <img src="https://img.shields.io/github/stars/facebookresearch/dinov2?style=social"/> : "DINOv2: Learning Robust Visual Features without Supervision". (**[arXiv 2023](https://arxiv.org/abs/2304.07193)**).
 
-  * [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO) ⭐ 10,773 | 🐛 326 | 🌐 Python | 📅 2024-08-12 <img src="https://img.shields.io/github/stars/IDEA-Research/GroundingDINO?style=social"/> : "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection". (**[ECCV 2024](https://arxiv.org/abs/2303.05499)**).
+  * [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO) ⭐ 10,775 | 🐛 326 | 🌐 Python | 📅 2024-08-12 <img src="https://img.shields.io/github/stars/IDEA-Research/GroundingDINO?style=social"/> : "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection". (**[ECCV 2024](https://arxiv.org/abs/2303.05499)**).
 
-  * [YOLO-World](https://github.com/AILab-CVC/YOLO-World) ⭐ 6,620 | 🐛 421 | 🌐 Python | 📅 2025-02-26 <img src="https://img.shields.io/github/stars/AILab-CVC/YOLO-World?style=social"/> : "YOLO-World: Real-Time Open-Vocabulary Object Detection". (**[CVPR 2024](https://arxiv.org/abs/2401.17270)**). [www.yoloworld.cc](https://www.yoloworld.cc/)
+  * [YOLO-World](https://github.com/AILab-CVC/YOLO-World) ⭐ 6,623 | 🐛 421 | 🌐 Python | 📅 2025-02-26 <img src="https://img.shields.io/github/stars/AILab-CVC/YOLO-World?style=social"/> : "YOLO-World: Real-Time Open-Vocabulary Object Detection". (**[CVPR 2024](https://arxiv.org/abs/2401.17270)**). [www.yoloworld.cc](https://www.yoloworld.cc/)
 
   * [DINO](https://github.com/IDEA-Research/DINO) ⭐ 2,867 | 🐛 154 | 🌐 Python | 📅 2024-07-31 <img src="https://img.shields.io/github/stars/IDEA-Research/DINO?style=social"/> : "DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection". (**[ICLR 2023](https://arxiv.org/abs/2203.03605)**).
 
@@ -1004,7 +1004,7 @@
 
   #### 机器人与具身智能
 
-  * [LeRobot](https://github.com/huggingface/lerobot) ⭐ 29,082 | 🐛 1,019 | 🌐 Python | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/huggingface/lerobot?style=social"/> : 🤗 LeRobot: State-of-the-art Machine Learning for Real-World Robotics in Pytorch.
+  * [LeRobot](https://github.com/huggingface/lerobot) ⭐ 29,101 | 🐛 1,032 | 🌐 Python | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/huggingface/lerobot?style=social"/> : 🤗 LeRobot: State-of-the-art Machine Learning for Real-World Robotics in Pytorch.
 
   * [BestAnHongjun/InternDog](https://github.com/BestAnHongjun/InternDog) ⭐ 1 | 🐛 3 | 🌐 Python | 📅 2024-03-26 <img src="https://img.shields.io/github/stars/BestAnHongjun/InternDog?style=social"/> : InternDog: 基于InternLM2大模型的离线具身智能导盲犬。
 
@@ -1012,19 +1012,19 @@
 
   #### 代码助手
 
-  * [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) ⭐ 33,638 | 🐛 259 | 🌐 Python | 📅 2026-06-18 <img src="https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social"/> : The first real AI developer. GPT Pilot doesn't just generate code, it builds apps! GPT Pilot is the core technology for the [Pythagora VS Code extension](https://bit.ly/3IeZxp6) that aims to provide the first real AI developer companion. Not just an autocomplete or a helper for PR messages but rather a real AI developer that can write full features, debug them, talk to you about issues, ask for review, etc.
+  * [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) ⭐ 33,639 | 🐛 259 | 🌐 Python | 📅 2026-06-18 <img src="https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social"/> : The first real AI developer. GPT Pilot doesn't just generate code, it builds apps! GPT Pilot is the core technology for the [Pythagora VS Code extension](https://bit.ly/3IeZxp6) that aims to provide the first real AI developer companion. Not just an autocomplete or a helper for PR messages but rather a real AI developer that can write full features, debug them, talk to you about issues, ask for review, etc.
 
   * [Code Llama](https://github.com/facebookresearch/codellama) ⚠️ Archived <img src="https://img.shields.io/github/stars/facebookresearch/codellama?style=social"/> : Inference code for CodeLlama models.
 
-  * [CodeGeeX2](https://github.com/THUDM/CodeGeeX2) ⭐ 7,504 | 🐛 211 | 🌐 Python | 📅 2024-07-10 <img src="https://img.shields.io/github/stars/THUDM/CodeGeeX2?style=social"/> : CodeGeeX2: A More Powerful Multilingual Code Generation Model. [codegeex.cn](https://codegeex.cn/zh-CN)
+  * [CodeGeeX2](https://github.com/THUDM/CodeGeeX2) ⭐ 7,505 | 🐛 211 | 🌐 Python | 📅 2024-07-10 <img src="https://img.shields.io/github/stars/THUDM/CodeGeeX2?style=social"/> : CodeGeeX2: A More Powerful Multilingual Code Generation Model. [codegeex.cn](https://codegeex.cn/zh-CN)
 
-  * [StarCoder](https://github.com/bigcode-project/starcoder) ⭐ 7,501 | 🐛 104 | 🌐 Python | 📅 2024-02-27 <img src="https://img.shields.io/github/stars/bigcode-project/starcoder?style=social"/> : 💫 StarCoder is a language model (LM) trained on source code and natural language text. Its training data incorporates more that 80 different programming languages as well as text extracted from GitHub issues and commits and from notebooks.
+  * [StarCoder](https://github.com/bigcode-project/starcoder) ⭐ 7,502 | 🐛 104 | 🌐 Python | 📅 2024-02-27 <img src="https://img.shields.io/github/stars/bigcode-project/starcoder?style=social"/> : 💫 StarCoder is a language model (LM) trained on source code and natural language text. Its training data incorporates more that 80 different programming languages as well as text extracted from GitHub issues and commits and from notebooks.
 
 * ### Translator
 
   #### 翻译
 
-  * [yetone/openai-translator](https://github.com/yetone/openai-translator) ⭐ 25,079 | 🐛 523 | 🌐 TypeScript | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/yetone/openai-translator?style=social"/> : The translator that does more than just translation - powered by OpenAI.
+  * [yetone/openai-translator](https://github.com/yetone/openai-translator) ⭐ 25,081 | 🐛 523 | 🌐 TypeScript | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/yetone/openai-translator?style=social"/> : The translator that does more than just translation - powered by OpenAI.
 
   * [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate) ⭐ 6,963 | 🐛 25 | 🌐 Python | 📅 2024-09-17 <img src="https://img.shields.io/github/stars/0xpayne/gpt-migrate?style=social"/> : Easily migrate your codebase from one framework or language to another. [gpt-migrate.com](https://gpt-migrate.com/)
 
@@ -1032,25 +1032,25 @@
 
   #### 本地知识库
 
-  * [privateGPT](https://github.com/imartinez/privateGPT) ⭐ 57,651 | 🐛 26 | 🌐 Python | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/imartinez/privateGPT?style=social"/> : Ask questions to your documents without an internet connection, using the power of LLMs. 100% private, no data leaves your execution environment at any point. You can ingest documents and ask questions without an internet connection! Built with [LangChain](https://github.com/langchain-ai/langchain) ⭐ 149,970 | 🐛 784 | 🌐 Python | 📅 2026-11-25, [GPT4All](https://github.com/nomic-ai/gpt4all) ⭐ 77,334 | 🐛 772 | 🌐 C++ | 📅 2025-05-27, [LlamaCpp](https://github.com/ggerganov/llama.cpp) ⭐ 136,205 | 🐛 2,644 | 🌐 C++ | 📅 2026-11-25, [Chroma](https://www.trychroma.com/) and [SentenceTransformers](https://www.sbert.net/).
+  * [privateGPT](https://github.com/imartinez/privateGPT) ⭐ 57,659 | 🐛 27 | 🌐 Python | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/imartinez/privateGPT?style=social"/> : Ask questions to your documents without an internet connection, using the power of LLMs. 100% private, no data leaves your execution environment at any point. You can ingest documents and ask questions without an internet connection! Built with [LangChain](https://github.com/langchain-ai/langchain) ⭐ 150,020 | 🐛 779 | 🌐 Python | 📅 2026-11-26, [GPT4All](https://github.com/nomic-ai/gpt4all) ⭐ 77,346 | 🐛 772 | 🌐 C++ | 📅 2025-05-27, [LlamaCpp](https://github.com/ggerganov/llama.cpp) ⭐ 136,332 | 🐛 2,652 | 🌐 C++ | 📅 2026-11-26, [Chroma](https://www.trychroma.com/) and [SentenceTransformers](https://www.sbert.net/).
 
-  * [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) ⭐ 38,718 | 🐛 22 | 🌐 Python | 📅 2025-11-10 <img src="https://img.shields.io/github/stars/chatchat-space/Langchain-Chatchat?style=social"/> : lLangchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain ｜ 基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答。
+  * [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) ⭐ 38,716 | 🐛 22 | 🌐 Python | 📅 2025-11-10 <img src="https://img.shields.io/github/stars/chatchat-space/Langchain-Chatchat?style=social"/> : lLangchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain ｜ 基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答。
 
-  * [labring/FastGPT](https://github.com/labring/FastGPT) ⭐ 30,101 | 🐛 151 | 🌐 TypeScript | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/labring/FastGPT?style=social"/> : FastGPT is a knowledge-based question answering system built on the LLM. It offers out-of-the-box data processing and model invocation capabilities. Moreover, it allows for workflow orchestration through Flow visualization, thereby enabling complex question and answer scenarios! [fastgpt.run](https://fastgpt.run/)
+  * [labring/FastGPT](https://github.com/labring/FastGPT) ⭐ 30,110 | 🐛 147 | 🌐 TypeScript | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/labring/FastGPT?style=social"/> : FastGPT is a knowledge-based question answering system built on the LLM. It offers out-of-the-box data processing and model invocation capabilities. Moreover, it allows for workflow orchestration through Flow visualization, thereby enabling complex question and answer scenarios! [fastgpt.run](https://fastgpt.run/)
 
-  * [yanqiangmiffy/Chinese-LangChain](https://github.com/yanqiangmiffy/Chinese-LangChain) ⭐ 2,818 | 🐛 51 | 🌐 Python | 📅 2023-06-20 <img src="https://img.shields.io/github/stars/yanqiangmiffy/Chinese-LangChain?style=social"/> : Chinese-LangChain：中文langchain项目，基于ChatGLM-6b+langchain实现本地化知识库检索与智能答案生成。俗称：小必应，Q.Talk，强聊，QiangTalk。
+  * [yanqiangmiffy/Chinese-LangChain](https://github.com/yanqiangmiffy/Chinese-LangChain) ⭐ 2,817 | 🐛 51 | 🌐 Python | 📅 2023-06-20 <img src="https://img.shields.io/github/stars/yanqiangmiffy/Chinese-LangChain?style=social"/> : Chinese-LangChain：中文langchain项目，基于ChatGLM-6b+langchain实现本地化知识库检索与智能答案生成。俗称：小必应，Q.Talk，强聊，QiangTalk。
 
 * ### Long-Term Memory
 
   #### 长期记忆
 
-  * [MemGPT](https://github.com/cpacker/MemGPT) ⭐ 25,540 | 🐛 1 | 📅 2026-10-18 <img src="https://img.shields.io/github/stars/cpacker/MemGPT?style=social"/> : Create LLM agents with long-term memory and custom tools 📚🦙. [memgpt.readme.io](https://memgpt.readme.io/)
+  * [MemGPT](https://github.com/cpacker/MemGPT) ⭐ 25,556 | 🐛 1 | 📅 2026-10-18 <img src="https://img.shields.io/github/stars/cpacker/MemGPT?style=social"/> : Create LLM agents with long-term memory and custom tools 📚🦙. [memgpt.readme.io](https://memgpt.readme.io/)
 
 * ### Question Answering System
 
   #### 问答系统
 
-  * [THUDM/WebGLM](https://github.com/THUDM/WebGLM) ⭐ 1,596 | 🐛 52 | 🌐 Python | 📅 2025-03-25 <img src="https://img.shields.io/github/stars/THUDM/WebGLM?style=social"/> : WebGLM: An Efficient Web-enhanced Question Answering System (KDD 2023). "WebGLM: Towards An Efficient Web-Enhanced Question Answering System with Human Preferences". (**[arXiv 2023](https://arxiv.org/abs/2306.07906)**).
+  * [THUDM/WebGLM](https://github.com/THUDM/WebGLM) ⭐ 1,597 | 🐛 52 | 🌐 Python | 📅 2025-03-25 <img src="https://img.shields.io/github/stars/THUDM/WebGLM?style=social"/> : WebGLM: An Efficient Web-enhanced Question Answering System (KDD 2023). "WebGLM: Towards An Efficient Web-Enhanced Question Answering System with Human Preferences". (**[arXiv 2023](https://arxiv.org/abs/2306.07906)**).
 
   * [rese1f/MovieChat](https://github.com/rese1f/MovieChat) ⭐ 710 | 🐛 42 | 🌐 Python | 📅 2025-01-29 <img src="https://img.shields.io/github/stars/rese1f/MovieChat?style=social"/> : 🔥 chat with over 10K frames of video! MovieChat can handle videos with >10K frames on a 24GB graphics card. MovieChat has a 10000× advantage over other methods in terms of the average increase in GPU memory cost per frame (21.3KB/f to \~200MB/f).
 
@@ -1060,9 +1060,9 @@
 
   #### 学术领域
 
-  * [binary-husky/gpt\_academic](https://github.com/binary-husky/gpt_academic) ⭐ 71,717 | 🐛 331 | 🌐 Python | 📅 2026-01-25 <img src="https://img.shields.io/github/stars/binary-husky/gpt_academic?style=social"/> : 为ChatGPT/GLM提供图形交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm2等本地模型。兼容文心一言, moss, llama2, rwkv, claude2, 通义千问, 书生, 讯飞星火等。
+  * [binary-husky/gpt\_academic](https://github.com/binary-husky/gpt_academic) ⭐ 71,724 | 🐛 331 | 🌐 Python | 📅 2026-01-25 <img src="https://img.shields.io/github/stars/binary-husky/gpt_academic?style=social"/> : 为ChatGPT/GLM提供图形交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm2等本地模型。兼容文心一言, moss, llama2, rwkv, claude2, 通义千问, 书生, 讯飞星火等。
 
-  * [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) ⭐ 20,027 | 🐛 84 | 🌐 Python | 📅 2026-03-02 <img src="https://img.shields.io/github/stars/kaixindelele/ChatPaper?style=social"/> : Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复。 💥💥💥面向全球，服务万千科研人的ChatPaper免费网页版正式上线：<https://chatpaper.org/> 💥💥💥
+  * [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) ⭐ 20,028 | 🐛 84 | 🌐 Python | 📅 2026-03-02 <img src="https://img.shields.io/github/stars/kaixindelele/ChatPaper?style=social"/> : Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复。 💥💥💥面向全球，服务万千科研人的ChatPaper免费网页版正式上线：<https://chatpaper.org/> 💥💥💥
 
   * [nishiwen1214/ChatReviewer](https://github.com/nishiwen1214/ChatReviewer) ⭐ 1,376 | 🐛 20 | 🌐 Python | 📅 2024-11-22 <img src="https://img.shields.io/github/stars/nishiwen1214/ChatReviewer?style=social"/> : ChatReviewer: use ChatGPT to review papers; ChatResponse: use ChatGPT to respond to reviewers. 💥💥💥ChatReviewer的第一版网页出来了！！！ 直接点击：<https://huggingface.co/spaces/ShiwenNi/ChatReviewer>
 
@@ -1080,15 +1080,15 @@
 
   #### 医药领域
 
-  * [MedicalGPT](https://github.com/shibing624/MedicalGPT) ⭐ 5,903 | 🐛 6 | 🌐 Python | 📅 2026-09-15 <img src="https://img.shields.io/github/stars/shibing624/MedicalGPT?style=social"/> : MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现包括二次预训练、有监督微调、奖励建模、强化学习训练。"微信公众号「KBQA沉思录」《[【中文医疗大模型】训练全流程源码剖析](https://mp.weixin.qq.com/s/DTHIxyDb9vG793hAKGLt2g)》"。
+  * [MedicalGPT](https://github.com/shibing624/MedicalGPT) ⭐ 5,902 | 🐛 6 | 🌐 Python | 📅 2026-09-15 <img src="https://img.shields.io/github/stars/shibing624/MedicalGPT?style=social"/> : MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现包括二次预训练、有监督微调、奖励建模、强化学习训练。"微信公众号「KBQA沉思录」《[【中文医疗大模型】训练全流程源码剖析](https://mp.weixin.qq.com/s/DTHIxyDb9vG793hAKGLt2g)》"。
 
   * [本草\[原名：华驼(HuaTuo)\]](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) ⭐ 4,998 | 🐛 28 | 🌐 Python | 📅 2026-07-04 <img src="https://img.shields.io/github/stars/SCIR-HI/Huatuo-Llama-Med-Chinese?style=social"/> : Repo for BenTsao \[original name: HuaTuo (华驼)], Llama-7B tuned with Chinese medical knowledge. 本草\[原名：华驼(HuaTuo)]: 基于中文医学知识的LLaMA微调模型。本项目开源了经过中文医学指令精调/指令微调(Instruct-tuning) 的LLaMA-7B模型。我们通过医学知识图谱和GPT3.5 API构建了中文医学指令数据集，并在此基础上对LLaMA进行了指令微调，提高了LLaMA在医疗领域的问答效果。 "HuaTuo: Tuning LLaMA Model with Chinese Medical Knowledge". (**[arXiv 2023](https://arxiv.org/abs/2304.06975)**).
 
-  * [MedSAM](https://github.com/bowang-lab/MedSAM) ⭐ 4,458 | 🐛 20 | 🌐 Jupyter Notebook | 📅 2025-05-07 <img src="https://img.shields.io/github/stars/bowang-lab/MedSAM?style=social"/> : "Segment Anything in Medical Images". (**[arXiv 2023](https://arxiv.org/abs/2304.12306)**). "微信公众号「江大白」《[MedSAM在医学领域，图像分割中的落地应用（附论文及源码）](https://mp.weixin.qq.com/s/JJ0umIzJ5VKJ87A_jnDtOw)》"。
+  * [MedSAM](https://github.com/bowang-lab/MedSAM) ⭐ 4,459 | 🐛 20 | 🌐 Jupyter Notebook | 📅 2025-05-07 <img src="https://img.shields.io/github/stars/bowang-lab/MedSAM?style=social"/> : "Segment Anything in Medical Images". (**[arXiv 2023](https://arxiv.org/abs/2304.12306)**). "微信公众号「江大白」《[MedSAM在医学领域，图像分割中的落地应用（附论文及源码）](https://mp.weixin.qq.com/s/JJ0umIzJ5VKJ87A_jnDtOw)》"。
 
   * [DoctorGPT](https://github.com/llSourcell/DoctorGPT) ⭐ 3,806 | 🐛 23 | 🌐 Python | 📅 2023-09-21 <img src="https://img.shields.io/github/stars/llSourcell/DoctorGPT?style=social"/> :   DoctorGPT is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.
 
-  * [LLaVA-Med](https://github.com/microsoft/LLaVA-Med) ⭐ 2,243 | 🐛 109 | 🌐 Python | 📅 2025-06-04 <img src="https://img.shields.io/github/stars/microsoft/LLaVA-Med?style=social"/> : "LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day". (**[arXiv 2023](https://arxiv.org/abs/2306.00890)**). "微信公众号「CVHub」《[微软发布医学多模态大模型LLaVA-Med | 基于LLaVA的医学指令微调](https://mp.weixin.qq.com/s/gzyVtbMArWDnfSzfCkxl9w)》"。
+  * [LLaVA-Med](https://github.com/microsoft/LLaVA-Med) ⭐ 2,244 | 🐛 109 | 🌐 Python | 📅 2025-06-04 <img src="https://img.shields.io/github/stars/microsoft/LLaVA-Med?style=social"/> : "LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day". (**[arXiv 2023](https://arxiv.org/abs/2306.00890)**). "微信公众号「CVHub」《[微软发布医学多模态大模型LLaVA-Med | 基于LLaVA的医学指令微调](https://mp.weixin.qq.com/s/gzyVtbMArWDnfSzfCkxl9w)》"。
 
   * [仲景](https://github.com/SupritYoung/Zhongjing) ⭐ 402 | 🐛 13 | 🌐 Python | 📅 2023-12-12 <img src="https://img.shields.io/github/stars/SupritYoung/Zhongjing?style=social"/> : 仲景：首个实现从预训练到 RLHF 全流程训练的中文医疗大模型。 "Zhongjing: Enhancing the Chinese Medical Capabilities of Large Language Model through Expert Feedback and Real-world Multi-turn Dialogue". (**[arXiv 2023](https://arxiv.org/abs/2308.03549)**).
 
@@ -1100,7 +1100,7 @@
 
   #### 心理健康领域
 
-  * [SmartFlowAI/EmoLLM](https://github.com/SmartFlowAI/EmoLLM) ⭐ 1,798 | 🐛 6 | 🌐 Python | 📅 2026-06-18 <img src="https://img.shields.io/github/stars/SmartFlowAI/EmoLLM?style=social"/> : EmoLLM-心理健康大模型是一系列能够支持 理解用户-支持用户-帮助用户 心理健康辅导链路的心理健康大模型，由 LLM指令微调而来。心理健康大模型、LLM、The Big Model of Mental Health、Finetune、InternLM2、Qwen、ChatGLM、Baichuan、DeepSeek、Mixtral。
+  * [SmartFlowAI/EmoLLM](https://github.com/SmartFlowAI/EmoLLM) ⭐ 1,799 | 🐛 6 | 🌐 Python | 📅 2026-06-18 <img src="https://img.shields.io/github/stars/SmartFlowAI/EmoLLM?style=social"/> : EmoLLM-心理健康大模型是一系列能够支持 理解用户-支持用户-帮助用户 心理健康辅导链路的心理健康大模型，由 LLM指令微调而来。心理健康大模型、LLM、The Big Model of Mental Health、Finetune、InternLM2、Qwen、ChatGLM、Baichuan、DeepSeek、Mixtral。
 
   * [MeChat](https://github.com/qiuhuachuan/smile) ⭐ 538 | 🐛 2 | 🌐 Python | 📅 2024-11-17 <img src="https://img.shields.io/github/stars/qiuhuachuan/smile?style=social"/> : 中文心理健康支持对话数据集(SmileChat)与大模型(MeChat)。 "SMILE: Single-turn to Multi-turn Inclusive Language Expansion via ChatGPT for Mental Health Support". (**[arXiv 2023](https://arxiv.org/abs/2305.00450)**).
 
@@ -1108,15 +1108,15 @@
 
   #### 法律领域
 
-  * [ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) ⭐ 7,636 | 🐛 66 | 📅 2025-01-04 <img src="https://img.shields.io/github/stars/PKU-YuanGroup/ChatLaw?style=social"/> : ChatLaw-法律大模型。[chatlaw.cloud/lawchat/](https://chatlaw.cloud/lawchat/)
+  * [ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) ⭐ 7,637 | 🐛 66 | 📅 2025-01-04 <img src="https://img.shields.io/github/stars/PKU-YuanGroup/ChatLaw?style=social"/> : ChatLaw-法律大模型。[chatlaw.cloud/lawchat/](https://chatlaw.cloud/lawchat/)
 
-  * [LaWGPT](https://github.com/pengxiao-song/LaWGPT) ⭐ 6,051 | 🐛 86 | 🌐 Python | 📅 2024-06-11 <img src="https://img.shields.io/github/stars/pengxiao-song/LaWGPT?style=social"/> : 🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. LaWGPT 是一系列基于中文法律知识的开源大语言模型。该系列模型在通用中文基座模型（如 Chinese-LLaMA、ChatGLM 等）的基础上扩充法律领域专有词表、大规模中文法律语料预训练，增强了大模型在法律领域的基础语义理解能力。在此基础上，构造法律领域对话问答数据集、中国司法考试数据集进行指令精调，提升了模型对法律内容的理解和执行能力。
+  * [LaWGPT](https://github.com/pengxiao-song/LaWGPT) ⭐ 6,054 | 🐛 86 | 🌐 Python | 📅 2024-06-11 <img src="https://img.shields.io/github/stars/pengxiao-song/LaWGPT?style=social"/> : 🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. LaWGPT 是一系列基于中文法律知识的开源大语言模型。该系列模型在通用中文基座模型（如 Chinese-LLaMA、ChatGLM 等）的基础上扩充法律领域专有词表、大规模中文法律语料预训练，增强了大模型在法律领域的基础语义理解能力。在此基础上，构造法律领域对话问答数据集、中国司法考试数据集进行指令精调，提升了模型对法律内容的理解和执行能力。
 
 * ### Financial Field
 
   #### 金融领域
 
-  * [FinGPT](https://github.com/ai4finance-foundation/fingpt) ⭐ 21,711 | 🐛 48 | 🌐 Jupyter Notebook | 📅 2026-11-18 <img src="https://img.shields.io/github/stars/ai4finance-foundation/fingpt?style=social"/> : Data-Centric FinGPT. Open-source for open finance! Revolutionize 🔥 We'll soon release the trained model. "微信公众号「AINLPer」《[FinGPT：一个「专用于金融领域」的开源大语言模型（LLM）框架，源码公开！](https://mp.weixin.qq.com/s/A9euFin675nxGGciiX6rJQ)》"。
+  * [FinGPT](https://github.com/ai4finance-foundation/fingpt) ⭐ 21,718 | 🐛 48 | 🌐 Jupyter Notebook | 📅 2026-11-18 <img src="https://img.shields.io/github/stars/ai4finance-foundation/fingpt?style=social"/> : Data-Centric FinGPT. Open-source for open finance! Revolutionize 🔥 We'll soon release the trained model. "微信公众号「AINLPer」《[FinGPT：一个「专用于金融领域」的开源大语言模型（LLM）框架，源码公开！](https://mp.weixin.qq.com/s/A9euFin675nxGGciiX6rJQ)》"。
 
 * ### Math Field
 
@@ -1180,15 +1180,15 @@
 
   #### 多智能体协作
 
-  * [MetaGPT](https://github.com/geekan/MetaGPT) ⭐ 71,474 | 🐛 173 | 🌐 Python | 📅 2026-01-21 <img src="https://img.shields.io/github/stars/geekan/MetaGPT?style=social"/> : "MetaGPT: Meta Programming for Multi-Agent Collaborative Framework". (**[arXiv 2023](https://arxiv.org/abs/2308.00352)**).
+  * [MetaGPT](https://github.com/geekan/MetaGPT) ⭐ 71,487 | 🐛 173 | 🌐 Python | 📅 2026-01-21 <img src="https://img.shields.io/github/stars/geekan/MetaGPT?style=social"/> : "MetaGPT: Meta Programming for Multi-Agent Collaborative Framework". (**[arXiv 2023](https://arxiv.org/abs/2308.00352)**).
 
-  * [OpenManus](https://github.com/mannaandpoem/OpenManus) ⭐ 747 | 🐛 39 | 📅 2025-06-21 <img src="https://img.shields.io/github/stars/mannaandpoem/OpenManus?style=social"/> : No fortress, purely open ground. OpenManus is Coming.
+  * [OpenManus](https://github.com/mannaandpoem/OpenManus) ⭐ 748 | 🐛 39 | 📅 2025-06-21 <img src="https://img.shields.io/github/stars/mannaandpoem/OpenManus?style=social"/> : No fortress, purely open ground. OpenManus is Coming.
 
 * ### AI Avatar and Digital Human
 
   #### AI数字生命
 
-  * [SillyTavern](https://github.com/SillyTavern/SillyTavern) ⭐ 36,065 | 🐛 547 | 🌐 JavaScript | 📅 2026-11-22 <img src="https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=social"/> : LLM Frontend for Power Users. [sillytavern.app](https://sillytavern.app/)
+  * [SillyTavern](https://github.com/SillyTavern/SillyTavern) ⭐ 36,104 | 🐛 551 | 🌐 JavaScript | 📅 2026-11-22 <img src="https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=social"/> : LLM Frontend for Power Users. [sillytavern.app](https://sillytavern.app/)
 
   * [FaceChain](https://github.com/modelscope/facechain) ⚠️ Archived <img src="https://img.shields.io/github/stars/modelscope/facechain?style=social"/> : FaceChain is a deep-learning toolchain for generating your Digital-Twin. FaceChain is a deep-learning toolchain for generating your Digital-Twin. With a minimum of 1 portrait-photo, you can create a Digital-Twin of your own and start generating personal portraits in different settings (multiple styles now supported!). You may train your Digital-Twin model and generate photos via FaceChain's Python scripts, or via the familiar Gradio interface. FaceChain是一个可以用来打造个人数字形象的深度学习模型工具。用户仅需要提供最低三张照片即可获得独属于自己的个人形象数字替身。FaceChain支持在gradio的界面中使用模型训练和推理能力，也支持资深开发者使用python脚本进行训练推理。
 
@@ -1210,25 +1210,25 @@
 
   #### 图形用户界面
 
-  * [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 165,375 | 🐛 2,511 | 🌐 Python | 📅 2026-03-02 <img src="https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social"/> : Stable Diffusion web UI. A browser interface based on Gradio library for Stable Diffusion.
+  * [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 165,387 | 🐛 2,511 | 🌐 Python | 📅 2026-03-02 <img src="https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social"/> : Stable Diffusion web UI. A browser interface based on Gradio library for Stable Diffusion.
 
   * [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) ⭐ 88,985 | 🐛 870 | 🌐 TypeScript | 📅 2026-10-20 <img src="https://img.shields.io/github/stars/Yidadaa/ChatGPT-Next-Web?style=social"/> : A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 
-  * [Lobe Chat](https://github.com/lobehub/lobe-chat) ⭐ 86,130 | 🐛 1,451 | 🌐 TypeScript | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/lobehub/lobe-chat?style=social"/> : 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application. [chat-preview.lobehub.com](https://chat-preview.lobehub.com/)
+  * [Lobe Chat](https://github.com/lobehub/lobe-chat) ⭐ 86,172 | 🐛 1,359 | 🌐 TypeScript | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/lobehub/lobe-chat?style=social"/> : 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application. [chat-preview.lobehub.com](https://chat-preview.lobehub.com/)
 
-  * [lencx/ChatGPT](https://github.com/lencx/ChatGPT) ⭐ 54,679 | 🐛 967 | 🌐 Rust | 📅 2024-08-29 <img src="https://img.shields.io/github/stars/lencx/ChatGPT?style=social"/> : 🔮 ChatGPT Desktop Application (Mac, Windows and Linux). [NoFWL](https://app.nofwl.com/).
+  * [lencx/ChatGPT](https://github.com/lencx/ChatGPT) ⭐ 54,686 | 🐛 967 | 🌐 Rust | 📅 2024-08-29 <img src="https://img.shields.io/github/stars/lencx/ChatGPT?style=social"/> : 🔮 ChatGPT Desktop Application (Mac, Windows and Linux). [NoFWL](https://app.nofwl.com/).
 
-  * [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) ⭐ 47,747 | 🐛 869 | 🌐 Python | 📅 2026-08-17 <img src="https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=social"/> : Text generation web UI. A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
+  * [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) ⭐ 47,751 | 🐛 869 | 🌐 Python | 📅 2026-08-17 <img src="https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=social"/> : Text generation web UI. A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
 
   * [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) ⭐ 33,310 | 🐛 245 | 🌐 TypeScript | 📅 2024-08-03 <img src="https://img.shields.io/github/stars/mckaywrigley/chatbot-ui?style=social"/> :An open source ChatGPT UI. [chatbotui.com](https://chatbotui.com/)
 
   * [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) ⭐ 17,792 | 🐛 173 | 🌐 Python | 📅 2024-08-12 <img src="https://img.shields.io/github/stars/Mikubill/sd-webui-controlnet?style=social"/> : ControlNet for Stable Diffusion WebUI. The WebUI extension for ControlNet and other injection-based SD controls.
 
-  * [sigoden/aichat](https://github.com/GaiZhenbiao/ChuanhuChatGPT) ⭐ 15,232 | 🐛 131 | 🌐 Python | 📅 2026-09-16 <img src="https://img.shields.io/github/stars/GaiZhenbiao/ChuanhuChatGPT?style=social"/> : GUI for ChatGPT API and any LLM. 川虎 Chat 🐯 Chuanhu Chat. 为ChatGPT/ChatGLM/LLaMA/StableLM/MOSS等多种LLM提供了一个轻快好用的Web图形界。
+  * [sigoden/aichat](https://github.com/GaiZhenbiao/ChuanhuChatGPT) ⭐ 15,233 | 🐛 131 | 🌐 Python | 📅 2026-09-16 <img src="https://img.shields.io/github/stars/GaiZhenbiao/ChuanhuChatGPT?style=social"/> : GUI for ChatGPT API and any LLM. 川虎 Chat 🐯 Chuanhu Chat. 为ChatGPT/ChatGLM/LLaMA/StableLM/MOSS等多种LLM提供了一个轻快好用的Web图形界。
 
   * [Chainlit](https://github.com/Chainlit/chainlit) ⚠️ Archived <img src="https://img.shields.io/github/stars/Chainlit/chainlit?style=social"/> : Build Python LLM apps in minutes ⚡️ Chainlit lets you create ChatGPT-like UIs on top of any Python code in minutes! [docs.chainlit.io](https://docs.chainlit.io/overview)
 
-  * [sigoden/aichat](https://github.com/sigoden/aichat) ⭐ 10,599 | 🐛 110 | 🌐 Rust | 📅 2026-02-23 <img src="https://img.shields.io/github/stars/sigoden/aichat?style=social"/> : Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
+  * [sigoden/aichat](https://github.com/sigoden/aichat) ⭐ 10,601 | 🐛 110 | 🌐 Rust | 📅 2026-02-23 <img src="https://img.shields.io/github/stars/sigoden/aichat?style=social"/> : Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
 
   * [AIdea](https://github.com/mylxsw/aidea) ⭐ 6,933 | 🐛 23 | 🌐 Dart | 📅 2026-03-04 <img src="https://img.shields.io/github/stars/mylxsw/aidea?style=social"/> : AIdea 是一款支持 GPT 以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
 
@@ -1246,13 +1246,13 @@
 
   * [Synaptrix/ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop) ⚠️ Archived <img src="https://img.shields.io/github/stars/Synaptrix/ChatGPT-Desktop?style=social"/> : Fuel your productivity with ChatGPT-Desktop - Blazingly fast and supercharged!
 
-  * [wieslawsoltes/ChatGPT](https://github.com/wieslawsoltes/ChatGPT) ⭐ 1,484 | 🐛 7 | 🌐 C# | 📅 2024-12-30 <img src="https://img.shields.io/github/stars/wieslawsoltes/ChatGPT?style=social"/> : A ChatGPT C# client for graphical user interface runs on MacOS, Windows, Linux, Android, iOS and Browser. Powered by [Avalonia UI](https://www.avaloniaui.net/) framework. [wieslawsoltes.github.io/ChatGPT/](https://wieslawsoltes.github.io/ChatGPT/)
+  * [wieslawsoltes/ChatGPT](https://github.com/wieslawsoltes/ChatGPT) ⭐ 1,483 | 🐛 7 | 🌐 C# | 📅 2024-12-30 <img src="https://img.shields.io/github/stars/wieslawsoltes/ChatGPT?style=social"/> : A ChatGPT C# client for graphical user interface runs on MacOS, Windows, Linux, Android, iOS and Browser. Powered by [Avalonia UI](https://www.avaloniaui.net/) framework. [wieslawsoltes.github.io/ChatGPT/](https://wieslawsoltes.github.io/ChatGPT/)
 
   * [HiveChat](https://github.com/HiveNexus/HiveChat) ⭐ 1,183 | 🐛 19 | 🌐 TypeScript | 📅 2025-09-16 <img src="https://img.shields.io/github/stars/HiveNexus/HiveChat?style=social"/> : An AI chat bot for small and medium-sized teams, supporting models such as Deepseek, Open AI, Claude, and Gemini. 专为中小团队设计的 AI 聊天应用，支持 Deepseek、Open AI、Claude、Gemini 等模型。
 
   * [m1guelpf/browser-agent](https://github.com/m1guelpf/browser-agent) ⭐ 717 | 🐛 4 | 🌐 Rust | 📅 2023-04-25 <img src="https://img.shields.io/github/stars/m1guelpf/browser-agent?style=social"/> : A browser AI agent, using GPT-4. [docs.rs/browser-agent](https://docs.rs/browser-agent/latest/browser_agent/)
 
-  * [SolidUI](https://github.com/CloudOrc/SolidUI) ⭐ 692 | 🐛 30 | 🌐 TypeScript | 📅 2024-01-27 <img src="https://img.shields.io/github/stars/CloudOrc/SolidUI?style=social"/> : AI-generated visualization prototyping and editing platform.
+  * [SolidUI](https://github.com/CloudOrc/SolidUI) ⭐ 693 | 🐛 30 | 🌐 TypeScript | 📅 2024-01-27 <img src="https://img.shields.io/github/stars/CloudOrc/SolidUI?style=social"/> : AI-generated visualization prototyping and editing platform.
 
   * [amrrs/chatgpt-clone](https://github.com/amrrs/chatgpt-clone) ⭐ 409 | 🐛 4 | 🌐 Python | 📅 2023-02-13 <img src="https://img.shields.io/github/stars/amrrs/chatgpt-clone?style=social"/> :  Build Yo'own ChatGPT with OpenAI API & Gradio.
 
@@ -1306,9 +1306,9 @@
 
   * #### Data Annotation
 
-    * [Label Studio](https://github.com/HumanSignal/label-studio) ⭐ 28,764 | 🐛 988 | 🌐 TypeScript | 📅 2026-11-25 <img src="https://img.shields.io/github/stars/HumanSignal/label-studio?style=social"/> : Label Studio is a multi-type data labeling and annotation tool with standardized output format. [labelstud.io](https://labelstud.io/)
+    * [Label Studio](https://github.com/HumanSignal/label-studio) ⭐ 28,769 | 🐛 988 | 🌐 TypeScript | 📅 2026-11-26 <img src="https://img.shields.io/github/stars/HumanSignal/label-studio?style=social"/> : Label Studio is a multi-type data labeling and annotation tool with standardized output format. [labelstud.io](https://labelstud.io/)
 
-    * [X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) ⭐ 11,027 | 🐛 18 | 🌐 Python | 📅 2026-11-18 <img src="https://img.shields.io/github/stars/CVHub520/X-AnyLabeling?style=social"/> : Effortless data labeling with AI support from Segment Anything and other awesome models.
+    * [X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) ⭐ 11,037 | 🐛 19 | 🌐 Python | 📅 2026-11-18 <img src="https://img.shields.io/github/stars/CVHub520/X-AnyLabeling?style=social"/> : Effortless data labeling with AI support from Segment Anything and other awesome models.
 
     * [AnyLabeling](https://github.com/vietanhdev/anylabeling) ⭐ 3,533 | 🐛 51 | 🌐 Python | 📅 2026-08-30 <img src="https://img.shields.io/github/stars/vietanhdev/anylabeling?style=social"/> : Effortless AI-assisted data labeling with AI support from YOLO, Segment Anything (SAM+SAM2), MobileSAM!! AnyLabeling = LabelImg + Labelme + Improved UI + Auto-labeling. [anylabeling.nrl.ai](https://anylabeling.nrl.ai/)
 
@@ -2763,9 +2763,9 @@
 
 ## Interview
 
-* [wdndev/llm\_interview\_note](https://github.com/wdndev/llm_interview_note) ⭐ 15,425 | 🐛 24 | 🌐 HTML | 📅 2026-06-14 <img src="https://img.shields.io/github/stars/wdndev/llm_interview_note?style=social"/> : 主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题。[LLMs 相关知识及面试题](https://wdndev.github.io/llm_interview_note/)
+* [wdndev/llm\_interview\_note](https://github.com/wdndev/llm_interview_note) ⭐ 15,426 | 🐛 24 | 🌐 HTML | 📅 2026-06-14 <img src="https://img.shields.io/github/stars/wdndev/llm_interview_note?style=social"/> : 主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题。[LLMs 相关知识及面试题](https://wdndev.github.io/llm_interview_note/)
 
-* [luhengshiwo/LLMForEverybody](https://github.com/luhengshiwo/LLMForEverybody) ⭐ 7,583 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-28 <img src="https://img.shields.io/github/stars/luhengshiwo/LLMForEverybody?style=social"/> : 每个人都能看懂的大模型知识分享，LLMs春/秋招大模型面试前必看，让你和面试官侃侃而谈。
+* [luhengshiwo/LLMForEverybody](https://github.com/luhengshiwo/LLMForEverybody) ⭐ 7,587 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-28 <img src="https://img.shields.io/github/stars/luhengshiwo/LLMForEverybody?style=social"/> : 每个人都能看懂的大模型知识分享，LLMs春/秋招大模型面试前必看，让你和面试官侃侃而谈。
 
 * [315386775/DeepLearing-Interview-Awesome-2024](https://github.com/315386775/DeepLearing-Interview-Awesome-2024) ⭐ 2,888 | 🐛 2 | 📅 2026-03-05 <img src="https://img.shields.io/github/stars/315386775/DeepLearing-Interview-Awesome-2024?style=social"/> : AIGC-interview/CV-interview/LLMs-interview面试问题与答案集合仓，同时包含工作和科研过程中的新想法、新问题、新资源与新项目。
 
@@ -2805,4 +2805,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
